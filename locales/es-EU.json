@@ -1,0 +1,1097 @@
+{
+	"General": {
+		"Regions": {
+			"United Kingdom": "United Kingdom",
+			"Europe": "Europe",
+			"Spain": "Spain",
+			"Italy": "Italy",
+			"France": "France",
+			"Bulgaria": "Bulgaria",
+			"Lebanon": "Lebanon"
+		},
+		"Languages": {
+			"English": "English",
+			"Spanish": "Spanish",
+			"Italian": "Italian",
+			"French": "French",
+			"Bulgarian": "Bulgarian"
+		},
+		"Links": {
+			"Homepage": "Homepage",
+			"Company": "Company",
+			"Why MyMonty": "Why MyMonty",
+			"Who We Are": "Who We Are",
+			"Careers": "Careers",
+			"Code of Conduct": "Code of Conduct",
+			"News": "News",
+			"Blogs": "Blogs",
+			"Board of Directors": "Board of Directors",
+			"FAQs": "FAQs",
+			"Features": "Features",
+			"Accounts": "Accounts",
+			"Cards": "Cards",
+			"Transfers": "Transfers",
+			"Payments": "Payments",
+			"Plans": "Plans",
+			"Contact Us": "Contact Us",
+			"Terms & Conditions": "Terms & Conditions",
+			"Privacy Policy": "Privacy Policy",
+			"Paynetics Terms & Conditions": "Paynetics Terms & Conditions",
+			"Paynetics Privacy Policy": "Paynetics Privacy Policy",
+			"Cookie Policy": "Cookie Policy",
+			"Cookie Settings": "Cookie Settings"
+		},
+		"Alts": {
+			"Logo": "MyMonty Logo",
+			"Chevron Up Gray": "Chevron Up Gray",
+			"Chevron Down Black": "Chevron Down Black",
+			"Chevron Down White": "Chevron Down White",
+			"Chevron Right Primary": "Chevron Right Primary",
+			"Check Box White": "Check Box White",
+			"Check Box Black": "Check Box Black",
+			"Receipt Check Box Primary": "Receipt Check Box Primary",
+			"Chat Box Primary": "Chat Box Primary",
+			"Telephone White": "Telephone White",
+			"Marker Pin White": "Marker Pin White",
+			"Monty Mobile Gray": "Monty Mobile Gray",
+			"Telephone Box Blue": "Telephone Box Blue",
+			"Close Red": "Close Red",
+			"Chevron Right Box Gray": "Chevron Right Box Gray",
+			"Chevron Left Box Black": "Chevron Left Box Black",
+			"Phone Box Blue": "Phone Box Blue",
+			"Search Gray": "Search Gray",
+			"Qr Code": "Qr Code",
+			"Check Box Primary": "Check Box Primary",
+			"Apple Store": "Apple Store",
+			"Google Play": "Google Play"
+		},
+		"Buttons": {
+			"Download App": "Download App",
+			"Learn More": "Learn More",
+			"Get Started": "Get Started",
+			"Subscribe": "Subscribe",
+			"Contact Us": "Contact Us",
+			"Accounts": "Accounts",
+			"Transfers": "Transfers",
+			"Cards": "Cards",
+			"Payments": "Payments",
+			"View All Features": "View All Features",
+			"View all plans": "View all plans",
+			"Submit": "Submit",
+			"Choose Plan": "Choose Plan",
+			"Coming Soon": "Coming Soon",
+			"Read More": "Read More",
+			"View More": "View More",
+			"Back To News": "Back to news",
+			"Back To Blogs": "Back to blogs",
+			"Visit The Homepage": "Visit the homepage"
+		},
+		"Labels": {
+			"Full Name": "Full Name",
+			"Email Address": "Email Address",
+			"Company Name": "Company Name",
+			"Position": "Position",
+			"Profession": "Profession",
+			"Mobile Number": "Mobile Number",
+			"Subject": "Subject",
+			"Message": "Your Message",
+			"Country": "Country",
+			"Upload your CV": "Upload your CV",
+			"Click to Upload": "Click to Upload",
+			"Files Accepted": "Files Accepted",
+			"Maximum file size": "Maximum file size",
+			"Uploaded File": "Uploaded File",
+			"File Size": "File Size",
+			"Acknowlegment": {
+				"Part 1": "By checking this box, you confirm that you've read and accepted our",
+				"Part 2": "for our website"
+			},
+			"Select": "Select",
+			"Optional": "Optional"
+		},
+		"Placeholders": {
+			"Email": "Enter Your Email",
+			"Full Name": "Full Name",
+			"Email Address": "Email Address",
+			"Company Name": "Company Name",
+			"Position": "Position",
+			"Profession": "Profession",
+			"Mobile Number": "Mobile Number",
+			"Subject": "Subject",
+			"Message": "Your Message",
+			"Search": "Search"
+		},
+		"Messages": {
+			"Errors": {
+				"Required": {
+					"Full Name": "Please enter your full name",
+					"Email": "Please enter your email address",
+					"Position": "Please choose your position",
+					"Code": "Please choose your country code",
+					"Mobile Number": "Please enter your mobile number",
+					"Country": "Please choose your country",
+					"Profession": "Please enter your profession",
+					"Subject": "Please enter your subject",
+					"Message": "Please enter your message",
+					"File": "Please upload at least one valid file"
+				},
+				"Safe": "Your input has invalid value",
+				"Valid Email": "Please enter a valid email address",
+				"Valid Code": "Please enter a valid country code",
+				"Unique Email": "This email address is already subscribed.",
+				"Numeric": "Please enter a valid numeric phone number",
+				"Length": "Please enter a valid phone number between 5 and 12 characters",
+				"File Type": "Invalid file type. Allowed types: pdf, doc, docx, jpg, jpeg, png",
+				"File Max Size": "File size exceeds the limit of 5MB",
+				"Upload Up To": "You can only upload up to",
+				"Files": "files",
+				"You can only upload": "You can only upload",
+				"More Files": "more files",
+				"Confirm Policies": "Please confirm that you've read and accepted our Privacy Policy, Cookie Policy, and Terms & Conditions",
+				"Upload Valid File": "Please upload at least one valid file.",
+				"Validation Failed": "Please ensure all required fields are correctly filled and try submitting again.",
+				"Api Response Validation Failed": "Error in submitting your message. Please try again later",
+				"Api Failed": "Error in submitting your message. Please try again later"
+			},
+			"Success": {
+				"Newsletter": "Thank you for subscribing.",
+				"Career": "Thank you for your message, our team will be in touch with you the soonest."
+			}
+		},
+		"Download": {
+			"Title": "Download the app now",
+			"Description": "Sign up and explore our endless benefits",
+			"Scan Qr": "Scan the QR to <br /> download the app"
+		},
+		"And": "and"
+	},
+	"Pages": {
+		"Homepage": {
+			"Banner": {
+				"Title": "Pago digital <br /> sencillo y <br /> sin complicaciones",
+				"Description": "Te facilitamos soluciones financieras a tu medida.",
+				"Image Alt": "Pago digital sencillo y sin complicaciones"
+			},
+			"Section 2": {
+				"Title": "Acompáñanos en esta aventura",
+				"Description": "We understand the importance of a smooth and efficient onboarding process. That’s why we’ve developed a comprehensive digital onboarding program designed to get you up to speed quickly and comfortably."
+			},
+			"Section 3": {
+				"Title": "Cubrimos tus espaldas",
+				"Description": "Envía, recibe y solicita dinero en caulquier momento y lugar",
+				"Image Alt": "Acompáñanos en esta aventura"
+			},
+			"Section 4": {
+				"Image Alt": "Gestiona tu dinero",
+				"Title": "Gestiona tu dinero",
+				"List Items": {
+					"Item 1": "Ahorra y controla tus pagos",
+					"Item 2": "Transferencias bancarias dentro de la zona SEPA",
+					"Item 3": "Transferencias P2P a todo el mundo"
+				}
+			},
+			"Section 5": {
+				"Title": "Solicita dinero de manera sencilla",
+				"Description": "Se acabaron las complicaciones, envía un enlace y recibe el pago de manera rápida y sencilla de cualquier persona y desde cualquier parte del mundo.",
+				"Image Alt": "Request Money With Ease"
+			},
+			"Section 6": {
+				"Title": "Estarás protegido",
+				"List Items": {
+					"Item 1": "Protección biométrica",
+					"Item 2": "Cuenta a salvo de piratas informáticos",
+					"Item 3": "No se necesita contraseña"
+				},
+				"Image Alt": "Estarás protegido"
+			},
+			"Section 7": {
+				"Title": "Es hora de pasar al mundo digital",
+				"Description": "Gestiona tus finanzas de manera sencilla con nuestra aplicación móvil intuitiva. MyMonty pone a tu disposición una interfaz fácil de usar y adaptada a tus necesidades para gestionar tus cuentas, hacer transferencias y planificar los presupuestos. Elige entre EUR o GBP para hacer transacciones sin contratiempos en la divisa que prefieras.",
+				"Image Alt": "Es hora de pasar al mundo digital"
+			},
+			"Section 8": {
+				"Title": "Get a look at our revolutionary features",
+				"Features": [
+					{
+						"Title": "Pagos sin contacto simplificados",
+						"Description": "Disfruta de la comodidad de los pagos sin contacto gracias a la integración de MyMonty EEA/UK con Google Pay. Compra de forma rápida y segura en tiendas, en línea y en terminales de pago.",
+						"Image Alt": "Pagos sin contacto simplificados"
+					},
+					{
+						"Title": "Soporte durante todo el día",
+						"Description": "Confía en MyMonty para recibir un excelente soporte al cliente. Nuestro equipo especializado está disponible durante el horario comercial, y nuestro bot integrado en la aplicación ofrece asistencia 24 horas al día, 7 días a la semana. Si tienes preguntas o necesitas ayuda estaremos aquí para que puedas tener una buena experiencia.",
+						"Image Alt": "Soporte durante todo el día"
+					}
+				]
+			},
+			"Section 9": {
+				"Title": "Choose your plan",
+				"Description": "We've got you covered with plans tailored to your needs. Just pick the one that suits you best or compare plans.",
+				"Plans": [
+					{
+						"Title": "Starter",
+						"Description": "Looking to start that journey to financial freedom? <br /> Get our Starter plan and enjoy true freedom with low in-store fees and a virtual/physical card.",
+						"Button Label": "Free"
+					},
+					{
+						"Title": "Plus",
+						"Description": "If you're looking for true value, try our Classic plan with zero card fees, zero monthly charges and more.",
+						"Status": "Not Available Yet",
+						"Button Label": "COMING SOON"
+					},
+					{
+						"Title": "Premium",
+						"Description": "Step up to a truly global level. Enjoy multi-currency features and added value such as investment, health and much more.",
+						"Status": "Not Available Yet",
+						"Button Label": "COMING SOON"
+					}
+				]
+			},
+			"Seo": {
+				"Title": "Innovative Financial Solutions",
+				"Description": "Send, receive & request money anytime anywhere. Transfer money globally. Easily manage your money. Biometric protection",
+				"Og Title": "Innovative Financial Solutions",
+				"Og Description": "Send, receive & request money anytime anywhere. Transfer money globally. Easily manage your money. Biometric protection",
+				"Twitter Title": "Innovative Financial Solutions",
+				"Twitter Description": "Send, receive & request money anytime anywhere. Transfer money globally. Easily manage your money. Biometric protection"
+			}
+		},
+		"Why MyMonty": {
+			"Banner": {
+				"Sub Title": "¿Por qué MyMonty?",
+				"Title": "See what sets us apart",
+				"Description": "En MyMonty™, creemos que los servicios bancarios básicos son un derecho universal. Te ofrecemos una forma sencilla y transparente de enviar, recibir o solicitar dinero, sin comisiones ocultas.",
+				"Image Alt": "See what sets us apart"
+			},
+			"Section 2": {
+				"Cards": [
+					{
+						"Title": "Acceso instantáneo",
+						"Description": "¡Únete a MyMonty™ en un abrir y cerrar de ojos! Nuestro proceso de registro simplificado te proporciona rápidamente un Número de Cuenta Bancaria Internacional (IBAN) después de un proceso de verificación rápido y sencillo.",
+						"Image Alt": "Acceso instantáneo"
+					},
+					{
+						"Title": "Pagos recurrentes",
+						"Description": "¡Otra ventaja más! Ya no tendrás que preocuparte por los pagos recurrentes, podrás configurarlos para que se ejecuten de manera recurrente. Disfruta de la tranquilidad de saber que gestionamos tus facturas de servicios de manera puntual y de este modo garantizamos que nunca se te pase un plazo.",
+						"Image Alt": "Pagos recurrentes"
+					},
+					{
+						"Title": "Sin comisiones ocultas",
+						"Description": "Envía, recibe y solicita pagos a nivel internacional sin comisiones ocultas, solo transparencia.",
+						"Image Alt": "Sin comisiones ocultas"
+					},
+					{
+						"Title": "Estamos a tu disposición",
+						"Description": "Contacta con nuestro equipo de atención al cliente de lunes a viernes, de 9:00 a 17:00 horas (EEST). Estamos a tu disposición para ayudarte a resolver cualquier problema o pregunta que puedas tener.",
+						"Image Alt": "Estamos a tu disposición"
+					},
+					{
+						"Title": "Seguridad de alto nivel",
+						"Description": "¡No tendrás que recordar contraseñas! Utiliza la protección biométrica sin contraseñas para proteger tu cuenta de ataques de piratas informáticos. Bloque las transacciones de forma segura con solo tu cara.",
+						"Image Alt": "Seguridad de alto nivel"
+					}
+				]
+			},
+			"Seo": {
+				"Title": "Banking Services and Features",
+				"Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
+				"Og Title": "Banking Services and Features",
+				"Og Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
+				"Twitter Title": "Banking Services and Features",
+				"Twitter Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support."
+			}
+		},
+		"Who We Are": {
+			"Banner": {
+				"Sub Title": "Quiénes somos",
+				"Title": "One app for all things money",
+				"Description": "Manage your money effortlessly from the comfort of one single intuitive app.",
+				"Image Alt": "One app for all things money"
+			},
+			"Section 2": {
+				"Title": "Quiénes somos",
+				"Description": "El objetivo de MyMonty EEA/UK es simplificar los procesos financieros. Nuestra plataforma digital ofrece servicios financieros innovadores y fáciles de usar para personas de todo el Espacio Económico Europeo (EEE) y el Reino Unido. Nos esforzamos por hacer que la banca sea fácil, segura y accesible para todos, especialmente para aquellas personas que no tengan acceso a servicios bancarios, los subatendidos y los jóvenes, para que puedan disfrutar de soluciones financieras personalizadas.",
+				"Cards": [
+					{
+						"Title": "Esto es el futuro",
+						"Description": "Los servicios bancarios y financieros básicos ya no son un lujo, sino una necesidad en el mundo digital actual.",
+						"Image Alt": "Esto es el futuro"
+					}
+				]
+			},
+			"Section 3": {
+				"Title": "Igualdad de oportunidades para todos",
+				"Description": "En MyMonty, creemos en la igualdad de oportunidades. Ya seas un experto en tecnología, una persona desatendida o una persona que se acaba de iniciar en el mundo de los servicios financieros, estamos aquí para ayudarte.",
+				"Image Alt": "Igualdad de oportunidades para todos"
+			},
+			"Section 4": {
+				"Title": "Todo digital",
+				"Description": "Nuestras operaciones se basan en la tecnología digital. Con MyMonty, puedes enviar, recibir y solicitar dinero con un solo toque. Vive la experiencia de la comodidad de las transacciones sin contacto y sumérgete en un futuro financiero digital sin complicaciones.",
+				"Image Alt": "Todo digital"
+			},
+			"Section 5": {
+				"Title": "Nuestra cultura: construimos a partir de la diversidad",
+				"Description": "En MyMonty, nuestra fortaleza radica en nuestro equipo dedicado, ágil y diverso. Juntos, estamos comprometidos con superar límites en la innovación digital, garantizándote la transición hacia un futuro más sencillo y conectado.",
+				"Image Alt": "Nuestra cultura: construimos a partir de la diversidad"
+			},
+			"Section 6": {
+				"Title": "Nuestras oficinas",
+				"Description": "En MyMonty, nuestra fortaleza radica en nuestro equipo dedicado, ágil y diverso. Juntos, estamos comprometidos con superar límites en la innovación digital, garantizándote la transición hacia un futuro más sencillo y conectado.",
+				"Cards": [
+					{
+						"Location": "Reino Unido",
+						"Address": "Beaumont Bridge House, 181 Queen Victoria Street, London EC4V 4EG"
+					},
+					{
+						"Location": "Emiratos Árabes Unidos",
+						"Address": "Unit 30, floor 20, Central Park Tower DIFC 74777 Dubai"
+					}
+				]
+			},
+			"Seo": {
+				"Title": "Who we are - Our Mission and Values",
+				"Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Og Title": "Who we are - Our Mission and Values",
+				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Twitter Title": "Who we are - Our Mission and Values",
+				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
+			}
+		},
+		"Plans": {
+			"Banner": {
+				"Sub Title": "Plans",
+				"Title": "Choose Your Plan",
+				"Description": "We've got you covered with plans tailored to your needs. Just pick the one that suits you best or compare plans.",
+				"Image Alt": "Choose Your Plan"
+			},
+			"Section 2": [
+				{
+					"Category": "Starter",
+					"Price": "Free",
+					"Description": "Enjoy true freedom with low in store fees and a virtual/physical card.",
+					"Layout": "full",
+					"Features": [
+						"Dedicated free Euro/GBP IBAN",
+						"0,2 EUR on faster payments",
+						"Free peer to peer transfers",
+						"2 EUR physical card replacement fee.",
+						"No monthly fee",
+						"Free ATM balance enquiry or pin change",
+						"Free MyMonty virtual Mastercard",
+						"2% on currency exchange + a minimum fee of 2 EUR",
+						"5 EUR physical card printing and delivery in Europe & the UK.",
+						"1.5% on card top up, instant top up",
+						"1 EUR inactive fee when wallet is loaded and no transactions made over period of 6 months",
+						"0,15 EUR on SEPA transfer",
+						"1.5% on ATM withdrawal in EUR subject to a minimum fee of 1 EUR"
+					],
+					"Button Text": "Choose Plan"
+				},
+				{
+					"Category": "Plus",
+					"Price": "All features included in STARTER Plan",
+					"Description": "If you're looking for a true value plan with zero card fees, zero monthly charges and more.",
+					"Layout": "half",
+					"Features": [
+						"Free contactless physical card",
+						"Priority customer support",
+						"1 fee free SEPA transfer",
+						"25 fee free POS transactions",
+						"1 fee free account top up per month"
+					],
+					"Button Text": "Coming Soon"
+				},
+				{
+					"Category": "Premium",
+					"Price": "All features included in PLUS Plan",
+					"Description": "If you're looking for a true value plan with zero card fees, zero monthly charges and more.",
+					"Layout": "half",
+					"Features": [
+						"Multicurrency accounts",
+						"Contactless metal debit card",
+						"Investment accounts",
+						"Health insurance",
+						"Joint accounts"
+					],
+					"Button Text": "Coming Soon"
+				}
+			],
+			"Seo": {
+				"Title": "Plans - Compare and Choose",
+				"Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security",
+				"Og Title": "Plans - Compare and Choose",
+				"Og Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security",
+				"Twitter Title": "Plans - Compare and Choose",
+				"Twitter Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security"
+			}
+		},
+		"News": {
+			"Banner": {
+				"Sub Title": "News",
+				"Title": "¿Qué está pasando en MyMonty?",
+				"Description": "¡Descubre las últimas novedades y ofertas en nuestros blogs!",
+				"Image Alt": "¿Qué está pasando en MyMonty?"
+			},
+			"Seo": {
+				"Title": "Latest News and Trends",
+				"Description": "Stay updated with the latest news from My Monty by discovering our innovations and industry insights. Read our news updates today!",
+				"Og Title": "Latest News and Trends",
+				"Og Description": "Stay updated with the latest news from My Monty by discovering our innovations and industry insights. Read our news updates today!",
+				"Twitter Title": "Latest News and Trends",
+				"Twitter Description": "Stay updated with the latest news from My Monty by discovering our innovations and industry insights. Read our news updates today!"
+			}
+		},
+		"Features": {
+			"Banner": {
+				"Sub Title": "Features",
+				"Title": "Unlock the best of what we offer",
+				"Description": "Enjoy our outstanding features and stand out from the crowd",
+				"Image Alt": "Unlock the best of what we offer"
+			},
+			"Section 2": {
+				"Title": "Features",
+				"Description": "Experience the convenience of features tailored just for you"
+			},
+			"Section 3": [
+				{
+					"Category": "Cuentas",
+					"Path": "accounts",
+					"Cards": [
+						{
+							"Title": "Cuenta de la cartera",
+							"Path": "wallet-account",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Disfruta de una banca cómoda, con la cuenta de la cartera digital de MyMonty Europe.</span>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Disfruta de una banca cómoda, con la cuenta de la cartera digital de MyMonty Europe.</h3></div><p>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.<br />Disfruta de la flexibilidad de nuestra cuenta de la cartera en una única moneda, disponible en EUR o GBP, y haz transferencias rápidas y seguras con nuestras soluciones de pago sin contacto a través de Google Pay o Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Recarga con tarjeta</h3></div><p>Recarga fácilmente tu cartera MyMonty guardando tus tarjetas Mastercard o Visa de forma segura. Disfruta de acceso inmediato a tus fondos con cada recarga. Las tarifas de este servicio pueden configurarse en función de tu plan de precios personalizado, lo que garantiza una flexibilidad y comodidad adaptadas a tus necesidades.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Recarga con solicitud P2P</h3></div><p>Solicita dinero fácilmente a amigos o familiares y recarga tu saldo al instante con tan solo unos toques.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Recarga mediante transferencia SEPA</h3></div><p>Añade fondos a tu cuenta de forma segura y práctica con una transferencia bancaria SEPA.</p></div>",
+							"Icon": "wallet-account",
+							"Image": "wallet-account"
+						}
+					]
+				},
+				{
+					"Category": "Tarjetas",
+					"Path": "cards",
+					"Cards": [
+						{
+							"Title": "Tarjetas virtuales",
+							"Path": "virtual-cards",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Gestión total con las tarjetas virtuales de MyMonty</span>Con la cartera de emisión de MyMonty, gestionar tus finanzas es más fácil que nunca. Emite tarjetas virtuales directamente desde nuestra interfaz de usuario. Solo tienes que acceder a la sección de Tarjetas y seleccionar la opción de emitir una tarjeta virtual, que estará lista al instante para que puedas usarla.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Gestión total con las tarjetas virtuales de MyMonty</h3></div><p>Con la cartera de emisión de MyMonty, gestionar tus finanzas es más fácil que nunca. Emite tarjetas virtuales directamente desde nuestra interfaz de usuario. Solo tienes que acceder a la sección de Tarjetas y seleccionar la opción de emitir una tarjeta virtual, que estará lista al instante para que puedas usarla.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Una vez emitida, podrás</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Ver los detalles de la tarjeta tras autenticarte y pulsar en “Ver detalles“.</h4><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Congelar la tarjeta.</h4><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Eliminar la tarjeta (solo si la congelas primero).</h4><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Añadir la tarjeta a Apple o Google Pay.</h4></ul></div><div class='flex flex-col gap-4'><p>Si decides eliminar una tarjeta virtual, podrás solicitar una tarjeta nueva cuando lo necesites. Para que no se te pase la fecha de caducidad, recibirás una notificación push cuando la tarjeta esté a punto de caducar. Podrás renovarla fácilmente si navegas hasta la página de la tarjeta y haces clic en el botón de “Renovar“.</p><p>Disfruta de la comodidad y seguridad de las tarjetas virtuales de MyMonty que han sido pensadas para ofrecerte el control total de tus transacciones digitales.</p></div>",
+							"Icon": "virtual-cards",
+							"Image": "virtual-cards"
+						},
+						{
+							"Title": "Tarjetas físicas",
+							"Path": "physical-cards",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Emite y gestiona tus tarjetas físicas de forma sencilla</span>Para los usuarios de la cartera de emisión, solicitar tarjetas físicas es tan fácil como solicitar tarjetas virtuales. Accede a la pestaña “Tarjeta física“ dentro de la sección “Tarjetas“ (deberás haber completado primero el proceso KYC y deberás tener saldo suficiente), y luego pulsa en “Solicitar tarjeta“",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Emite y gestiona tus tarjetas físicas de forma sencilla</h3></div><p>Para los usuarios de la cartera de emisión, solicitar tarjetas físicas es tan fácil como solicitar tarjetas virtuales. Accede a la pestaña “Tarjeta física“ dentro de la sección “Tarjetas“ (deberás haber completado primero el proceso KYC y deberás tener saldo suficiente), y luego pulsa en “Solicitar tarjeta“. Introduce tus datos de entrega y configura tu PIN en unos sencillos pasos.</p><p>Podrás tener una tarjeta física y una virtual a la vez. Cuando se confirme tu solicitud, te enviaremos la tarjeta. Una vez recibida, actívala fácilmente desde la aplicación.</div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Con la tarjeta física activada, podrás:</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Consultar los detalles de la tarjeta y el PIN tras autenticarte.</h4><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Congelar o eliminar la tarjeta.</h4><li class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h4>Añadirla a Apple o Google Pay (si está habilitado).</h4></ul></div><div class='flex flex-col gap-4'><p>Si eliminas la tarjeta física, puedes volver a pedirla; las tarifas se deducirán automáticamente. La tarjeta se enviará a través del correo postal ordinario sin número de seguimiento. Al acercarse la fecha de caducidad, recibirás una notificación push y podrás renovar la tarjeta si repites el mismo proceso de solicitud. Se aplican tarifas de envío.</p></div>",
+							"Icon": "physical-cards",
+							"Image": "physical-cards"
+						}
+					]
+				},
+				{
+					"Category": "Transferencias",
+					"Path": "transfers",
+					"Cards": [
+						{
+							"Title": "Transferencias bancarias: SEPA",
+							"Path": "wire-transfer-sepa",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Recibe transferencias bancarias de manera sencilla</span>Regístrate y obtén un IBAN único para recibir transferencias bancarias fácilmente. MyMonty admite transferencias SEPA en euros (Zona Única de Pagos en Euros) y transferencias entrantes BISERA en levas búlgaras, lo que garantiza que puedas disfrutar de una experiencia cómoda y segura.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Recibe transferencias bancarias de manera sencilla</h3></div><p>Regístrate y obtén un IBAN único para recibir transferencias bancarias fácilmente. MyMonty admite transferencias SEPA en euros (Zona Única de Pagos en Euros) y transferencias entrantes BISERA en levas búlgaras, lo que garantiza que puedas disfrutar de una experiencia cómoda y segura.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Envía transferencias bancarias</h3></div><p>Haz transferencias bancarias a destinatarios que operen en la misma divisa de forma sencilla. Personaliza las comisiones de las transferencias IBAN en función del plan que hayas seleccionado. Guarda los datos del destinatario (nombre, IBAN y alias) para hacer transferencias más rápidamente en el futuro. MyMonty admite transferencias salientes SEPA en euros, BISERA en levas búlgaras y libras esterlinas a través de Faster Payments para conseguir transacciones más eficientes.</p></div>",
+							"Icon": "wire-transfers-sepa",
+							"Image": "wire-transfers-sepa"
+						},
+						{
+							"Title": "Transferencias P2P",
+							"Path": "peer-to-peer-transfers",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Transferencias P2P instantáneas</span>Transfiere fondos al instante a otros usuarios de MyMonty. Si el destinatario no tiene cuenta, recibirá una invitación por SMS. Una vez registrado y completado el proceso de verificación KYC, la transferencia se procesará y se abonará en su cuenta.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Transferencias P2P instantáneas</h3></div><p>Transfiere fondos al instante a otros usuarios de MyMonty. Si el destinatario no tiene cuenta, recibirá una invitación por SMS. Una vez registrado y completado el proceso de verificación KYC, la transferencia se procesará y se abonará en su cuenta. Las transferencias P2P caducan a los tres días si no se completan.<br />También puedes realizar transferencias P2P entre MyMonty y otros colaboradores de Paynetics, como Phyre, A1 Wallet, Pay by Vivacom y BACB Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Envía dinero al instante</h3></div><p>Envía dinero a familiares y amigos dentro de MyMonty de forma rápida y sencilla. Si el destinatario no está registrado, recibirá una invitación por SMS para registrarse en MyMonty. Las transferencias se completan de inmediato una vez que se ha completado el registro y el proceso de verificación KYC.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Recibe dinero cómodamente</h3></div><p>Empieza a recibir dinero con tu IBAN único al instante. MyMonty admite transferencias SEPA en euros y BISERA en levas búlgaras para que disfrutes de una experiencia cómoda y segura. Los fondos se abonan de manera instantánea en tu cuenta.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img alt='Box Empty'height=18 src=/images/icons/box-empty.svg width=18><h3>Solicita dinero fácilmente</h3></div><p>Pide dinero a cualquier contacto de tu aplicación MyMonty. Los usuarios que no estén registrados recibirán una invitación por SMS. Después de registrarse y completar el proceso de verificación KYC, podrán enviarte el importe solicitado al instante. Las solicitudes caducan a los tres días si no se completan.</p></div>",
+							"Icon": "peer-to-peer-transfers",
+							"Image": "peer-to-peer-transfers"
+						}
+					]
+				},
+				{
+					"Category": "Pagos",
+					"Path": "payments",
+					"Cards": [
+						{
+							"Title": "Google Pay",
+							"Path": "google-pay",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Pagos simplificados desde dispositivos móviles</span>Disfruta de transacciones sin complicaciones con MyMonty a través de Google Pay. Paga de manera segura y cómoda en tiendas, en Internet y desde cualquier lugar.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Pagos simplificados desde dispositivos móviles</h3></div><p>Disfruta de transacciones sin complicaciones con MyMonty a través de Google Pay. Paga de manera segura y cómoda en tiendas, en Internet y desde cualquier lugar.</p></div>",
+							"Icon": "google-pay",
+							"Image": "google-pay"
+						},
+						{
+							"Title": "Pagos P2P con código QR",
+							"Path": "qr-p2p-payments",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Haz transacciones instantáneas: solo escanea y paga</span>Aprovecha el poder de los pagos con QR para transacciones rápidas y sencillas entre usuarios. Solo tienes que escanear, introducir el importe y autorizar la transacción en segundos.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Haz transacciones instantáneas: solo escanea y paga</h3></div><p>Aprovecha el poder de los pagos con QR para transacciones rápidas y sencillas entre usuarios. Solo tienes que escanear, introducir el importe y autorizar la transacción en segundos.</p></div>",
+							"Icon": "qr-p2p-payments",
+							"Image": "qr-p2p-payments"
+						},
+						{
+							"Title": "Enlace de pago",
+							"Path": "payment-link",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Transacciones rápidas y a tu alcance</span>Solicita o recibe pagos con la función de enlace de pago de MyMonty. Comparte enlaces de pago personalizados para realizar transacciones cómodas en cualquier momento y lugar.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Transacciones rápidas y a tu alcance</h3></div><p>Solicita o recibe pagos con la función de enlace de pago de MyMonty. Comparte enlaces de pago personalizados para realizar transacciones cómodas en cualquier momento y lugar.</p></div>",
+							"Icon": "payment-link",
+							"Image": "payment-link"
+						}
+					]
+				}
+			],
+			"Seo": {
+				"Title": "Features",
+				"Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
+				"Og Title": "Features",
+				"Og Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
+				"Twitter Title": "Features",
+				"Twitter Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd."
+			}
+		},
+		"Frequently Asked Questions": {
+			"Banner": {
+				"Sub Title": "FAQ",
+				"Title": "Frequently asked questions",
+				"Description": "Our team is always ready to assist you or answer your inquiries. Fill out this form to reach us.",
+				"Image Alt": "Frequently asked questions"
+			},
+			"Section 2": {
+				"Topic Heading": "Topic",
+				"Question Not Found": "No matching questions found",
+				"Faqs": [
+					{
+						"Topic": "Abrir cuenta",
+						"Cards": [
+							{
+								"Question": "¿Cómo utilizar MyMonty en un dispositivo nuevo?",
+								"Answer": "Al intentar iniciar sesión en un dispositivo nuevo, se enviará una OTP (Contraseña de un solo uso) al móvil asociado con el número de teléfono registrado. Una vez introducida correctamente la OTP, introduce tu PIN para completar el inicio de sesión. También recibirás un correo electrónico de confirmación en la dirección registrada."
+							},
+							{
+								"Question": "¿Cuáles son los beneficios del plan Principiante?",
+								"Answer": "Consulta nuestra página de planes para conocer todos los detalles. El plan Principiante incluye:<br /><ul><li>IBAN individual en euros</li><li>Tarjeta de débito virtual MyMonty</li><li>Tarjeta física sin contacto MyMonty</li><li>uridad y privacidad de datos avanzados</li><li>Servicio de atención al cliente</li><li>Transferencias de dinero P2P</li><li>Retiradas de efectivo en cajeros automáticos internacionales</li></ul>"
+							},
+							{
+								"Question": "¿Cuáles son los planes disponibles en MyMonty?",
+								"Answer": "Actualmente, ofrecemos una cuenta Principiante gratuita que proporciona todas las funciones básicas para que disfrutes de una experiencia cómoda con MyMonty."
+							},
+							{
+								"Question": "¿Dónde encontrar los detalles de tu IBAN?",
+								"Answer": "Para conocer tu IBAN, dirígete a “Perfil“, toca tu nombre y selecciona la opción “IBAN personal“."
+							},
+							{
+								"Question": "¿Están asegurados mis depósitos en MyMonty?",
+								"Answer": "Sí, cada depósito en tu IBAN está asegurado por el FSCS hasta un máximo de 100 000 €."
+							},
+							{
+								"Question": "¿Qué es un IBAN?",
+								"Answer": "Un IBAN es un código único que identifica una cuenta bancaria específica para realizar pagos internacionales. Conocer el IBAN del beneficiario garantiza que tus transferencias internacionales lleguen de manera segura."
+							},
+							{
+								"Question": "¿Por qué es necesario conectar mi correo electrónico?",
+								"Answer": "Conectar tu correo electrónico añade una capa extra de seguridad a tu cuenta. Recibirás una OTP en el correo electrónico proporcionado. Introduce esta OTP en el campo correspondiente y selecciona “Verificar“."
+							},
+							{
+								"Question": "¿En qué países se puede abrir una cuenta con MyMonty?",
+								"Answer": "Actualmente ofrecemos nuestros servicios dentro del Espacio Económico Europeo (EEE).<br />El EEE incluye: Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden."
+							},
+							{
+								"Question": "¿Cuánto tiempo tarda el proceso de verificación KYC?",
+								"Answer": "Revisaremos tu solicitud en el momento que recibamos la documentación relacionada con la verificación KYC. Ten en cuenta que la verificación puede tardar hasta 3 horas en un día laboral."
+							},
+							{
+								"Question": "¿Cómo hacemos el proceso de verificación KYC en MyMonty?",
+								"Answer": "Cuando subas tus documentos de verificación, se realizará una prueba para verificar que eres un usuario real. Después, sonríe y tómate una foto. Por último, solo queda confirmar tu dirección. Sube una factura de servicios que tengas en casa, y que se haya emitido en los últimos 3 meses."
+							},
+							{
+								"Question": "¿Qué significan las siglas KYC?",
+								"Answer": "KYC, o “Conoce a tu cliente“, es una práctica estándar para verificar la identidad de los usuarios y cumplir con las normativas legales. Hoy en día, en el mundo digitalizado en el que vivimos, el KYC es esencial para evitar fraudes en Internet y cumplir con los estándares financieros internacionales."
+							},
+							{
+								"Question": "¿Qué documentos necesito para registrarme?",
+								"Answer": "Para registrarte en nuestra plataforma, sube uno de estos documentos oficiales para que podamos llevar a cabo la verificación KYC/AML:<br /><ul><li>Pasaporte</li><li>Carnet de conducir</li><li>Documento de identidad</li><li>Prueba de domicilio (puede ser una factura de servicios)</li></ul>"
+							},
+							{
+								"Question": "¿Cómo crear una cuenta en MyMonty?",
+								"Answer": "Sigue estos pasos para abrir tu cuenta:<br /><ul><li>Descarga la aplicación de MyMonty desde la Apple Store o Google Play, o accede a través de nuestra web. (El enlace no funciona)</li><li>Introduce tu número de teléfono.</li><li>Introduce el código de 6 dígitos que has recibido por SMS en tu dispositivo móvil.</li><li>Sigue las instrucciones para verificar tu identidad.</li></ul>"
+							}
+						]
+					},
+					{
+						"Topic": "Instrumentos de pago",
+						"Cards": [
+							{
+								"Question": "¿Por qué tengo que verificar el pago cuando envío dinero?",
+								"Answer": "La verificación garantiza que eres tú, el titular de la cuenta, quien autoriza la operación."
+							},
+							{
+								"Question": "¿Cómo envío dinero a una cuenta bancaria?",
+								"Answer": "<ul><li>Toca el icono “Transferir“ en la pantalla principal.</li><li>Desliza hasta la pestaña “Transferencia IBAN“.</li><li>Selecciona al destinatario de la lista o toca “Nuevo destinatario“.</li><li>Introduce los datos bancarios del destinatario (nombre, divisa, IBAN...) y toca “Siguiente“.</li><li>Introduce el importe y, si quieres, una descripción, y luego toca en “Transferir“.</li></ul><br /><span class='font-AeonikBold'>Importante:</span> Importante: solo están disponibles transferencias salientes SEPA en euros y BISERA en levas búlgaras. Guarda tus destinatarios para que las futuras transferencias sean más rápidas."
+							},
+							{
+								"Question": "¿Cómo envío dinero a otro usuario de MyMonty?",
+								"Answer": "<ul><li>Toca el icono “Transferir“ en la pantalla principal.</li><li>Selecciona al destinatario de tu lista (asegúrate de ver el logo de MyMonty junto a su nombre).</li><li>Introduce el importe y toca en “Enviar“.</li></ul>"
+							},
+							{
+								"Question": "¿Dónde puedo compartir el enlace de pago?",
+								"Answer": "Toca el icono “Código QR“ y desliza hasta “Mi código QR“. Establece el importe deseado y genera el código QR junto al enlace de pago. Toca “Compartir enlace“ y envíalo a través de cualquier aplicación de mensajería en tu móvil. Cuando otro usuario de MyMonty haga clic, el dinero se enviará directamente a tu cuenta."
+							},
+							{
+								"Question": "¿Cómo puede enviarme dinero alguien usando un código QR?",
+								"Answer": "Toca el icono “Código QR“, desliza hasta “Mi código QR“, establece el importe y genera el código QR. Cuando otro usuario de MyMonty lo escanee, recibirás el dinero al instante."
+							},
+							{
+								"Question": "¿Cómo consulto mis transacciones anteriores?",
+								"Answer": "Tu saldo se actualiza automáticamente después de cada transacción. Para ver tu historial de pagos, entra en “Historial de pagos“ en la pantalla principal de la aplicación."
+							},
+							{
+								"Question": "¿Cuáles son los límites de transferencia en MyMonty?",
+								"Answer": "Los límites de transferencias son los siguientes:<ul><li>Transferencia única saliente: 3000 €</li><li>Transferencia saliente en 24 horas: 5100 €</li><li>Transferencia saliente en 7 días: 15 000 €</li><li>Transferencia saliente en 30 días: 30 000 €</li><li>Transferencia saliente anual: 100 000 €</li><li>Transferencias totales mensuales (entrantes o salientes): 50 000 €</li><li>Transferencias totales anuales (entrantes o salientes): 180 000 €</li><li>Transferencia a IBAN: superior a 51 300 € al mes</li><li>Recarga con tarjeta de crédito/débito: hasta 30 700 € al mes</li><li>Saldo máximo de la cuenta: 180 000 €</li></ul><br />No hay límite en el número de transferencias P2P."
+							},
+							{
+								"Question": "¿Cuáles son las comisiones por transacción?",
+								"Answer": "<ul><li>Comisión por recarga: La primera recarga es gratuita y, a partir de la segunda, se aplicará una comisión del 1.5 %</li><li>Retiradas de efectivo en cajeros SEPA (EUR): Comisión del 1.5 % con un mínimo de 1 €</li><li>Retiradas de efectivo en cajeros internacionales: comisión del 2 % con un mínimo de 2 €</li><li>Consulta de saldo/cambio de PIN en cajeros: sin cargo</li><li>Comisión por rechazo/devolución de transacciones: sin cargo</li><li>Transacciones en puntos de venta nacionales (POS): sin cargo</li><li>Transacciones en puntos de venta internacionales (POS): sin cargo, más las comisiones del comercio si corresponde (aplicación del tipo de cambio)</li><li>Comisión por transferencia SEPA: 0.15 €</li><li>Pagos rápidos: 0.2 €</li></ul>"
+							},
+							{
+								"Question": "¿Cómo puedo retirar dinero en efectivo de mi cuenta?",
+								"Answer": "Puedes retirar dinero en cualquier cajero que acepte tarjetas MasterCard en todo el mundo. <br /> Consejos útiles:<ul><li>Al retirar dinero, es posible que se cobren comisiones por el uso de los cajeros automáticos y por cambio de divisas</li><li>Es preferible retirar dinero en la divisa local del país en el que te encuentras</li><li>Ten en cuenta las comisiones de cajero que se apliquen.</li><li>Recomendamos optar por la opción “sin conversión“ para que el cargo se realice en la divisa local. Por ejemplo, si te encuentras en Polonia, retira en Zloty (zł)</li><li>Si eliges “con conversión“ puede que tengas que pagar comisiones adicionales debido al tipo de cambio que ofrece el banco.</li></ul>"
+							}
+						]
+					},
+					{
+						"Topic": "Configuración",
+						"Cards": [
+							{
+								"Question": "¿Por qué debo configurar un PIN al registrarme?",
+								"Answer": "Tu PIN es clave para proteger tu cuenta de los accesos no autorizados."
+							},
+							{
+								"Question": "¿Cómo puedo desactivar mi cuenta de MyMonty?",
+								"Answer": "Para desactivar tu cuenta, solo tienes que dejar de usarla. Tras un tiempo de inactividad, su estado cambiará automáticamente a inactivo."
+							},
+							{
+								"Question": "¿Puedo cambiar mi nombre y número de teléfono tras registrarme?",
+								"Answer": "Por motivos de seguridad, el nombre y número de teléfono no se pueden modificar tras el registro."
+							},
+							{
+								"Question": "¿Cómo actualizo mis datos personales?",
+								"Answer": "Puedes cambiar tu dirección de correo electrónico y ocupación dentro de la aplicación en cualquier momento. Ve a la pestaña “Perfil“, selecciona tu nombre y luego toca en “Datos personales“."
+							}
+						]
+					},
+					{
+						"Topic": "Emergencia",
+						"Cards": [
+							{
+								"Question": "¿Cómo cambio mi PIN?",
+								"Answer": "Sigue estos pasos para cambiar el PIN:<ul><li>Cierra la sesión de tu cuenta si aún no lo has hecho y cierra la aplicación por completo</li><li>Abre de nuevo la aplicación MyMonty e introduce tu número de teléfono.</li><li>Cuando se te solicite, introduce tu código PIN actual. En esa misma pantalla, busca “He olvidado mi PIN“ en la esquina inferior izquierda</li><li>Selecciona “He olvidado mi PIN“ y sigue las instrucciones para crear y confirmar tu nuevo PIN.</li><li>Se te pedirá que te tomes una foto en la que aguantes tu DNI y deberás enviar la foto a un agente a través del chat.</li><li>Tu rostro y los datos en el DNI deben ser visibles y claros. Cubre cualquier otro dato que no sea necesario.</li><li>Si la foto no cumple estos requisitos, no se aceptará y no podremos aprobar tu solicitud de cambio de PIN.</li></ul>"
+							},
+							{
+								"Question": "¿Qué pasa si pierdo o se me estropea el móvil?",
+								"Answer": "Si pierdes o se te estropea el móvil, ¡no pasa nada! Podrás seguir accediendo a tu cuenta MyMonty con el móvil. Podrás seguir usando todos los servicios.<br />Para recuperar el acceso:<ul><li>Descarga la aplicación MyMonty en tu nuevo móvil.</li><li>Introduce tu número de teléfono y sigue los pasos para recibir un código de verificación OTP (Contraseña de un solo uso).</li><li>Escribe tu PIN de 4 dígitos y ya podrás seguir usando tu cuenta de MyMonty sin problemas.</li></ul>"
+							}
+						]
+					},
+					{
+						"Topic": "Tarjetas",
+						"Cards": [
+							{
+								"Question": "¿Cuáles son los controles a los que puedes acceder después de activar la tarjeta física?",
+								"Answer": "Cuando actives tu tarjeta física, tendrás acceso a estos controles:<ul><li><span class='font-AeonikBold'>Ver detalles de la tarjeta:</span> haz clic en “Ver detalles“ y autentícate para ver los datos de la tarjeta<li><span class='font-AeonikBold'>Ver el PIN de la tarjeta:</span> haz clic en “Ver PIN“ y autentícate para ver tu PIN<li><span class='font-AeonikBold'>Congelar la tarjeta:</span> toca “Congelar tarjeta“ para desactivarla temporalmente<li><span class='font-AeonikBold'>Eliminar la tarjeta:</span> toca “Eliminar tarjeta“ para desactivarla y borrarla de forma permanente<li><span class='font-AeonikBold'>Añadir la tarjeta a Apple o Google Pay: si esta opción está habilitada, puedes añadir tu tarjeta a Apple Pay o Google Pay para hacer pagos desde el móvil</ul>"
+							},
+							{
+								"Question": "¿Qué pasa si la tarjeta caduca antes de gastar el saldo?",
+								"Answer": "Si la tu tarjeta física va a caducar pronto, puedes pedir que se vuelva a emitir si tocas el botón “Reemitir“ después de seleccionar la tarjeta. Para garantizar que no se te pasa la fecha de caducidad, te enviaremos una notificación avisándote de que la tarjeta dejará de ser válida en breve.<br />Solo tienes que seleccionar la dirección de entrega y un nuevo PIN, al igual que se hace al emitir una tarjeta nueva. Ten en cuenta que se aplican tarifas por el envío de la tarjeta. Tu saldo actual se transferirá a la nueva tarjeta una vez emitida."
+							},
+							{
+								"Question": "¿Y si encuentro la tarjeta que denuncié como perdida?",
+								"Answer": "Si encuentras una tarjeta que previamente habías denunciado como perdida o robada, debes destruir inmediatamente la tarjeta que has encontrado cortándola por la mitad por la banda magnética y el chip."
+							},
+							{
+								"Question": "¿Qué pasa si mi tarjeta se queda atascada en un cajero?",
+								"Answer": "Si tu tarjeta se queda retenida en un cajero, congélala y elimínala desde la aplicación, luego pide una tarjeta de sustitución."
+							},
+							{
+								"Question": "¿Cómo cambio el PIN de mi tarjeta?",
+								"Answer": "Para cambiar tu PIN, visita un cajero que permita cambios de PIN para Mastercard. Sigue las instrucciones que aparecerán en la pantalla para hacerlo."
+							},
+							{
+								"Question": "¿Cuándo caduca mi tarjeta?",
+								"Answer": "Puedes ver la fecha de caducidad en tu tarjeta donde pone “Fecha de caducidad“. Pasada esta fecha, no podrás utilizar ni la tarjeta ni cualquier cuenta bancaria vinculada a la misma. No obstante, podrás seguir enviando y recibiendo fondos en la cuenta asociada."
+							},
+							{
+								"Question": "¿Cómo puedo pedir una tarjeta física?",
+								"Answer": "Ordering a physical card follows a process similar to virtual cards:<ul><li>Ve a la sección “Tarjetas físicas“ en la pestaña “Tarjetas“</li><li>Comprueba que has completado la verificación KYC y que tienes saldo</li><li>Toca en “Solicitar tarjeta“</li><li>Introduce los datos de envío de la tarjeta</li><li>Avanza a través de dos pantallas para elegir y confirmar el PIN de tu tarjeta</li><li>Una vez que hayas introducido la dirección y confirmado el PIN, revisa tus datos y confirma para iniciar el envío de la tarjeta.</li></ul>"
+							},
+							{
+								"Question": "¿Qué son las tarjetas virtuales?",
+								"Answer": "Las tarjetas virtuales funcionan igual que las físicas, pero solo se usan en la aplicación. Una vez activadas, podrás utilizarlas en ese mismo instante para hacer pagos en Internet, retiradas sin contacto en cajeros y transacciones en puntos de venta sin contacto."
+							},
+							{
+								"Question": "¿Cómo obtengo el PIN de mi tarjeta?",
+								"Answer": "Sigue los pasos siguientes para recuperar el PIN de tu tarjeta:<ul><li>Ve a la pestaña “Tarjetas“ en la aplicación.</li><li>Desliza para seleccionar la tarjeta de la que quieres ver el PIN.</li><li>Pulsa en “Mostrar PIN“. Tu PIN se mostrará inmediatamente.</li></ul>"
+							},
+							{
+								"Question": "¿Qué es el PIN de una tarjeta?",
+								"Answer": "Es el Número de Identificación Personal que necesitas para retirar dinero en cajeros o hacer pagos en terminales."
+							},
+							{
+								"Question": "¿Puede un menor tener una tarjeta MyMonty independiente?",
+								"Answer": "Solo las personas mayores de 18 años pueden registrarse y usar nuestros servicios de pago."
+							},
+							{
+								"Question": "¿Puedo dejar mi cuenta en descubierto?",
+								"Answer": "Nuestros servicios de pago son de prepago y no de crédito. Debes tener saldo disponible suficiente para cubrir tus transacciones y los gastos asociados. Si, por alguna razón, alguna transacción supera tu saldo disponible, tendrás que reembolsar rápidamente el importe y es posible que restrinjamos tus transacciones futuras."
+							},
+							{
+								"Question": "¿Mi cuenta paga intereses?",
+								"Answer": "No, el saldo disponible en tu tarjeta o cuenta no devenga intereses."
+							},
+							{
+								"Question": "¿Hay alguna comisión por cambio de divisa al usar la tarjeta de MyMonty?",
+								"Answer": "A las transacciones que se hagan en una divisa diferente a la de tu tarjeta se les aplicará un cargo según la tasa de cambio actual."
+							},
+							{
+								"Question": "¿Mis servicios de pago se activan al instante?",
+								"Answer": "No siempre. Los servicios de pago se activan una vez que verificamos tu identidad y cumplamos todos los requisitos normativos aplicables. Conservamos registros de estos datos tal y como exige la ley."
+							},
+							{
+								"Question": "¿Cómo recargo mi tarjeta?",
+								"Answer": "Puedes recargar tu tarjeta de débito MyMonty de las siguientes maneras:<ul><li>Una tarjeta de crédito o débito externa*.</li><li>SEPA.</li></ul> <br />*Asegúrate de que la tarjeta bancaria esté a tu nombre."
+							},
+							{
+								"Question": "¿Qué pasa si pierdo o se daña mi tarjeta física?",
+								"Answer": "Si pierdes o se daña tu tarjeta física, congélala de inmediato siguiendo estos pasos:<ul><li>Toca en el widget de la tarjeta en tu pantalla de inicio.</li><li>Desliza para seleccionar la tarjeta que deseas congelar.</li><li>Activa “Congelar tarjeta“.</li></ul>"
+							},
+							{
+								"Question": "¿A qué dirección se envía la tarjeta?",
+								"Answer": "La tarjeta de sustitución se enviará por correo a la dirección más reciente que esté registrada en tu cuenta.<br />Nota: comprueba que la dirección facilitada sea la correcta para evitar que se apliquen comisiones por sustitución de la tarjeta. Nos pondremos en contacto contigo el día anterior a la entrega."
+							},
+							{
+								"Question": "¿Cómo puedo volver a solicitar una tarjeta física o virtual?",
+								"Answer": "Haz lo siguiente para reemplazar una tarjeta que esté dañada o haya caducado:<ul><li>Abre la aplicación MyMonty.</li>li>Ve a la pestaña de tarjetas.</li><li>Congela la tarjeta tocando “Congelar“.</li><li>Pulsa sobre el enlace “Eliminar tarjeta“ que aparece una vez congelada la tarjeta.</li></ul><br />Una vez eliminada, podrás volver a pedir tarjetas físicas y virtuales. Para la tarjeta física se aplicará de nuevo una tarifa de entrega."
+							},
+							{
+								"Question": "¿Cuáles son las tarifas de entrega para una tarjeta física?",
+								"Answer": "La entrega de la tarjeta física tiene un coste de 5 €."
+							},
+							{
+								"Question": "¿Cuáles son las comisiones por las transacciones que se hagan con la tarjeta?",
+								"Answer": "<ul><li><span class='font-AeonikBold'>Comisión por recarga:</span> la primera recarga es gratuita, después se cobra una comisión del 1,5 %</li><li><span class='font-AeonikBold'>Retiradas de efectivo en cajeros SEPA (EUR):</span> comisión del 1.5 % con un mínimo de 1 €.</li><li><span class='font-AeonikBold'>Retiradas de efectivo en cajeros internacionales</span>: comisión del 2 % con un mínimo de 2 €.</li><li><span class='font-AeonikBold'>Consulta de saldo/cambio de PIN en cajeros:</span> gratis.</li><li><span class='font-AeonikBold'>Comisión por rechazo/devolución de transacciones:</span> gratis.</li><li><span class='font-AeonikBold'>Transacciones en puntos de venta nacionales (POS):</span> gratis.</li><li><span class='font-AeonikBold'>Transacciones en puntos de venta internacionales (POS):</span> gratis, más las comisiones comerciales aplicables (cambio de divisas).</li><li><span class='font-AeonikBold'>Tarifa de entrega:</span> 5 €.</li><li><span class='font-AeonikBold'>Comisión por sustitución:</span> 2 €.</li></ul>"
+							},
+							{
+								"Question": "¿Cuáles son los límites de las transacciones con tarjeta?",
+								"Answer": "<ul><li><span class='font-AeonikBold'>Pago único en puntos de venta (POS):</span> 5,000 €.</li><li><span class='font-AeonikBold'>Transacción única en cajero automático:</span> 200 €.</li><li><span class='font-AeonikBold'>Recarga única</span>: 5,000 €.</li></ul><br />Límites de transacciones en 24 horas:<ul><li><span class='font-AeonikBold'>Transacciones en puntos de venta (POS):</span> 10 000 € o 50 pagos en puntos de venta para tarjetas digitalvirtuales; 20 pagos en puntos de venta para tarjetas físicas.</li><li><span class='font-AeonikBold'>Transacciones en cajeros automáticos:</span>1000 € o 5 retiradas de efectivo en cajeros.</li><li><span class='font-AeonikBold'>Transacciones de recarga:</span> 10 000 € o 50 recargas.</li></ul><br />Límites de transacciones en 7 días:<ul><li><span class='font-AeonikBold'>Transacciones en puntos de venta (POS):</span>15 000 € o 120 pagos en puntos de venta para todos los tarjetas.</li><li><span class='font-AeonikBold'>Transacciones en cajeros automáticos:</span>4000 € o 35 retiradas de efectivo en cajeros.</li><li><span class='font-AeonikBold'>Transacciones de recarga:</span> 15 000 € o 100 recargas.</li></ul><br />Límites de transacciones en 30 días:<ul><li><span class='font-AeonikBold'>Transacciones en puntos de venta (POS):</span> 30 000 € o 300 pagos en puntos de venta para todos los tipos de tarjetas</li><li><span class='font-AeonikBold'>Transacciones en cajeros automáticos:</span> 10 000 € o 90 retiradas de efectivo en cajeros</li><li><span class='font-AeonikBold'>Transacciones de recarga:</span> 30 000 € o 300 recargas</li></ul>"
+							}
+						]
+					}
+				]
+			},
+			"Seo": {
+				"Title": "Frequently Asked Questions",
+				"Description": "Discover all the frequently asked questions asked about people about MyMonty regarding different topics. Visit our website to learn more.",
+				"Og Title": "Frequently Asked Questions",
+				"Og Description": "Discover all the frequently asked questions asked about people about MyMonty regarding different topics. Visit our website to learn more.",
+				"Twitter Title": "Frequently Asked Questions",
+				"Twitter Description": "Discover all the frequently asked questions asked about people about MyMonty regarding different topics. Visit our website to learn more."
+			}
+		},
+		"Contact Us": {
+			"Banner": {
+				"Sub Title": "Contact Us",
+				"Title": "¿Tienes alguna pregunta o necesitas ayuda? ",
+				"Description": "¡Nuestro equipo está aquí para ayudarte! Rellena el formulario que encontrarás a continuación, y nos pondremos en contacto contigo tan pronto como podamos. ",
+				"Image Alt": "¿Tienes alguna pregunta o necesitas ayuda? "
+			},
+			"Section 2": {
+				"Title": "Fill out this form to reach us"
+			},
+			"Section 3": {
+				"Title": "Siempre a tu disposición ",
+				"Description 1": "<span class='font-AeonikBold'>De lunes a viernes:</span> 8:00 - 17:00 (EEST)<br /><span class='font-AeonikBold'>Sábado y domingo:</span> cerrado",
+				"Description 2": "¿Tienes alguna queja o necesitas asistencia?<br />Contáctanos <a href='mailto:support&#64;mymonty.com'>aquí</a>."
+			},
+			"Seo": {
+				"Title": "Contact us if you have any questions",
+				"Description": "Our team is always ready to assist you or answer your inquiries.",
+				"Og Title": "Contact us if you have any questions",
+				"Og Description": "Our team is always ready to assist you or answer your inquiries.",
+				"Twitter Title": "Contact us if you have any questions",
+				"Twitter Description": "Our team is always ready to assist you or answer your inquiries."
+			}
+		},
+		"Code Of Conduct": {
+			"Banner": {
+				"Sub Title": "Nuestros valores",
+				"Title": "Our code of conduct",
+				"Description": "Nuestros principios en MyMonty.",
+				"Image Alt": "Our code of conduct"
+			},
+			"Section 2": {
+				"Cards": [
+					{
+						"Title": "Igualdad",
+						"Description": "Creemos en la igualdad de oportunidades y los derechos para todos, de este modo garantizamos la equidad y la inclusión en todas nuestras acciones.",
+						"Image Alt": "Igualdad"
+					},
+					{
+						"Title": "Inclusión",
+						"Description": "No dejamos a nadie atrás. Nos esforzamos por incluir y empoderar a personas de todos los ámbitos de la vida, sin importar su origen o circunstancias.",
+						"Image Alt": "Inclusión"
+					},
+					{
+						"Title": "Integridad",
+						"Description": "Nuestras acciones se guían por la honestidad, la transparencia y la lealtad. Mantenemos los estándares éticos más altos en todas nuestras interacciones.",
+						"Image Alt": "Integridad"
+					},
+					{
+						"Title": "Excelencia",
+						"Description": "Estamos comprometidos en ofrecer una calidad superior en todo lo que hacemos, y nos esforzamos por alcanzar la excelencia en el servicio y la innovación.",
+						"Image Alt": "Excelencia"
+					},
+					{
+						"Title": "Compromiso",
+						"Description": "La pasión y el compromiso que tenemos con nuestros clientes, socios y comunidades forman parte de nuestros valores principales. Siempre actuamos con integridad y respeto.",
+						"Image Alt": "Compromiso"
+					},
+					{
+						"Title": "Profesionalidad",
+						"Description": "Operamos con eficiencia y responsabilidad, mantenemos los más altos estándares profesionales para garantizar la confianza de todos aquellos a quienes prestamos nuestros servicios.",
+						"Image Alt": "Profesionalidad"
+					},
+					{
+						"Title": "Cumplimiento normativo y responsabilidad legal",
+						"Description": "Cumplimos estrictamente con todas las leyes, regulaciones y estándares del sector aplicables. El cumplimiento normativo es innegociable en nuestro compromiso con la aplicación de prácticas bancarias responsables.",
+						"Image Alt": "Cumplimiento normativo y responsabilidad legal"
+					},
+					{
+						"Title": "Confidencialidad y protección de datos",
+						"Description": "Tratamos la información de nuestros clientes con el máximo cuidado y confidencialidad. La protección de datos y la privacidad son principios fundamentales en nuestras operaciones.",
+						"Image Alt": "Confidencialidad y protección de datos"
+					},
+					{
+						"Title": "Orientación al cliente",
+						"Description": "Damos prioridad a las necesidades e intereses de nuestros clientes, y nos esforzamos por ofrecer un servicio excepcional y soluciones innovadoras que mejoren su bienestar financiero.",
+						"Image Alt": "Orientación al cliente"
+					}
+				]
+			},
+			"Seo": {
+				"Title": "Code Of Conduct",
+				"Description": "",
+				"Og Title": "Code Of Conduct",
+				"Og Description": "",
+				"Twitter Title": "Code Of Conduct",
+				"Twitter Description": ""
+			}
+		},
+		"Careers": {
+			"Banner": {
+				"Sub Title": "Careers",
+				"Title": "¡Únete a nuestro Dream Team!",
+				"Description": "No pierdas la oportunidad de formar parte de algo grande. Descubre las vacantes que tenemos disponibles en <a href='https://linkdedin.com/company/mymonty' target='_blank'>LinkedIn</a> y envía tu solicitud hoy.",
+				"Image Alt": "¡Únete a nuestro Dream Team!"
+			},
+			"Section 2": {
+				"Title": "Embark on Your career journey with us",
+				"Description": "Our team is our biggest asset! We are dedicated to recognizing and cultivating talent from within, offering a transparent and well-defined career path for our valuable team members.<br /><br />We heavily invest in employee training programs, workshops, and mentorship initiatives, ensuring our team is not only well-equipped for their current roles but also ready for future challenges.",
+				"Cards": [
+					{
+						"Title": "Always there for you",
+						"Description 1": "<span class='font-AeonikBold'>Monday to Friday:</span> 8:00 AM - 5:00 PM (EEST)<br /><span class='font-AeonikBold'>Saturday and Sunday:</span> Closed",
+						"Description 2": "Have a complaint or need any assistance?<br />Reach out to us <a href='mailto:support&#64;mymonty.com'>here</a>",
+						"Image Alt": "Always There For You"
+					}
+				]
+			},
+			"Section 3": {
+				"Title": "Fill out this form to reach us"
+			},
+			"Seo": {
+				"Title": "Join our dream team - Apply today",
+				"Description": "Explore MyMonty current vacancies on LinkedIn and apply today for a chance to join our dream team and take your career to the next level.",
+				"Og Title": "Join our dream team - Apply today",
+				"Og Description": "Explore MyMonty current vacancies on LinkedIn and apply today for a chance to join our dream team and take your career to the next level.",
+				"Twitter Title": "Join our dream team - Apply today",
+				"Twitter Description": "Explore MyMonty current vacancies on LinkedIn and apply today for a chance to join our dream team and take your career to the next level."
+			}
+		},
+		"Board Of Directors": {
+			"Banner": {
+				"Sub Title": "Board of Directors",
+				"Title": "Leadership team",
+				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
+				"Image Alt": "Leadership team"
+			},
+			"Section 2": {
+				"Title": "Meet our board of directors and Leadership Team",
+				"Cards": [
+					{
+						"Name": "Mountasser Hachem",
+						"Position": "Presidente y fundador",
+						"Bio": "Con más de dos décadas de liderazgo en la gestión de un grupo de empresas, el Sr. Hachem se distingue por su incansable dedicación para generar un impacto positivo en la vida de las personas, asumiendo riesgos y explorando posibilidades en nuevos sectores. Su audacia y visión le llevaron a fundar Monty Group y sus subsidiarias, donde ha desarrollado una carrera de éxito en el sector de las telecomunicaciones. Gracias a su enfoque visionario, ha logrado transformar la empresa en un gigante internacional, que cuenta con numerosas sucursales repartidas por todo el mundo."
+					},
+					{
+						"Name": "Randa Naboulsi",
+						"Position": "Directora financiera del grupo",
+						"Bio": "Randa Naboulsi es una directora financiera ambiciosa y orientada a los resultados que obtuvo su licenciatura en Administración de empresas en la universidad de Balamand, Líbano, en 1995, y posteriormente completó un MBA en la universidad Lebanese American University de Beirut en el 2008. Cuenta con una sólida formación académica y una amplia experiencia en finanzas corporativas, tesorería, presupuestos y previsiones, y ha destacado en la gestión financiera y las relaciones con los inversores."
+					},
+					{
+						"Name": "Susanne Hannestad",
+						"Position": "Miembro del consejo",
+						"Bio": "La Sra. Hannestad, con más de 30 años de experiencia en los sectores de Banca, Seguros y Finanzas, ha demostrado su capacidad para liderar el crecimiento y desarrollo de empresas a nivel internacional. Su amplia experiencia le otorga una ventaja única para impulsar el crecimiento y desarrollo en el sector fintech. Actualmente, como miembro del consejo de administración de Monty Mobile y MyMonty, dentro de Monty Group, aporta unos conocimientos valiosos para el desarrollo estratégico de las dos empresas."
+					},
+					{
+						"Name": "Arvinder Gujral",
+						"Position": "Miembro del consejo",
+						"Bio": "El Sr. Gujral cuenta con un MBA en Administración de empresas, y fue el primer empleado de Twitter en India que ascendió a director general para el Sudeste Asiático y director senior de desarrollo de negocio para la región Asia-Pacífico. Con más de 22 años de experiencia en lo sectores de la tecnología, las telecomunicaciones y la publicidad, ha colaborado con importantes empresas internacionales. En estos momentos, como miembro del consejo de administración de MyMonty, la nueva empresa de tecnología financiera del grupo Monty, desempeña un papel fundamental en la expansión de la presencia digital y alcance en el mercado."
+					},
+					{
+						"Name": "Sarah Alateeqi",
+						"Position": "Miembro del consejo",
+						"Bio": "La Sra. Alateeqi es vicepresidenta y CEO en funciones de AlMal Investment Company en Kuwait, donde aporta una amplia experiencia como líder empresarial. Es una apasionada de las finanzas y las inversiones y cuenta con una gran experiencia en la banca de inversión, el capital riesgo y la consultoría en innovación. Con un MBA por la Universidad de Chicago Booth, la Sra. Alateeqi ha desarrollado su carrera profesional tanto en Kuwait como en Londres (Reino Unido). Como miembro del consejo de administración de MyMonty, desempeña un papel crucial en el avance de la estrategia de crecimiento y la innovación financiera de la empresa."
+					},
+					{
+						"Name": "Mike Quintanilla",
+						"Position": "Miembro del consejo",
+						"Bio": "En la actualidad, el Sr. Quintanilla ocupa el cargo de director de innovación en GenuBank, en Reno, Nevada (EE.UU.), donde aporta su amplia experiencia en criptomonedas y análisis de datos. Cuenta con una trayectoria de más de 15 años en finanzas y fintech, y es un experto en estrategia fintech e implementación de la blockchain reconocido. Ha liderado el desarrollo y la supervisión de sistemas en diversas empresas. Se unió recientemente a MyMonty como miembro del consejo de administración dentro de Monty Group, donde el Sr. Quintanilla aporta unos conocimientos valiosos para impulsar el crecimiento del negocio que se basan en sus años de experiencia acumulada."
+					}
+				]
+			},
+			"Seo": {
+				"Title": "Meet our board of directors and Leadership Team",
+				"Description": "Meet our leadership team and board of directors driving MyMonty towards fintech innovation and get to know the minds behind the revolution.",
+				"Og Title": "Meet our board of directors and Leadership Team",
+				"Og Description": "Meet our leadership team and board of directors driving MyMonty towards fintech innovation and get to know the minds behind the revolution.",
+				"Twitter Title": "Meet our board of directors and Leadership Team",
+				"Twitter Description": "Meet our leadership team and board of directors driving MyMonty towards fintech innovation and get to know the minds behind the revolution."
+			}
+		},
+		"Blogs": {
+			"Banner": {
+				"Sub Title": "Blogs",
+				"Title": "What's happening at mymonty?",
+				"Description": "Explore our news for the latest updates and offerings.",
+				"Image Alt": "What is happening at mymonty blogs"
+			},
+			"Seo": {
+				"Title": "Blogs - Latest updates and offerings",
+				"Description": "Explore MyMonty's blog for the latest insights and trends in fintech. Stay informed and inspired by our expert articles. Read our blogs now!",
+				"Og Title": "Blogs - Latest updates and offerings",
+				"Og Description": "Explore MyMonty's blog for the latest insights and trends in fintech. Stay informed and inspired by our expert articles. Read our blogs now!",
+				"Twitter Title": "Blogs - Latest updates and offerings",
+				"Twitter Description": "Explore MyMonty's blog for the latest insights and trends in fintech. Stay informed and inspired by our expert articles. Read our blogs now!"
+			}
+		},
+		"Terms And Conditions": {
+			"Banner": {
+				"Sub Title": "Terms & Conditions",
+				"Title": "Terms & Conditions",
+				"Description": "Terms & Conditions.",
+				"Image Alt": "What is happening at mymonty blogs"
+			},
+			"Seo": {
+				"Title": "Terms and Conditions",
+				"Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!",
+				"Og Title": "Terms and Conditions",
+				"Og Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!",
+				"Twitter Title": "Terms and Conditions",
+				"Twitter Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!"
+			}
+		},
+		"Privacy Policy": {
+			"Banner": {
+				"Sub Title": "Privacy Policy",
+				"Title": "Privacy Policy",
+				"Description": "Privacy Policy.",
+				"Image Alt": "What is happening at mymonty blogs"
+			},
+			"Seo": {
+				"Title": "Privacy Policy & Data Protection",
+				"Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
+				"Og Title": "Privacy Policy & Data Protection",
+				"Og Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
+				"Twitter Title": "Privacy Policy & Data Protection",
+				"Twitter Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information."
+			}
+		},
+		"Cookie Policy": {
+			"Banner": {
+				"Sub Title": "Cookie Policy",
+				"Title": "Cookie Policy",
+				"Description": "Cookie Policy.",
+				"Image Alt": "What is happening at mymonty blogs"
+			},
+			"Seo": {
+				"Title": "Cookie Policy - Types and Usage",
+				"Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
+				"Og Title": "Cookie Policy - Types and Usage",
+				"Og Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
+				"Twitter Title": "Cookie Policy - Types and Usage",
+				"Twitter Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety."
+			}
+		},
+		"Paynetics Terms And Conditions": {
+			"Banner": {
+				"Sub Title": "Paynetics Terms & Conditions",
+				"Title": "Paynetics Terms & Conditions",
+				"Description": "Paynetics Terms & Conditions.",
+				"Image Alt": "What is happening at mymonty blogs"
+			},
+			"Seo": {
+				"Title": "Paynetics Terms & Conditions",
+				"Description": "",
+				"Og Title": "Paynetics Terms & Conditions",
+				"Og Description": "",
+				"Twitter Title": "Paynetics Terms & Conditions",
+				"Twitter Description": ""
+			}
+		},
+		"Paynetics Privacy Policy": {
+			"Banner": {
+				"Sub Title": "Paynetics Privacy Policy",
+				"Title": "Paynetics Privacy Policy",
+				"Description": "Paynetics Privacy Policy.",
+				"Image Alt": "What is happening at mymonty blogs"
+			},
+			"Seo": {
+				"Title": "Paynetics Privacy Policy",
+				"Description": "",
+				"Og Title": "Paynetics Privacy Policy",
+				"Og Description": "",
+				"Twitter Title": "Paynetics Privacy Policy",
+				"Twitter Description": ""
+			}
+		},
+		"Error": {
+			"Section 1": {
+				"Image Alt": "Error 404",
+				"Title": "We can't find that one",
+				"Description": "We update our website regularly, so this page may have been moved, removed, or the URL wasn't quite right.<br /><br />Explore the latest from MyMonty this way..."
+			},
+			"Seo": {
+				"Title": "Error {code}",
+				"Description": "An error occurred: {message}",
+				"Og Title": "Error {code} Occurred",
+				"Og Description": "An error occurred on our website: {message}",
+				"Twitter Title": "Error {code} Occurred",
+				"Twitter Description": "An error occurred on our website: {message}",
+				"Default Message": "An unknown error occurred"
+			}
+		}
+	},
+	"Footer": {
+		"Newsletter": {
+			"Title": "Subscribe to our newsletter",
+			"Description": "Receive the latest news from us.",
+			"Acknowlegment1": "By subscribing to our newsletter, you acknowledge that you have read and accepted our",
+			"Acknowlegment2": "read and understood our"
+		},
+		"Toll-Free Number": "Toll-Free Number",
+		"Email Us": "Email Us",
+		"Copyright": "Copyright © 2024, All Rights Reserved Monty Finance UK LTD",
+		"Paynetics Agreement": "“For programmes operating in the United Kingdom, the Payment Account and Mastercard cards are issued by Paynetics UK, Company number 1248133, (via Monty Finance UK Ltd, a Technical Provider of Paynetics UK). Paynetics UK is a wholly owned subsidiary of Paynetics AD with its registered address at 1st Floor, 18 Devonshire Row, London, England, EC2M 4RH. Paynetics UK is an electronic money institution authorised and regulated by the Financial Conduct Authority (firm reference number 942777) for the issuance of e-money and provision of payment services in the UK.”<br /><br />“For programmes operating in the European Union, the Payment account and Mastercard cards are issued by Paynetics AD (via Monty Finance UK Ltd, a Technical Provider of Paynetics AD) with company address 76A James Bourchier Blvd, 1407 Sofia, Bulgaria, company registration number 131574695 and VAT BG131574695, pursuant to license by Mastercard International Incorporated and Bulgarian National Bank.”"
+	}
+}

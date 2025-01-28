@@ -1,0 +1,25 @@
+.inner 
+    perspective: 50rem
+    perspective-origin: top
+
+    &.active
+        .front
+            transform: rotateY(-180deg)
+        
+        .back
+            transform: rotateY(0deg)
+            @apply overflow-auto
+  
+.front,
+.back
+    backface-visibility: hidden
+    -webkit-backface-visibility: hidden
+    transform-style: preserve-3d
+    -webkit-transform-style: preserve-3d
+
+.front
+    transform: rotateY(0deg)
+
+.back
+    transform: rotateY(180deg)
+
