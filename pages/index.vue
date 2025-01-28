@@ -76,7 +76,7 @@
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Homepage.Section 5.Title`) }}</h2>
                     <p class="text-xl" v-html="t(`Pages.Homepage.Section 5.Description`)"></p>
                 </div>
-                <img class="w-full mt-8" src="/images/newpngs/request-money-with-ease.png" :alt="t(`Pages.Homepage.Section 5.Image Alt`)" width="2124" height="893">
+                <img class="w-full mt-8" src="/images/request-money-with-ease.webp" :alt="t(`Pages.Homepage.Section 5.Image Alt`)" width="2124" height="893">
             </div>
         </section>
 
@@ -114,7 +114,7 @@
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Homepage.Section 7.Title`) }}</h2>
                     <p class="text-xl" v-html="t(`Pages.Homepage.Section 7.Description`)"></p>
                 </div>
-                <img class="w-full mt-8" src="/images/newpngs/time-to-go-digital.png" :alt="t(`Pages.Homepage.Section 7.Image Alt`)" width="2124" height="1022">
+                <img class="w-full mt-8" src="/images/time-to-go-digital.webp" :alt="t(`Pages.Homepage.Section 7.Image Alt`)" width="2124" height="1022">
             </div>
         </section>
 
@@ -136,7 +136,7 @@
                             <p class="text-left text-xl" v-html="t(`Pages.Homepage.Section 8.Features[0].Description`)"></p>
                         </div>
                         <div class="w-full h-full rounded-b-[30px] lg:rounded-r-[30px] lg:rounded-l-none overflow-hidden">
-                            <img class="w-full h-full object-cover" src="/images/newpngs/streamlined-contactless-payments.png" :alt="t(`Pages.Homepage.Section 8.Features[0].Image Alt`)" width="1040" height="892">
+                            <img class="w-full h-full object-cover" src="/images/streamlined-contactless-payments.webp" :alt="t(`Pages.Homepage.Section 8.Features[0].Image Alt`)" width="1040" height="892">
                         </div>
                     </div>
 
@@ -148,7 +148,7 @@
                             <p class="text-left text-xl" v-html="t(`Pages.Homepage.Section 8.Features[1].Description`)"></p>
                         </div>
                         <div class="w-full h-full rounded-b-[30px] lg:rounded-l-[30px] lg:rounded-r-none overflow-hidden order-2 lg:order-1">
-                            <img class="w-full h-full object-cover" src="/images/newpngs/support-around-the-clock.png" :alt="t(`Pages.Homepage.Section 8.Features[1].Image Alt`)" width="1040" height="892">
+                            <img class="w-full h-full object-cover" src="/images/support-around-the-clock.webp" :alt="t(`Pages.Homepage.Section 8.Features[1].Image Alt`)" width="1040" height="892">
                         </div>
                     </div>
                 </div>

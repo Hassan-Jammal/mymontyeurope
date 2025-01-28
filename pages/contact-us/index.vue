@@ -116,7 +116,7 @@
         </section>
 
         <!-- need to be replaced -->
-        <section id="section-3" class="relative my-12 py-12 lg:my-14 lg:py-36 bg-[url('/images/newpngs/always-there-for-you-bg.png')] bg-fixed bg-no-repeat bg-cover bg-center">
+        <section id="section-3" class="relative my-12 py-12 lg:my-14 lg:py-36 bg-[url('/images/always-there-for-you-bg.webp')] bg-fixed bg-no-repeat bg-cover bg-center">
             <div class="container">
                 <div class="grid lg:grid-cols-2 gap-16">
                     <div class="flex flex-col justify-between items-start gap-4 lg:gap-8 text-white">

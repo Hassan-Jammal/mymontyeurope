@@ -23,7 +23,7 @@
                         <p class="text-xl" v-html="t(`Pages.Who We Are.Section 2.Cards[0].Description`)"></p>
                     </div>
                     <div class="lg:col-span-2">
-                        <img src="/images/newpngs/this-is-the-future.png" :alt="t(`Pages.Who We Are.Section 2.Cards[0].Image Alt`)" width="1300" height="892">
+                        <img src="/images/this-is-the-future.webp" :alt="t(`Pages.Who We Are.Section 2.Cards[0].Image Alt`)" width="1300" height="892">
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@
                     <p class="text-xl" v-html="t(`Pages.Who We Are.Section 3.Description`)"></p>
                 </div>
                 <div class="lg:w-3/4 mx-auto mt-8">
-                    <img src="/images/newpngs/equal-opportunities-for-all.png" :alt="t(`Pages.Who We Are.Section 3.Image Alt`)" width="918" height="460">
+                    <img src="/images/equal-opportunities-for-all.webp" :alt="t(`Pages.Who We Are.Section 3.Image Alt`)" width="918" height="460">
                 </div>
             </div>
         </section>
