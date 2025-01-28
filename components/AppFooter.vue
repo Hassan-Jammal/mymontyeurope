@@ -207,7 +207,7 @@
         try {
             // Check this route in the plugins of the backend (Check Email plugin)
             // Add the form ID to the request
-            const emailCheckResponse = await fetch(`http://backend.mymontyeurope.localhost/wp-json/custom/v1/check-email?email=${form.value.newsletter_email}`);
+            const emailCheckResponse = await fetch(`http://92.205.130.62:5001/wp-json/custom/v1/check-email?email=${form.value.newsletter_email}`);
             
             if (!emailCheckResponse.ok) {
                 throw new Error('Failed to check email');
@@ -221,7 +221,7 @@
                 return;
             }
             
-            const API_ENDPOINT = 'http://backend.mymontyeurope.localhost/wp-json/contact-form-7/v1/contact-forms/10/feedback';
+            const API_ENDPOINT = 'http://92.205.130.62:5001/wp-json/contact-form-7/v1/contact-forms/10/feedback';
             const formData = new FormData();
 
             // Append top-level fields

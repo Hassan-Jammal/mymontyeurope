@@ -71,7 +71,7 @@
     const postsSection = ref(null);
 
     // cat id 2
-    const { data: posts, pending, error, refresh } = await useFetch('https://backend.mymonty.com/wp-json/wp/v2/posts', {
+    const { data: posts, pending, error, refresh } = await useFetch('http://92.205.130.62:5001/wp-json/wp/v2/posts', {
         query: { categories: 2, per_page: perPage.value, page: currentPage.value, _embed: '1' },
         lazy: true,
         server: false,
@@ -84,7 +84,7 @@
         if (currentPage.value < totalPages.value) {
             currentPage.value++;
             // Use $fetch instead of useFetch to avoid the warning
-            const newPosts = await $fetch('https://backend.mymonty.com/wp-json/wp/v2/posts', {
+            const newPosts = await $fetch('http://92.205.130.62:5001/wp-json/wp/v2/posts', {
                 query: { categories: 2, per_page: perPage.value, page: currentPage.value, _embed: '1' }
             });
             
