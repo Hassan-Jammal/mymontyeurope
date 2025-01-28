@@ -32,7 +32,7 @@
                                 <p class="text-left text-xl" v-html="post.excerpt.rendered"></p>
                             </div>
                             <div class="w-full h-full rounded-b-[30px] lg:rounded-r-[30px] lg:rounded-l-none overflow-hidden">
-                                <img class="w-full h-full object-cover" :src="post._embedded['wp:featuredmedia'][0].media_details.sizes?.large?.source_url" :alt="post.title.rendered" width="1040" height="892">
+                                <img class="w-full h-full object-cover" :src="post._embedded['wp:featuredmedia']['0'].source_url" :alt="post.title.rendered" :width="post._embedded['wp:featuredmedia'][0].media_details.width" :height="post._embedded['wp:featuredmedia'][0].media_details.height">
                             </div>
                         </div>
                     </div>

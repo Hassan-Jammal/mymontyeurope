@@ -26,13 +26,13 @@
                         <div v-for="(post, index) in posts" :key="index" class="grid lg:grid-cols-2 justify-start items-center bg-[#F7F7F7] rounded-[30px]">
                             <div class="flex flex-col justify-start items-start gap-4 lg:gap-8 py-6 px-8 lg:p-12 xl:p-24">
                                 <span class="text-2xl font-AeonikMedium">{{ new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }) }}</span>
-                                <NuxtLinkLocale :to="`/news/${post.slug}`">
+                                <NuxtLinkLocale :to="`/blogs/${post.slug}`">
                                     <h2 class="font-AeonikBlack text-xl md:text-2xl xl:text-3xl 4xl:text-4xl uppercase" v-html="post.title.rendered"></h2>
                                 </NuxtLinkLocale>
                                 <p class="text-left text-xl" v-html="post.excerpt.rendered"></p>
                             </div>
                             <div class="w-full h-full rounded-b-[30px] lg:rounded-r-[30px] lg:rounded-l-none overflow-hidden">
-                                <img class="w-full h-full object-cover" :src="post._embedded['wp:featuredmedia'][0].media_details.sizes?.large?.source_url" :alt="post.title.rendered" width="1040" height="892">
+                                <img class="w-full h-full object-cover" :src="post._embedded['wp:featuredmedia']['0'].source_url" :alt="post.title.rendered" :width="post._embedded['wp:featuredmedia'][0].media_details.width" :height="post._embedded['wp:featuredmedia'][0].media_details.height">
                             </div>
                         </div>
                     </div>
