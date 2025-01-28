@@ -33,37 +33,37 @@ export default defineNuxtConfig({
 				{
 					rel: "icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5001/images/favicon-64x64.png",
+					href: "http://92.205.130.62:5000/images/favicon-64x64.png",
 				},
 				{
 					rel: "icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5001/images/favicon-32x32.png",
+					href: "http://92.205.130.62:5000/images/favicon-32x32.png",
 				},
 				{
 					rel: "icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5001/images/favicon-16x16.png",
+					href: "http://92.205.130.62:5000/images/favicon-16x16.png",
 				},
 				{
 					rel: "apple-touch-icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5001/images/apple-touch-icon-180x180.png",
+					href: "http://92.205.130.62:5000/images/apple-touch-icon-180x180.png",
 				},
 				{
 					rel: "mask-icon",
-					href: "http://92.205.130.62:5001/images/icons/mask-icon.svg",
+					href: "http://92.205.130.62:5000/images/icons/mask-icon.svg",
 					color: "#32393C",
 				},
 				{
 					rel: "icon",
 					sizes: "192x192",
-					href: "http://92.205.130.62:5001/images/android-chrome-192x192.png",
+					href: "http://92.205.130.62:5000/images/android-chrome-192x192.png",
 				},
 				{
 					rel: "icon",
 					sizes: "512x512",
-					href: "http://92.205.130.62:5001/images/android-chrome-512x512.png",
+					href: "http://92.205.130.62:5000/images/android-chrome-512x512.png",
 				},
 			],
 			meta: [
@@ -88,7 +88,7 @@ export default defineNuxtConfig({
 						"name": "MyMonty",
 						"url": "https://www.mymonty.com",
 						"description": "MyMonty is a super digital wallet, setting the digital stage for your money to take the spotlight and dance like no one's watching!",
-						"logo": "https://assets.revolut.com/website/http://92.205.130.62:5001/images/revolut-logo.png",
+						"logo": "http://92.205.130.62:5000/images/logo.svg", // png
 						"sameAs": [
 							"https://www.facebook.com/mymonty",
 							"https://x.com/mymontyapp",
@@ -160,7 +160,7 @@ export default defineNuxtConfig({
 	},
 	i18n: {
 		legacy: false,
-		// baseUrl: 'http://92.205.130.62:5001',
+		// baseUrl: 'http://92.205.130.62:5000',
 		locales: [
 			{
 				code: 'en-EU',
