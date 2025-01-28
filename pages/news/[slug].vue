@@ -1,5 +1,5 @@
 <template>
-    <section id="section-1" class="my-6 py-6 lg:my-12 lg:py-12">
+    <section v-if="post && post.length > 0" id="section-1" class="my-6 py-6 lg:my-12 lg:py-12">
         <div class="container">
             <div class="flex flex-col gap-8 lg:gap-12 px-4 py-8 lg:p-12 bg-[#F7F7F7] rounded-[30px]">
                 <NuxtLinkLocale :to="'/news'" class="w-max py-2 px-6 text-base text-white bg-primary hover:bg-black rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">{{ t(`General.Buttons.Back To News`) }}</NuxtLinkLocale>
