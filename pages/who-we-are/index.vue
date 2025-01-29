@@ -72,7 +72,7 @@
             </div>
         </section>
 
-        <section id="section-6" class="my-6 py-6 lg:my-12 lg:py-12">
+        <!-- <section id="section-6" class="my-6 py-6 lg:my-12 lg:py-12">
             <div class="container flex flex-col gap-8 lg:gap-14">
                 <div class="flex flex-col justify-center items-center gap-4 lg:gap-8 lg:w-2/3 mx-auto text-center">
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Who We Are.Section 6.Title`) }}</h2>
@@ -113,7 +113,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
 </template>
 
