@@ -3,7 +3,7 @@
 		<div class="h-[93px] min-h-[93px] border-b border-[#D4D4D422] z-[3]">
 			<div class="container">
 				<NuxtLinkLocale class="flex flex-col justify-center h-[93px] min-h-[93px] p-2" :to="'/'" >
-					<img src="/images/logo-white.svg" :alt="t(`General.Alts.Logo`)" width="133" height="28" />
+					<NuxtImg src="/images/logo-white.svg" :alt="t(`General.Alts.Logo`)" width="133" height="28" />
 				</NuxtLinkLocale>
 			</div>
 		</div>

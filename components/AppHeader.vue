@@ -7,12 +7,12 @@
                         <div class="flex justify-between items-center gap-2 p-2"><!-- p-2 -->
                             <!-- Logo Placeholder -->
                             <NuxtLinkLocale :to="'/'" class="link">
-                                <img src="/images/logo.svg" :alt="t(`General.Alts.Logo`)" width="133" height="28" />
+                                <NuxtImg src="/images/logo.svg" :alt="t(`General.Alts.Logo`)" width="133" height="28" />
                             </NuxtLinkLocale>
 
                             <!-- Location Dropdown Icon -->
                             <span id="location-toggle" class="text-xl text-black cursor-pointer">
-                                <img src="/images/icons/chevron-down-black.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="14" height="8" />
+                                <NuxtImg src="/images/icons/chevron-down-black.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="14" height="8" />
                             </span>
 
                             <!-- Invisible hover buffer (1.5padding, 1px border bottom) -->
@@ -22,13 +22,13 @@
                             <ul class="absolute top-[calc(100%+1.5rem+1px)] left-0 z-10 w-full border-2 border-t border-[#D4D4D422] rounded-b text-base bg-white overflow-hidden invisible opacity-0 group-hover:visible group-hover:opacity-100 transition-opacity duration-300 ease-in-out">
                                 <template v-for="(locale, index) in filteredRegions" :key="locale.index">
                                     <li v-if="locale.native" @click.prevent.stop="changeLocale(locale.code)" :class="['flex items-center gap-2 w-full py-3 px-4 transition-all duration-300 ease-in-out font-AeonikRegular text-black cursor-pointer hover:text-primary border-b-2 border-[#D4D4D422]']">
-                                        <img v-if="locale.native" :src="`/images/flags/${ locale.icon.toUpperCase() }.svg`" :alt="t(`General.Regions.${locale.region}`)" width="24" height="24" />
+                                        <NuxtImg v-if="locale.native" :src="`/images/flags/${ locale.icon.toUpperCase() }.svg`" :alt="t(`General.Regions.${locale.region}`)" width="24" height="24" />
                                         <span class="text-base font-AeonikRegular">{{ t(`General.Regions.${locale.region}`) }}</span>
                                     </li>
                                 </template>    
                                 <a href="https://mymonty.com.lb">    
                                     <li class="flex items-center gap-2 w-full py-3 px-4 transition-all duration-300 ease-in-out font-AeonikRegular text-black cursor-pointer hover:text-primary">
-                                        <img src="/images/flags/LB.svg" :alt="t(`General.Regions.Lebanon`)" width="24" height="24" />
+                                        <NuxtImg src="/images/flags/LB.svg" :alt="t(`General.Regions.Lebanon`)" width="24" height="24" />
                                         <span class="text-base font-AeonikRegular">{{ t(`General.Regions.Lebanon`) }}</span>
                                     </li>
                                 </a>
@@ -68,7 +68,7 @@
                                             <div v-for="(subItem, subItemIndex) in item.links" :key="subItemIndex" class="flex flex-col items-center  w-max text-black cursor-pointer hover:text-primary transition-all duration-300 ease-in-out">
                                                 <NuxtLinkLocale :to="`/${subItem.path}`" class="link flex justify-center items-center gap-2 group/item">
                                                     <span class="text-base font-AeonikRegular">{{ t(`General.Links.${subItem.title}`) }}</span>
-                                                    <img class="-translate-x-5 -rotate-90 invisible opacity-0 group-hover/item:visible group-hover/item:translate-x-0 group-hover/item:opacity-100 transition-all duration-300 ease-in-out" src="/images/icons/chevron-right-primary.svg" :alt="t(`General.Alts.Chevron Right Primary`)" width="8" height="8" />
+                                                    <NuxtImg class="-translate-x-5 -rotate-90 invisible opacity-0 group-hover/item:visible group-hover/item:translate-x-0 group-hover/item:opacity-100 transition-all duration-300 ease-in-out" src="/images/icons/chevron-right-primary.svg" :alt="t(`General.Alts.Chevron Right Primary`)" width="8" height="8" />
                                                 </NuxtLinkLocale>
                                             </div>
                                         </div>
@@ -82,11 +82,11 @@
                 <div class="hidden lg:flex justify-between items-center gap-6">
                     <div :class="['cursor-pointer relative group rounded-full', { 'hover:bg-[#ECECEE]': filteredLocales.length > 0 }]">
                         <div class="flex justify-between items-center gap-2 p-2">
-                            <!-- <img src="/images/flags/uk.svg" alt="UK" width="28" height="28" /> -->
-                            <img :src="`/images/flags/${ currentLocaleDetails.icon.toUpperCase() }.svg`" :alt="t(`General.Regions.${currentLocaleDetails.region}`)" width="28" height="28" />
+                            <!-- <NuxtImg src="/images/flags/uk.svg" alt="UK" width="28" height="28" /> -->
+                            <NuxtImg :src="`/images/flags/${ currentLocaleDetails.icon.toUpperCase() }.svg`" :alt="t(`General.Regions.${currentLocaleDetails.region}`)" width="28" height="28" />
                             <span class="text-xs font-AeonikMedium">{{ currentLocale.split('-')[0].toUpperCase() }}</span>
                             <!-- <span>{{currentLocale.split('-')[0]}}</span> -->
-                            <img v-if="filteredLocales.length > 0" src="/images/icons/chevron-down-gray.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="10" height="8" />
+                            <NuxtImg v-if="filteredLocales.length > 0" src="/images/icons/chevron-down-gray.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="10" height="8" />
                             <!-- Invisible hover buffer (1.5padding, 1px border bottom) -->
                             <div class="absolute top-full left-0 h-[calc(1.5rem+1px)] w-full group-hover:block hidden"></div>
                             
@@ -96,7 +96,7 @@
                                     <template v-if="filteredLocales.length > 0">
                                         <template v-for="(locale, index) in filteredLocales" :key="locale.index">
                                             <li @click.prevent.stop="changeLocale(locale.code)" :class="['flex items-center gap-2 py-3 px-4 transition-all duration-300 ease-in-out hover:text-primary', { 'border-b-2 border-[#D4D4D422]': index !== filteredLocales.length - 1 }]">
-                                                <!-- <img :src="`/images/flags/${ locale.code.split('-')[0].toUpperCase() }.svg`" :alt="{{ locale.language }}" width="24" height="24" /> -->
+                                                <!-- <NuxtImg :src="`/images/flags/${ locale.code.split('-')[0].toUpperCase() }.svg`" :alt="{{ locale.language }}" width="24" height="24" /> -->
                                                 <span class="text-base font-AeonikRegular">{{ t(`General.Languages.${locale.language}`) }}</span>
                                             </li>
                                         </template>
@@ -128,14 +128,14 @@
                                 <NuxtLinkLocale :to="`/${item.path}`" class="link font-AeonikMedium">{{ t(`General.Links.${item.title}`) }}</NuxtLinkLocale>
                                 
                                 <!-- Dropdown icon if children exist -->
-                                <img v-if="item.links && item.links.length" class="transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-black.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="10" height="6" />
+                                <NuxtImg v-if="item.links && item.links.length" class="transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-black.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="10" height="6" />
                             </template>
 
                             <!-- Render as text if not clickable -->
                             <template v-else>
                                 <span class="font-AeonikMedium">{{ t(`General.Links.${item.title}`) }}</span>
                                 <!-- Dropdown icon if children exist -->
-                                <img v-if="item.links && item.links.length" class="transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-black.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="10" height="6" />
+                                <NuxtImg v-if="item.links && item.links.length" class="transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-black.svg" :alt="t(`General.Alts.Chevron Down Black`)" width="10" height="6" />
                             </template>
                         </div>
 
@@ -159,12 +159,12 @@
                 <div class="absolute bottom-[calc(93px)] flex flex-col gap-4 w-full left-1/2 -translate-x-1/2 z-50 py-4 text-sm bg-white text-center group">
                     <div class="relative w-full bg-white">
                         <div class="flex justify-center items-center gap-2 w-max py-1 px-2 rounded-full mx-auto bg-[#ECECEE]">
-                            <img :src="`/images/flags/${ currentLocaleDetails.icon.toUpperCase() }.svg`" :alt="t(`General.Regions.${currentLocaleDetails.region}`)" width="16" height="16" />
+                            <NuxtImg :src="`/images/flags/${ currentLocaleDetails.icon.toUpperCase() }.svg`" :alt="t(`General.Regions.${currentLocaleDetails.region}`)" width="16" height="16" />
                             <span class="text-xs font-AeonikMedium">{{ currentLocale.split('-')[0].toUpperCase() }}</span>
 
-                            <!-- <img src="/images/flags/uk.svg" alt="UK" width="16" height="16" /> -->
+                            <!-- <NuxtImg src="/images/flags/uk.svg" alt="UK" width="16" height="16" /> -->
                             <!-- <span class="text-sm font-AeonikRegular">English</span> -->
-                            <img v-if="filteredLocales.length > 0" class="rotate-0 group-hover:rotate-180 transition-all duration-300 ease-in-out" src="/images/icons/chevron-up-gray.svg" :alt="t(`General.Alts.Chevron Up Gray`)" width="8" height="6" />
+                            <NuxtImg v-if="filteredLocales.length > 0" class="rotate-0 group-hover:rotate-180 transition-all duration-300 ease-in-out" src="/images/icons/chevron-up-gray.svg" :alt="t(`General.Alts.Chevron Up Gray`)" width="8" height="6" />
                         </div>
                     </div>
 
@@ -172,7 +172,7 @@
                         <ul class="languages-mobile absolute bottom-full left-1/2 -translate-x-1/2 z-50 grid grid-cols-2 gap-4 w-1/2 mx-auto py-4 px-2 rounded text-white overflow-hidden invisible opacity-0 group-hover:visible group-hover:opacity-100 transition-opacity duration-300 ease-in-out">
                             <template v-for="(locale, index) in filteredLocales" :key="locale.index">
                                 <li @click.prevent.stop="changeLocale(locale.code)" class="flex gap-2 justify-start w-max transition-all duration-300 ease-in-out">
-                                    <!-- <img :src="`/images/flags/${ locale.icon.toUpperCase() }.svg`" alt="{{ locale.language }}" width="24" height="24" /> -->
+                                    <!-- <NuxtImg :src="`/images/flags/${ locale.icon.toUpperCase() }.svg`" alt="{{ locale.language }}" width="24" height="24" /> -->
                                     <span class="text-sm font-AeonikRegular">{{ t(`General.Languages.${locale.language}`) }}</span>
                                 </li>
                             </template>

@@ -34,19 +34,19 @@
                         <div v-for="(member, memberIndex) in team.members" :key="`team-${teamIndex}-member-${memberIndex}`" @click="setActive(memberIndex, teamIndex)" :class="{ 'absolute invisible opacity-0': activeTab !== teamIndex }" class="rounded-[30px] overflow-hidden">
                             <div :class="{ active: activeIndex[teamIndex] === memberIndex }" class="inner relative w-full h-full">
                                 <div class="front relative transition-transform duration-300 ease-in-out cursor-pointer overflow-hidden z-10">
-                                    <img loading="lazy" class="w-full" :src="`/images/${member.image}.webp`" :alt="member.name" width="680" height="668">
+                                    <NuxtImg loading="lazy" class="w-full" :src="`/images/${member.image}.webp`" :alt="member.name" width="680" height="668" />
                                     <div class="flex flex-col justify-center max-lg:items-center gap-2 mx-auto text-center bg-[#ECECEE] p-6">
                                         <h2 class="font-AeonikBlack text-lg md:text-xl xl:text-2xl 4xl:text-3xl uppercase">{{ member.name }}</h2>
                                         <h3 class="text-xl">{{ member.position }}</h3>
                                     </div>
                                     <div class="absolute top-6 right-6">
-                                        <img loading="lazy" src="/images/icons/chevron-right-box-gray.svg" :alt="t(`General.Alts.Chevron Right Box Gray`)" width="30" height="30">
+                                        <NuxtImg loading="lazy" src="/images/icons/chevron-right-box-gray.svg" :alt="t(`General.Alts.Chevron Right Box Gray`)" width="30" height="30" />
                                     </div>
                                 </div>
                                 <div class="back absolute top-0 w-full h-full py-20 px-8 text-white bg-black transition-transform duration-300 ease-in-out cursor-pointer overflow-hidden">
                                     <p class="text-base" v-html="member.bio"></p>
                                     <div class="absolute top-6 right-6">
-                                        <img loading="lazy" src="/images/icons/chevron-left-box-black.svg" :alt="t(`General.Alts.Chevron Left Box Black`)" width="30" height="30">
+                                        <NuxtImg loading="lazy" src="/images/icons/chevron-left-box-black.svg" :alt="t(`General.Alts.Chevron Left Box Black`)" width="30" height="30" />
                                     </div>
                                 </div>
                             </div>

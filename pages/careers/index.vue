@@ -24,7 +24,7 @@
                         <p class="text-xl" v-html="t(`Pages.Careers.Section 2.Cards[0].Description 2`)"></p>
                     </div>
                     <div class="absolute -top-20 left-50 -translate-x-1/2">
-                        <img loading="lazy" src="/images/icons/telephone-box-primary.svg" :alt="t(`Pages.Careers.Section 2.Cards[0].Image Alt`)" width="78" height="78">
+                        <NuxtImg loading="lazy" src="/images/icons/telephone-box-primary.svg" :alt="t(`Pages.Careers.Section 2.Cards[0].Image Alt`)" width="78" height="78" />
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                                     <div class="flex flex-col gap-1 w-[160px]">
                                         <div @click="toggleDropdown" class="custom-dropdown w-full h-full min-h-14 py-3 px-3 bg-white border border-[#D4D4D4] rounded-lg outline-none cursor-pointer">
                                             <div id="selected-country" class="flex justify-start items-center gap-2 select-none">
-                                                <img loading="lazy" :src="`/images/flags/${selectedCountry.iso2 || 'LB' }.svg`" :alt="selectedCountry.name || 'Lebanon'" width="20" height="20">
+                                                <NuxtImg loading="lazy" :src="`/images/flags/${selectedCountry.iso2 || 'LB' }.svg`" :alt="selectedCountry.name || 'Lebanon'" width="20" height="20" />
                                                 <span>+{{ selectedCountry.code || '961' }}</span>
                                             </div>
                                         </div>
@@ -88,7 +88,7 @@
                                         <input v-model="searchQuery" type="text" id="search" :placeholder="t(`General.Placeholders.Search`)" class="sticky top-0 left-0 w-full bg-white px-4 py-2 border-b border-b-[#D4D4D4] outline-0 z-10">
                                         <template v-for="country in filteredCountries">
                                             <li v-if="country.status == 1" :key="country.id" @click="selectCountry(country)" class="flex gap-2 text-black p-2 hover:bg-[#D4D4D4] cursor-pointer">
-                                                <img loading="lazy" :src="`/images/flags/${country.iso2}.svg`" :alt="country.name" width="20" height="20" />
+                                                <NuxtImg loading="lazy" :src="`/images/flags/${country.iso2}.svg`" :alt="country.name" width="20" height="20" />
                                                 <span class="text-xs text-[#73788B]">(+{{ country.code }})</span>
                                                 <span class="text-xs">{{ country.name }}</span>
                                             </li>
@@ -133,7 +133,7 @@
                                             <p>{{ t(`General.Labels.Uploaded File`) }}: {{ file.name }}</p>
                                             <div class="flex justify-between items-center gap-2">
                                                 <p>{{ t(`General.Labels.File Size`) }}: {{ file.size }}</p>
-                                                <img loading="lazy" v-if="!file.error" @click="deleteFile(index)" src="/images/icons/close-red.svg" :alt="t(`General.Alts.Close Red`)" width="10" height="10" class="cursor-pointer" />
+                                                <NuxtImg loading="lazy" v-if="!file.error" @click="deleteFile(index)" src="/images/icons/close-red.svg" :alt="t(`General.Alts.Close Red`)" width="10" height="10" class="cursor-pointer" />
                                             </div>
                                         </div>
                                         <p v-if="file.error" class="text-xs text-red-500">{{ file.error }}</p>

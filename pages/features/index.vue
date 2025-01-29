@@ -28,7 +28,7 @@
                         <template v-for="(item, featureIndex) in category.featuresItems" :key="featureIndex">
                             <div :class="{ 'absolute invisible opacity-0': activeTab !== index }" class="flex flex-col justify-between gap-8 p-8 lg:p-12 bg-[#F7F7F7] rounded-[30px]">
                                 <div class="flex flex-col gap-2">
-                                    <img loading="lazy" :src="`/images/icons/${ item.icon }.svg`" :alt="item.title" width="90" height="90">
+                                    <NuxtImg loading="lazy" :src="`/images/icons/${ item.icon }.svg`" :alt="item.title" width="90" height="90" />
                                     <h2 class="font-AeonikBlack text-xl md:text-2xl xl:text-3xl 4xl:text-5xl uppercase mt-6">{{ item.title }}</h2>
                                     <p class="text-xl" v-html="`${item.excerpt}...`"></p>
                                 </div>

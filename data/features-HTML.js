@@ -8,7 +8,7 @@ export const featuresData = [
                 description: `
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Experience seamless banking with MyMonty Europe's digital Wallet Account</h3>
                         </div>
                         <p>
@@ -22,7 +22,7 @@ export const featuresData = [
 
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Top-up by card</h3>
                         </div>
                         <p>
@@ -34,7 +34,7 @@ export const featuresData = [
 
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Top up by P2P request</h3>
                         </div>
                         <p>
@@ -44,7 +44,7 @@ export const featuresData = [
 
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Top up by SEPA transfer</h3>
                         </div>
                         <p>
@@ -80,19 +80,19 @@ export const featuresData = [
                         </div>
                         <ul class="flex flex-col gap-4">
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>View card details by clicking the See details button and authenticating yourself</h4>
                             </li>
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>Freeze the card</h4>
                             </li>
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>Destroy the card (only after it has been frozen)</h4>
                             </li>
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>Add the card to Apple or Google Pay</h4>
                             </li>
                         </ul>
@@ -132,15 +132,15 @@ export const featuresData = [
                         </div>
                         <ul class="flex flex-col gap-4">
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>View card details by clicking the See details button and authenticating yourself</h4>
                             </li>
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>Freeze the card</h4>
                             </li>
                             <li class="flex items-baseline gap-2">
-                                <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                                <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                                 <h4>Add the card to Apple or Google Pay.</h4>
                             </li>
                         </ul>
@@ -165,7 +165,7 @@ export const featuresData = [
                 description: `
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Receive wire transfers with ease</h3>
                         </div>
                         <p>
@@ -174,7 +174,7 @@ export const featuresData = [
                     </div>
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Send wire transfers</h3>
                         </div>
                         <p>
@@ -191,7 +191,7 @@ export const featuresData = [
                 description: `
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Instant P2P transfers</h3>
                         </div>
                         <p>
@@ -200,7 +200,7 @@ export const featuresData = [
                     </div>
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Send money instantly</h3>
                         </div>
                         <p>
@@ -209,7 +209,7 @@ export const featuresData = [
                     </div>
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Receive funds effortless</h3>
                         </div>
                         <p>
@@ -218,7 +218,7 @@ export const featuresData = [
                     </div>
                     <div class="flex flex-col gap-4">
                         <div class="flex items-baseline gap-2">
-                            <img loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18">
+                            <NuxtImg loading="lazy" src="/images/icons/box-empty.svg" alt="Box Empty" width="18" height="18" />
                             <h3>Request money conveniently</h3>
                         </div>
                         <p>

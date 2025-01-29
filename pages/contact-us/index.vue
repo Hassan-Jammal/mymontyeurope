@@ -52,7 +52,7 @@
                                     <div class="flex flex-col gap-1 w-[160px]">
                                         <div @click="toggleDropdown" class="custom-dropdown w-full h-full min-h-14 py-3 px-3 bg-white border border-[#D4D4D4] rounded-lg outline-none cursor-pointer">
                                             <div id="selected-country" class="flex justify-start items-center gap-2 select-none">
-                                                <img loading="lazy" :src="`/images/flags/${selectedCountry.iso2 || 'LB' }.svg`" :alt="selectedCountry.name || 'Lebanon'" width="20" height="20">
+                                                <NuxtImg loading="lazy" :src="`/images/flags/${selectedCountry.iso2 || 'LB' }.svg`" :alt="selectedCountry.name || 'Lebanon'" width="20" height="20" />
                                                 <span>+{{ selectedCountry.code || '961' }}</span>
                                             </div>
                                         </div>
@@ -64,7 +64,7 @@
                                         <input v-model="searchQuery" type="text" id="search" :placeholder="t(`General.Placeholders.Search`)" class="sticky top-0 left-0 w-full bg-white px-4 py-2 border-b border-b-[#D4D4D4] outline-0 z-10">
                                         <template v-for="country in filteredCountries">
                                             <li v-if="country.status == 1" :key="country.id" @click="selectCountry(country)" class="flex gap-2 text-black p-2 hover:bg-[#D4D4D4] cursor-pointer">
-                                                <img loading="lazy" :src="`/images/flags/${country.iso2}.svg`" :alt="country.name" width="20" height="20" />
+                                                <NuxtImg loading="lazy" :src="`/images/flags/${country.iso2}.svg`" :alt="country.name" width="20" height="20" />
                                                 <span class="text-xs text-[#73788B]">(+{{ country.code }})</span>
                                                 <span class="text-xs">{{ country.name }}</span>
                                             </li>
@@ -124,7 +124,7 @@
                         <p class="text-xl 4xl:text-2xl uppercase" v-html="t(`Pages.Contact Us.Section 3.Description 1`)"></p>
                     </div>
                     <div class="flex flex-col justify-between items-start gap-4 lg:gap-8 text-white">
-                        <img loading="lazy" class="" src="/images/icons/phone-box-primary.svg" :alt="t(`General.Alts.Phone Box Blue`)" width="78" height="78">
+                        <NuxtImg loading="lazy" class="" src="/images/icons/phone-box-primary.svg" :alt="t(`General.Alts.Phone Box Blue`)" width="78" height="78" />
                         <p class="text-2xl 4xl:text-3xl" v-html="t(`Pages.Contact Us.Section 3.Description 2`)"> </p>
                     </div>
                 </div>

@@ -11,9 +11,9 @@ export default defineNuxtConfig({
 	// 	  'Exo 2': '400..900'
 	// 	} 
 	// },
-	site: {
-		url: 'https://mymonty.com',
-	},
+	// site: {
+	// 	url: 'https://mymonty.com',
+	// },
 	sitemap: {
 		// exclude all URLs that start with /secret
 		// exclude: ['/team/**']
@@ -225,6 +225,6 @@ export default defineNuxtConfig({
 		extractCSS: true
 	},
 	image: {
-		
+		provider: "twicpics",
 	}
 })

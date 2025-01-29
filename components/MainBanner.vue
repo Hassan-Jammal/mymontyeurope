@@ -11,7 +11,7 @@
                 <ScrollButton v-else target="section-2" class="w-max py-2 px-6 text-base text-black hover:text-white bg-white hover:bg-primary rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">{{ t(`General.Buttons.${ buttonText }`) }}</ScrollButton>
             </div>
             <div class="w-full">
-                <img loading="lazy" class="w-full" :src="`/images/${ image }.webp`" :alt="t(`Pages.${ page }.Banner.${ alt }`)" width="826" height="950">
+                <NuxtImg loading="lazy" class="w-full" :src="`/images/${ image }.webp`" :alt="t(`Pages.${ page }.Banner.${ alt }`)" width="826" height="950" />
             </div>
         </div>
     </section>
