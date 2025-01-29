@@ -32,7 +32,7 @@
                                 <p class="text-left text-xl" v-html="post.excerpt.rendered"></p>
                             </div>
                             <div class="w-full h-full rounded-b-[30px] lg:rounded-r-[30px] lg:rounded-l-none overflow-hidden">
-                                <NuxtImg loading="lazy" class="w-full h-full object-cover" :src="post._embedded['wp:featuredmedia']['0'].source_url" :alt="post.title.rendered" :width="post._embedded['wp:featuredmedia'][0].media_details.width" :height="post._embedded['wp:featuredmedia'][0].media_details.height" />
+                                <img loading="lazy" class="w-full h-full object-cover" :src="post._embedded['wp:featuredmedia']['0'].source_url" :alt="post.title.rendered" :width="post._embedded['wp:featuredmedia'][0].media_details.width" :height="post._embedded['wp:featuredmedia'][0].media_details.height" />
                             </div>
                         </div>
                     </div>

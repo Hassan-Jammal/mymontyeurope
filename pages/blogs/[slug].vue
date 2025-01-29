@@ -25,7 +25,7 @@
             <div class="container">
                 <div class="flex flex-col gap-8 lg:gap-12 px-4 py-8 lg:p-12 bg-[#F7F7F7] rounded-[30px]">
                     <NuxtLinkLocale :to="'/blogs'" class="w-max py-2 px-6 text-base text-white bg-primary hover:bg-black rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">{{ t(`General.Buttons.Back To Blogs`) }}</NuxtLinkLocale>
-                    <NuxtImg :src="post[0]._embedded['wp:featuredmedia']['0'].source_url" class="w-full rounded-xl overflow-hidden" :alt="post[0].title.rendered" :width="post[0]._embedded['wp:featuredmedia'][0].media_details.width" :height="post[0]._embedded['wp:featuredmedia'][0].media_details.height" />
+                    <img :src="post[0]._embedded['wp:featuredmedia']['0'].source_url" class="w-full rounded-xl overflow-hidden" :alt="post[0].title.rendered" :width="post[0]._embedded['wp:featuredmedia'][0].media_details.width" :height="post[0]._embedded['wp:featuredmedia'][0].media_details.height" />
                     <span>{{ new Date(post[0].date).toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }) }}</span>
                     <h1 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase" v-html="post[0].title.rendered"></h1>
                     <div class="text-xl" v-html="post[0].content.rendered"></div>
