@@ -168,7 +168,7 @@
                 <div class="grid lg:grid-cols-3 justify-start gap-8 xl:w-3/4 mx-auto text-white text-center mt-14">
                     <div class="flex flex-col justify-between gap-14 border border-white rounded-[30px] py-10 px-8">
                         <div>
-                            <h4 class="font-AeonikBlack text-2xl md:text-3xl xl:text-4xl 4xl:text-5xl uppercase">{{ t(`Pages.Homepage.Section 9.Plans[0].Title`) }}</h4>
+                            <h3 class="font-AeonikBlack text-2xl md:text-3xl xl:text-4xl 4xl:text-5xl uppercase">{{ t(`Pages.Homepage.Section 9.Plans[0].Title`) }}</h3>
                             <p class="text-xl mt-4" v-html="t(`Pages.Homepage.Section 9.Plans[0].Description`)"></p>
                         </div>
                         <div class="w-full px-4">
@@ -177,7 +177,7 @@
                     </div>
                     <div class="flex flex-col justify-between gap-14 border border-white rounded-[30px] py-10 px-8">
                         <div>
-                            <h4 class="font-AeonikBlack text-2xl md:text-3xl xl:text-4xl 4xl:text-5xl uppercase">{{ t(`Pages.Homepage.Section 9.Plans[1].Title`) }}</h4>
+                            <h3 class="font-AeonikBlack text-2xl md:text-3xl xl:text-4xl 4xl:text-5xl uppercase">{{ t(`Pages.Homepage.Section 9.Plans[1].Title`) }}</h3>
                             <p class="text-xl mt-4" v-html="t(`Pages.Homepage.Section 9.Plans[1].Description`)"></p>
                         </div>
                         <div class="w-full px-4">
@@ -187,7 +187,7 @@
                     </div>
                     <div class="flex flex-col justify-between gap-14 border border-white rounded-[30px] py-10 px-8">
                         <div>
-                            <h4 class="font-AeonikBlack text-2xl md:text-3xl xl:text-4xl 4xl:text-5xl uppercase">{{ t(`Pages.Homepage.Section 9.Plans[2].Title`) }}</h4>
+                            <h3 class="font-AeonikBlack text-2xl md:text-3xl xl:text-4xl 4xl:text-5xl uppercase">{{ t(`Pages.Homepage.Section 9.Plans[2].Title`) }}</h3>
                             <p class="text-xl mt-4" v-html="t(`Pages.Homepage.Section 9.Plans[2].Description`)"></p>
                         </div>
                         <div class="w-full px-4">
@@ -206,7 +206,7 @@
 
     useSeoMeta({
         title: t('Pages.Homepage.Seo.Title'),
-        description: '',
+        description: t('Pages.Homepage.Seo.Description'),
 
         ogTitle: t('Pages.Homepage.Seo.Og Title'),
         ogDescription: t('Pages.Homepage.Seo.Og Description'),
