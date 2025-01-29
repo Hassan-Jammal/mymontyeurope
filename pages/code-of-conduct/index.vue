@@ -16,7 +16,7 @@
                 <div class="grid lg:grid-cols-2 gap-4">
                     <div v-for="(item, index) in valuesItems" :key="index" class="p-8 lg:p-12 bg-[#F7F7F7] rounded-[30px]">
                         <div class="flex flex-col lg:flex-row justify-start items-start gap-8">
-                            <img class="w-20" :src="`/images/icons/${ item.icon }.svg`" :alt="t(`Pages.Code Of Conduct.Section 2.Cards[${index}].Image Alt`)" width="130" height="130">
+                            <img loading="lazy" class="w-20" :src="`/images/icons/${ item.icon }.svg`" :alt="t(`Pages.Code Of Conduct.Section 2.Cards[${index}].Image Alt`)" width="130" height="130">
                             <div class="flex flex-col gap-2">
                                 <h2 class="font-AeonikBlack text-xl md:text-2xl xl:text-3xl 4xl:text-5xl uppercase">{{ item.title }}</h2>
                                 <p class="text-xl" v-html="item.description"></p>

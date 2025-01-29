@@ -15,8 +15,8 @@
             <div class="container flex flex-col gap-8 lg:gap-14">
                 <div class="relative">
                     <input v-model="searchQuery" type="text" class="relative w-full py-4 px-6 bg-[#ECECEE] rounded-full leading-none outline-none" :placeholder="t(`General.Placeholders.Search`)" />
-                    <img v-if="!searchQuery" src="/images/icons/search-gray.svg" class="absolute top-1/2 right-6 -translate-y-1/2" :alt="t(`General.Alts.Search Gray`)" width="20" height="20">
-                    <img v-else @click="searchQuery = ''" src="/images/icons/close-gray.svg" class="absolute top-1/2 right-6 -translate-y-1/2 cursor-pointer" :alt="t(`General.Alts.Search Gray`)" width="16" height="16">
+                    <img loading="lazy" v-if="!searchQuery" src="/images/icons/search-gray.svg" class="absolute top-1/2 right-6 -translate-y-1/2" :alt="t(`General.Alts.Search Gray`)" width="20" height="20">
+                    <img loading="lazy" v-else @click="searchQuery = ''" src="/images/icons/close-gray.svg" class="absolute top-1/2 right-6 -translate-y-1/2 cursor-pointer" :alt="t(`General.Alts.Search Gray`)" width="16" height="16">
                 </div>
                 <!-- <div class="flex flex-col justify-center items-center gap-4 lg:gap-8 lg:w-2/3 mx-auto text-center mt-8">
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ faqsItems[selectedCategoryIndex]?.topic || 'No Category Selected' }}</h2>

@@ -10,18 +10,18 @@
                     <div class="flex gap-4">
                         <a href="https://play.google.com/store/apps/details?id=com.mymonty.wallet" :aria-label="t(`General.Alts.Google Play`)" target="_blank" rel="noopener noreferrer">
                             <div class="py-4 px-4 lg:px-6 min-w-32 bg-white rounded-xl cursor-pointer transition-all duration-300 ease-in-out">
-                                <img src="/images/icons/google-play.svg" :alt="t(`General.Alts.Google Play`)" width="150" height="40">
+                                <img loading="lazy" src="/images/icons/google-play.svg" :alt="t(`General.Alts.Google Play`)" width="150" height="40">
                             </div>
                         </a>
                         <a href="https://apps.apple.com/lb/app/mymonty-europe/id6451243007" aria-label="t(`General.Alts.Apple Store`)" target="_blank" rel="noopener noreferrer">
                             <div class="py-4 px-4 lg:px-6 min-w-32 bg-white rounded-xl cursor-pointer transition-all duration-300 ease-in-out">
-                                <img src="/images/icons/app-store.svg" :alt="t(`General.Alts.Apple Store`)" width="150" height="40">
+                                <img loading="lazy" src="/images/icons/app-store.svg" :alt="t(`General.Alts.Apple Store`)" width="150" height="40">
                             </div>
                         </a>
                     </div>
                 </div>
                 <div class="mx-auto lg:ms-auto lg:mx-0 text-right">
-                    <img src="/images/icons/qr-code.svg" :alt="t(`General.Alts.Qr Code`)" width="180" height="180">
+                    <img loading="lazy" src="/images/icons/qr-code.svg" :alt="t(`General.Alts.Qr Code`)" width="180" height="180">
                     <p class="text-center text-xl mt-4" v-html="t(`General.Download.Scan Qr`)"></p>
                 </div>
             </div>

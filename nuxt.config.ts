@@ -220,5 +220,8 @@ export default defineNuxtConfig({
 		},
 		strategy: 'prefix_except_default',
 		// // //  {{ $t('Header.' + locale.language) }} or {{ $t('Header.Features) }}
+	},
+	webpack: {
+		extractCSS: true
 	}
 })

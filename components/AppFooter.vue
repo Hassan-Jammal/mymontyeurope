@@ -18,7 +18,7 @@
                         <template v-if="item.clickable">
                             <div class="children-toggle max-sm:flex max-sm:justify-between max-sm:gap-4 font-AeonikBold text-white hover:text-primary text-xl transition-all duration-300 ease-in-out">
                                 <NuxtLinkLocale :to="`/${item.path}`">{{ t(`General.Links.${item.title}`) }}</NuxtLinkLocale>
-                                <img v-if="item.links && item.links.length > 0" class="block sm:hidden transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-white.svg" :alt="t(`General.Alts.Chevron Down White`)" width="14" height="8" />
+                                <img loading="lazy" v-if="item.links && item.links.length > 0" class="block sm:hidden transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-white.svg" :alt="t(`General.Alts.Chevron Down White`)" width="14" height="8" />
                             </div>
                         </template>
 
@@ -26,7 +26,7 @@
                         <template v-else>
                             <div class="children-toggle max-sm:flex max-sm:justify-between max-sm:gap-4 font-AeonikBold text-white text-xl">
                                 <span>{{ t(`General.Links.${item.title}`) }}</span>
-                                <img v-if="item.links && item.links.length > 0" class="block sm:hidden transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-white.svg" :alt="t(`General.Alts.Chevron Down White`)" width="14" height="8" />
+                                <img loading="lazy" v-if="item.links && item.links.length > 0" class="block sm:hidden transition-all duration-300 ease-in-out" src="/images/icons/chevron-down-white.svg" :alt="t(`General.Alts.Chevron Down White`)" width="14" height="8" />
                             </div>
                         </template>
 
@@ -45,19 +45,19 @@
                 <div class="flex flex-col gap-2">
                     <div class="flex max-md:justify-center items-center gap-8">
                         <a href="https://www.facebook.com/mymonty" class="cursor-pointer" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-                            <img src="/images/icons/facebook.svg" alt="Facebook" width="24" height="24" />
+                            <img loading="lazy" src="/images/icons/facebook.svg" alt="Facebook" width="24" height="24" />
                         </a>
                         <a href="https://x.com/mymontyapp" class="cursor-pointer" target="_blank" rel="noopener noreferrer" aria-label="X">
-                            <img src="/images/icons/x.svg" alt="X" width="24" height="24" />
+                            <img loading="lazy" src="/images/icons/x.svg" alt="X" width="24" height="24" />
                         </a>
                         <a href="https://www.instagram.com/mymonty" class="cursor-pointer" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-                            <img src="/images/icons/instagram.svg" alt="instagram" width="24" height="24" />
+                            <img loading="lazy" src="/images/icons/instagram.svg" alt="instagram" width="24" height="24" />
                         </a>
                         <a href="https://www.linkedin.com/company/my-monty" class="cursor-pointer" target="_blank" rel="noopener noreferrer" aria-label="Linkedin">
-                            <img src="/images/icons/linkedin.svg" alt="Linkedin" width="24" height="24" />
+                            <img loading="lazy" src="/images/icons/linkedin.svg" alt="Linkedin" width="24" height="24" />
                         </a>
                         <a href="https://www.youtube.com/@mymonty4395" class="cursor-pointer" target="_blank" rel="noopener noreferrer" aria-label="Youtube">
-                            <img src="/images/icons/youtube.svg" alt="Youtube" width="24" height="24" />
+                            <img loading="lazy" src="/images/icons/youtube.svg" alt="Youtube" width="24" height="24" />
                         </a>
                     </div>
                     <p class="text-[#727272] text-sm mt-2">{{ t(`Footer.Toll-Free Number`) }}: <a href="tel:+448082387522" class="underline underline-offset-4 hover:text-primary transition-all duration-300 ease-in-out">Call Us</a></p>
