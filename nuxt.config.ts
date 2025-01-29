@@ -5,7 +5,7 @@ export default defineNuxtConfig({
 	// ssr: true,
 	css: ["~/assets/sass/app.sass"],
 	pages: true,
-	modules: ['@nuxtjs/tailwindcss', 'nuxt-gtag', '@nuxtjs/sitemap', 'nuxt-aos', "@vueuse/nuxt", "@nuxtjs/i18n", "@nuxt/scripts", '@nuxtjs/google-fonts'],
+	modules: ['@nuxtjs/tailwindcss', 'nuxt-gtag', '@nuxtjs/sitemap', 'nuxt-aos', "@vueuse/nuxt", "@nuxtjs/i18n", "@nuxt/scripts", '@nuxtjs/google-fonts', "@nuxt/image"],
 	// googleFonts: {
 	// 	families: {
 	// 	  'Exo 2': '400..900'
@@ -223,5 +223,8 @@ export default defineNuxtConfig({
 	},
 	webpack: {
 		extractCSS: true
+	},
+	image: {
+		
 	}
 })

@@ -114,7 +114,7 @@
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Homepage.Section 7.Title`) }}</h2>
                     <p class="text-xl" v-html="t(`Pages.Homepage.Section 7.Description`)"></p>
                 </div>
-                <img loading="lazy" class="w-full mt-8" src="/images/time-to-go-digital.webp" :alt="t(`Pages.Homepage.Section 7.Image Alt`)" width="2124" height="1022">
+                <NuxtImg loading="lazy" class="w-full mt-8" src="/images/time-to-go-digital.webp" :alt="t(`Pages.Homepage.Section 7.Image Alt`)" width="2124" height="1022" :placeholder="[50, 25, 75, 5]" />
             </div>
         </section>
 
