@@ -81,7 +81,7 @@
             <hr class="border-[#72727222]" />
 
             <div class="flex flex-col gap-6 py-6 sm:py-12">
-                <p class="text-base text-[#727272]" v-html="t(`Footer.Copyright`)"></p>
+                <p class="text-base text-[#727272]" v-html="`${t('Footer.Copyright 1')} ${new Date().getFullYear()}, ${t('Footer.Copyright 2')}`"></p>
                 <p class="text-[#727272] text-sm mt-2" v-html="t(`Footer.Paynetics Agreement`)"></p>
             </div>
         </div>
