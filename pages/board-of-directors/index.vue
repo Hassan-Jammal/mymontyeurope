@@ -108,12 +108,12 @@
                     bio: t(`Pages.Board Of Directors.Section 2.Cards[4].Bio`),
                     image: "sarah-alateeqi"
                 },
-                {
-                    name: t(`Pages.Board Of Directors.Section 2.Cards[5].Name`),
-                    position: t(`Pages.Board Of Directors.Section 2.Cards[5].Position`),
-                    bio: t(`Pages.Board Of Directors.Section 2.Cards[5].Bio`),
-                    image: "mike-quintanilla"
-                }
+                // {
+                //     name: t(`Pages.Board Of Directors.Section 2.Cards[5].Name`),
+                //     position: t(`Pages.Board Of Directors.Section 2.Cards[5].Position`),
+                //     bio: t(`Pages.Board Of Directors.Section 2.Cards[5].Bio`),
+                //     image: "mike-quintanilla"
+                // }
             ]
         },
         // {
