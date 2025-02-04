@@ -47,21 +47,16 @@
                         ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
                         : null;
 
-                    // Ensure feature.value has valid properties before calling useSeoMeta()
-                    if (feature.value && feature.value.title && feature.value.image) {
-                        await nextTick();
-
-                        useSeoMeta({
-                            title: feature.value.title,
-                            description: feature.value.excerpt || 'Features',
-                            ogTitle: feature.value.title,
-                            ogDescription: feature.value.excerpt || 'Features',
-                            ogImage: `/images/${feature.value.image}.webp`,
-                            twitterTitle: feature.value.title,
-                            twitterDescription: feature.value.excerpt || 'Features',
-                            twitterCard: 'summary_large_image',
-                        });
-                    }
+                    useSeoMeta({
+                        title: () => feature.value.title,
+                        description: () => feature.value.excerpt || 'Features',
+                        ogTitle: () => feature.value.title,
+                        ogDescription: () => feature.value.excerpt || 'Features',
+                        // ogImage: `/images/${feature.value.image}.webp`,
+                        twitterTitle: () => feature.value.title,
+                        twitterDescription: () => feature.value.excerpt || 'Features',
+                        twitterCard: 'summary_large_image',
+                    });
                 } 
                 else {
                     setError({ statusCode: 404 });
