@@ -47,18 +47,19 @@
                         ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
                         : null;
 
-                    if (feature.value) {
-                        useSeoMeta({
-                            title: () => feature.value.title,
-                            description: () => feature.value.excerpt || 'Features',
-                            ogTitle: () => feature.value.title,
-                            ogDescription: () => feature.value.excerpt || 'Features',
-                            // ogImage: `/images/${feature.value.image}.webp`,
-                            twitterTitle: () => feature.value.title,
-                            twitterDescription: () => feature.value.excerpt || 'Features',
-                            twitterCard: 'summary_large_image',
-                        });
-                    }
+                    // Set SEO meta using useHead
+                    useHead({
+                        title: feature.value.title,
+                        meta: [
+                            { name: 'description', content: feature.value.excerpt || 'Features' },
+                            { property: 'og:title', content: feature.value.title },
+                            { property: 'og:description', content: feature.value.excerpt || 'Features' },
+                            { property: 'og:image', content: `/images/${feature.value.image}.webp` },
+                            { name: 'twitter:title', content: feature.value.title },
+                            { name: 'twitter:description', content: feature.value.excerpt || 'Features' },
+                            { name: 'twitter:card', content: 'summary_large_image' },
+                        ],
+                    });
                 } 
                 else {
                     setError({ statusCode: 404 });
@@ -70,6 +71,8 @@
             setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the feature' });
         }
     });
+
+    
 </script>
 
 <style lang="sass" scoped>
