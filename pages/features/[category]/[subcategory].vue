@@ -20,7 +20,7 @@
     import { featuresData } from '~/data/features'; // Adjust the path accordingly
 
     const { t, currentLocale } = useLocale(); 
-    const setError = useError();
+    // const setError = useError();
     const router = useRouter();
     const route = useRoute();
 
