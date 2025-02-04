@@ -46,22 +46,22 @@
                     currentCategory.value = feature.value 
                         ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
                         : null;
-
+                    console.log(feature.value.title);
                     // Ensure feature.value has valid properties before calling useSeoMeta()
-                    if (feature.value.title && feature.value.image) {
-                        useSeoMeta({
-                            title: feature.value.title,
-                            description: feature.value.excerpt || 'Features',
-                            ogTitle: feature.value.title,
-                            ogDescription: feature.value.excerpt || 'Features',
-                            ogImage: `/images/${feature.value.image}.webp`,
-                            twitterTitle: feature.value.title,
-                            twitterDescription: feature.value.excerpt || 'Features',
-                            twitterCard: 'summary_large_image',
-                        });
-                    } else {
-                        console.warn("Feature data is incomplete:", feature.value);
-                    }
+                    // if (feature.value.title && feature.value.image) {
+                    //     useSeoMeta({
+                    //         title: feature.value.title,
+                    //         description: feature.value.excerpt || 'Features',
+                    //         ogTitle: feature.value.title,
+                    //         ogDescription: feature.value.excerpt || 'Features',
+                    //         ogImage: `/images/${feature.value.image}.webp`,
+                    //         twitterTitle: feature.value.title,
+                    //         twitterDescription: feature.value.excerpt || 'Features',
+                    //         twitterCard: 'summary_large_image',
+                    //     });
+                    // } else {
+                    //     console.warn("Feature data is incomplete:", feature.value);
+                    // }
                 } 
                 else {
                     setError({ statusCode: 404 });
