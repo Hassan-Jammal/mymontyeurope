@@ -64,7 +64,7 @@
             }
         } catch (err) {
             console.log(err)
-            // setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the feature' });
+            setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the feature' });
         }
     });
 </script>
