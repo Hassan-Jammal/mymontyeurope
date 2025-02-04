@@ -65,7 +65,7 @@
                 throw new Error("Features data is not an array");
             }
         } catch (err) {
-            setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the feature' });
+            // setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the feature' });
         }
     });
 </script>
