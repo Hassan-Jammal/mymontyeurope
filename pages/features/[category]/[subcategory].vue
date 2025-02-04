@@ -63,7 +63,6 @@
                 throw new Error("Features data is not an array");
             }
         } catch (err) {
-            console.log(err)
             setError({ statusCode: 500 });
         }
     });
