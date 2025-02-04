@@ -18,7 +18,6 @@
 
 <script setup>
     import { featuresData } from '~/data/features'; // Adjust the path accordingly
-    import slugify from '~/utils/slugify'; // Assuming you have a slugify utility
 
     const { t, currentLocale } = useLocale(); 
     const setError = useError();
