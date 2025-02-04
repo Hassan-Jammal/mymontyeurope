@@ -59,7 +59,7 @@
                     });
                 } 
                 else {
-                    setError({ statusCode: 404 });
+                    // setError({ statusCode: 404 });
                 }
             } else {
                 throw new Error("Features data is not an array");
@@ -68,8 +68,6 @@
             setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the feature' });
         }
     });
-
-    
 </script>
 
 <style lang="sass" scoped>
