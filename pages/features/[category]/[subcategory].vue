@@ -28,32 +28,7 @@
     const currentSubCategorySlug = ref(route.params.subcategory);
     const currentCategorySlug = ref(route.params.category);
     const currentCategory = ref(null);  // Store the category in a ref to reactively update
-
-    // Use watchEffect to fetch features and compute the current category
-    watchEffect(async () => {
-        try {
-            // Fetch all features data asynchronously
-            const allFeatures = await featuresData(t, currentLocale.value);
-
-            if (Array.isArray(allFeatures)) {
-                const flatFeatures = allFeatures.map(category => category.featuresItems).flat();
-
-                // Find the feature matching the subcategory slug
-                const feature = flatFeatures.find(feature => feature.path === currentSubCategorySlug.value);
-
-                // If a feature is found, compute the category
-                currentCategory.value = feature 
-                    ? allFeatures.find(category => category.featuresItems.includes(feature))?.category 
-                    : null;
-            } else {
-                throw new Error("Features data is not an array");
-            }
-        } catch (err) {
-            setError({ statusCode: 500, message: err.message || 'An error occurred while fetching the features' });
-        }
-    });
-
-    const feature = ref(null);
+    const feature = ref(null);  // Store the feature in a ref to reactively update
 
     // Fetch features and handle SEO meta updates in a watchEffect
     watchEffect(async () => {
@@ -68,6 +43,11 @@
                 feature.value = flatFeatures.find(feature => feature.path === currentSubCategorySlug.value);
 
                 if (feature.value) {
+                    // If a feature is found, compute the category
+                    currentCategory.value = feature.value 
+                        ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
+                        : null;
+
                     useSeoMeta({
                         title: feature.value.title,
                         description: feature.value.excerpt || 'Features',
@@ -78,9 +58,10 @@
                         twitterDescription: feature.value.excerpt || 'Features',
                         twitterCard: 'summary_large_image',
                     });
-                } else {
-                    setError({ statusCode: 404 });
-                }
+                } 
+                // else {
+                //     setError({ statusCode: 404 });
+                // }
             } else {
                 throw new Error("Features data is not an array");
             }
