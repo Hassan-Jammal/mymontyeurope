@@ -57,13 +57,13 @@
                     });
                 } 
                 else {
-                    setError({ statusCode: 404 });
+                    // setError({ statusCode: 404 });
                 }
             } else {
                 throw new Error("Features data is not an array");
             }
         } catch (err) {
-            setError({ statusCode: 500 });
+            // setError({ statusCode: 404 });
         }
     });
 </script>
