@@ -5,7 +5,7 @@
                 <div v-if="feature" class="flex flex-col gap-8 lg:gap-12 px-4 py-8 lg:p-12 bg-[#F7F7F7] rounded-[30px]">
                     <NuxtLinkLocale :to="`/features/${ currentCategorySlug }`" class="w-max py-2 px-6 text-base text-white bg-primary hover:bg-black rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">Back to {{ currentCategory }}</NuxtLinkLocale>
                     <NuxtImg class="w-full" :src="`/images/${ feature.image }.webp`" :alt="feature.title" width="960" height="406" />
-                    <h1 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase" v-html="feature.title"></h1>
+                    dddd<h1 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase" v-html="feature.title"></h1>
                     <div class="description flex flex-col gap-8" v-html="feature.description"></div>
                 </div>
                 <template v-else>
