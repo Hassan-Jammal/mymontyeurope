@@ -17,7 +17,6 @@
 </template>
 
 <script setup>
-    import he from 'he';
     import { featuresData } from '~/data/features'; // Adjust the path accordingly
 
     const { t, currentLocale } = useLocale(); 
@@ -48,14 +47,14 @@
                         ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
                         : null;
 
-                    useSeoMeta({
-                        title: () => he.decode(feature.value.title),
-                        description: () => he.decode(feature.value.excerpt) || 'Features',
-                        ogTitle: () => he.decode(feature.value.title),
-                        ogDescription: () => he.decode(feature.value.excerpt) || 'Features',
-                        ogImage: () => he.decode(`/images/${feature.value.image}.webp`),
-                        twitterTitle: () => he.decode(feature.value.title),
-                        twitterDescription: () => he.decode(feature.value.excerpt) || 'Features',
+                    useServerSeoMeta({
+                        title: feature.value.title,
+                        description: feature.value.excerpt || 'Features',
+                        ogTitle: feature.value.title,
+                        ogDescription: feature.value.excerpt || 'Features',
+                        // ogImage: `/images/${feature.value.image}.webp`,
+                        twitterTitle: feature.value.title,
+                        twitterDescription: feature.value.excerpt || 'Features',
                         twitterCard: 'summary_large_image',
                     });
                 } 
