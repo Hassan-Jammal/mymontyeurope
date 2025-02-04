@@ -47,7 +47,7 @@
                         ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
                         : null;
 
-                    useServerSeoMeta({
+                    useSeoMeta({
                         title: feature.value.title,
                         description: feature.value.excerpt || 'Features',
                         ogTitle: feature.value.title,
