@@ -59,9 +59,9 @@
                         twitterCard: 'summary_large_image',
                     });
                 } 
-                // else {
-                //     setError({ statusCode: 404 });
-                // }
+                else {
+                    setError({ statusCode: 404 });
+                }
             } else {
                 throw new Error("Features data is not an array");
             }
