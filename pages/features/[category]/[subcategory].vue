@@ -43,23 +43,21 @@
 
                 if (feature.value) {
                     // If a feature is found, compute the category
-                    currentCategory.value = feature.value 
-                        ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category 
-                        : null;
+                    currentCategory.value = feature.value ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category : null;
 
                     useSeoMeta({
                         title: feature.value.title,
-                        // description: feature.value.excerpt || 'Features',
+                        description: feature.value.excerpt || 'Features',
                         ogTitle: feature.value.title,
-                        // ogDescription: feature.value.excerpt || 'Features',
-                        // ogImage: `/images/${feature.value.image}.webp`,
+                        ogDescription: feature.value.excerpt || 'Features',
+                        ogImage: `/images/${feature.value.image}.webp`,
                         twitterTitle: feature.value.title,
-                        // twitterDescription: feature.value.excerpt || 'Features',
+                        twitterDescription: feature.value.excerpt || 'Features',
                         twitterCard: 'summary_large_image',
                     });
                 } 
                 else {
-                    // setError({ statusCode: 404 });
+                    setError({ statusCode: 404 });
                 }
             } else {
                 throw new Error("Features data is not an array");
