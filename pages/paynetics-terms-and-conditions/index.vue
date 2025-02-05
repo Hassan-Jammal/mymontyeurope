@@ -78,8 +78,8 @@
                         <li>Before we provide any of our services to you, you will have to successfully complete our process for verifying your identity. The process may involve you providing us a valid passport / ID card and a bank statement or other identification documents, as well as a selfie, together with the presented identity document in real time, or any other procedure we may specify. We may use ID verification agencies or other automated platforms to verify your identity. We or the Т echnical Provider may require you to provide additional information at any time for the duration of this Agreement.</li>
                         <li>This Agreement will only become effective once you receive a confirmation that Paynetics has approved your application. Paynetics will not be obliged to provide any of the services under this Agreement before such confirmation is provided. Paynetics may refuse to approve any application and/or enter into an agreement for its services for any reason.</li>
                         <li>To be eligible for our Account and associated services, you must be: (a) 18 years of age or over; (b) EU/EEA resident; (c) you must have passed all our identification procedures and checks; (d) you must have provided us with a valid email address and telephone number; (e) you must not have a previous Paynetics Card which has been deactivated by us; (f) you must not have committed a violation of this Agreement and (g) you must not have another profile in the App with which you have already successfully passed the identification procedure. We can close your Account or stop providing our services if we find out you are not eligible for it.</li>
-                        <li>The Account and Card are issued to individuals only. You may only use your Account and Card personally and do not have the right to transfer their use to anyone else. In case you allow access to or provide any other means to use your Account or Card to any other person, you will bear full responsibility for all payments initiated by them.
-                        <li>You must not use your Account or Card for or in relation to (including sending or receiving proceeds from):</li>
+                        <li>The Account and Card are issued to individuals only. You may only use your Account and Card personally and do not have the right to transfer their use to anyone else. In case you allow access to or provide any other means to use your Account or Card to any other person, you will bear full responsibility for all payments initiated by them.</li>
+                        <li>You must not use your Account or Card for or in relation to (including sending or receiving proceeds from):
                             <ol>
                                 <li>any activities which do not comply with any applicable laws or regulations, including but not limited to laws relating to money laundering, fraud, financial services or consumer protection;</li>
                                 <li>Prohibited Transaction under this Agreement; or</li>
@@ -591,13 +591,12 @@
                         </ol>
                         <h2 class="font-AeonikBlack text-lg md:text-xl xl:text-2xl 4xl:text-4xl uppercase mt-4">7. HOW WE PROTECT MONEY IN YOUR ACCOUNT</h2>
                         <p>When we receive money for your Account, we credit the Account with electronic money and we place the equivalent amount of money in segregated bank accounts with mainstream banks.</p>
-                        <p>This is commonly known as <strong>safeguarding </strong>.
-                            <ol>
-                                <li>Safeguarding means that in the unlikely event that we get into financial difficulties, the money which we safeguard will be protected from the claims of our creditors and it should be returned to you in full, less the costs incurred by insolvency practitioners in distributing the safeguarded funds.</li>
-                                <li>Segregated bank accounts are bank accounts which we hold with mainstream banks, and which only hold client money and not our own money.</li>
-                                <li>Money will not be safeguarded by us on your behalf, when it is deducted from your Account .</li>
-                            </ol>
-                        </p>
+                        <p>This is commonly known as <strong>safeguarding </strong>.</p>
+                        <ol>
+                            <li>Safeguarding means that in the unlikely event that we get into financial difficulties, the money which we safeguard will be protected from the claims of our creditors and it should be returned to you in full, less the costs incurred by insolvency practitioners in distributing the safeguarded funds.</li>
+                            <li>Segregated bank accounts are bank accounts which we hold with mainstream banks, and which only hold client money and not our own money.</li>
+                            <li>Money will not be safeguarded by us on your behalf, when it is deducted from your Account .</li>
+                        </ol>
                     <h2 class="font-AeonikBlack text-lg md:text-xl xl:text-2xl 4xl:text-4xl uppercase mt-4">8. PUSH PAYMENTS</h2>
                     <ol>
                         <li>A Push Payment is us sending money from your Account to:
@@ -731,28 +730,29 @@
                                     </ol>
                                 </li>
                             </ol>
-                            <li>changing your Password and/or your PIN as soon as reasonably possible if you suspect that someone, other than you, knows your Password and/or your PIN;</li>
-                            <li>ensuring that your Password is not stored by the browser or cached or otherwise recorded by the computer or other device used to gain access to the Platform;</li>
-                            <li>maintaining the security of your computer systems, including having an anti-virus software, on the computer or other device you use to gain access to the Platform;</li>
-                            <li>ensuring that the e-mail account(s), phone number, mobile phone number, computer and other network used to communicate with us are secure and only accessed by you; and</li>
-                            <li>taking all reasonable measures to keep your Card safe;</li>
-                            <li>not writing down your Password or PIN unless it is done in a way to make it difficult for anyone else to recognise them;
-                                <ol>
-                                    <li>not recording your PIN on your Card or keeping your PIN together with the Card;</li>
-                                </ol>
-                            </li>
-                            <li>not allowing anyone else to use in any manner whatsoever your Card, your PIN, the Platform or your Password;</li>
-                            <li>keeping your Cards and any personal devices (mobile phones, computers, tablets) that can be used to execute Card Payments secure and not letting anyone else use them to execute Card Payments or Cash Withdrawals;</li>
-                            <li>not choose a Password or PIN that would be easy for someone to guess such as letters or digits that:
-                                <ol>
-                                    <li>are easily associated with you, for example your telephone number or date of birth;</li>
-                                    <li>are part of the data imprinted on the Card;</li>
-                                    <li>consist of the same digits (1111) or the sequence of running digits (1234); or</li>
-                                    <li>are identical to previously selected PINs / passwords .</li>
-                                </ol>
-                            </li>
-                            <li>use up-to-date virus, malware, and spyware software and a firewall on any devices used to access your Cards or the Platform to reduce the risk of security breaches.</li>
                         </li>    
+
+                        <li>changing your Password and/or your PIN as soon as reasonably possible if you suspect that someone, other than you, knows your Password and/or your PIN;</li>
+                        <li>ensuring that your Password is not stored by the browser or cached or otherwise recorded by the computer or other device used to gain access to the Platform;</li>
+                        <li>maintaining the security of your computer systems, including having an anti-virus software, on the computer or other device you use to gain access to the Platform;</li>
+                        <li>ensuring that the e-mail account(s), phone number, mobile phone number, computer and other network used to communicate with us are secure and only accessed by you; and</li>
+                        <li>taking all reasonable measures to keep your Card safe;</li>
+                        <li>not writing down your Password or PIN unless it is done in a way to make it difficult for anyone else to recognise them;
+                            <ol>
+                                <li>not recording your PIN on your Card or keeping your PIN together with the Card;</li>
+                            </ol>
+                        </li>
+                        <li>not allowing anyone else to use in any manner whatsoever your Card, your PIN, the Platform or your Password;</li>
+                        <li>keeping your Cards and any personal devices (mobile phones, computers, tablets) that can be used to execute Card Payments secure and not letting anyone else use them to execute Card Payments or Cash Withdrawals;</li>
+                        <li>not choose a Password or PIN that would be easy for someone to guess such as letters or digits that:
+                            <ol>
+                                <li>are easily associated with you, for example your telephone number or date of birth;</li>
+                                <li>are part of the data imprinted on the Card;</li>
+                                <li>consist of the same digits (1111) or the sequence of running digits (1234); or</li>
+                                <li>are identical to previously selected PINs / passwords .</li>
+                            </ol>
+                        </li>
+                        <li>use up-to-date virus, malware, and spyware software and a firewall on any devices used to access your Cards or the Platform to reduce the risk of security breaches.</li>
                     </ol>
                         <li>You have to notify us via the Customer Relations Centre if:
                             <ol>

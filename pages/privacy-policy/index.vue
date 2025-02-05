@@ -75,7 +75,7 @@
                     
                     <h1 class="font-AeonikBlack text-xl md:text-2xl xl:text-3xl 4xl:text-5xl uppercase mt-4">DISCLOSURE OF YOUR INFORMATION</h1>
                     
-                    <p>We may share your personal information with: <li>Any member of our group, including but not limited to our subsidiaries, affiliates, sister companies, partners, sub-processors, such as Paynetics ( <a class="text-primary" href="https://mymonty.com/en-EU/paynetics-privacy-policy">Privacy Policy</a>), our payments processing partner. </li>
+                    <ul>We may share your personal information with: <li>Any member of our group, including but not limited to our subsidiaries, affiliates, sister companies, partners, sub-processors, such as Paynetics ( <a class="text-primary" href="https://mymonty.com/en-EU/paynetics-privacy-policy">Privacy Policy</a>), our payments processing partner. </li>
                         <li>Selected third parties including but not limited to:</li>
                         
                         <li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;</li>
@@ -96,7 +96,7 @@
                             of such business or assets.</li>
                         
                         <li>If the Company, or substantially all of its assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets.</li>
-                    </p>
+                    </ul>
                     
                     <h1 class="font-AeonikBlack text-xl md:text-2xl xl:text-3xl 4xl:text-5xl uppercase mt-4">CHILDREN PRIVACY</h1>
                     

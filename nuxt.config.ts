@@ -1,4 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { resolve } from 'path';
+
 export default defineNuxtConfig({
 	compatibilityDate: '2024-04-03',
 	devtools: { enabled: true },
@@ -136,25 +138,27 @@ export default defineNuxtConfig({
 	},
 	hooks: {
 		'pages:extend'(pages) {
+			const indexFile = resolve('pages/features/index.vue'); // Resolves the file path
+
 			pages.push({
 				name: 'Accounts',
 				path: '/features/accounts',
-				file: '~/pages/features/index.vue', // Reuse the index.vue file for Accounts
+				file: indexFile, // Reuse the index.vue file for Accounts
 			});
 			pages.push({
 				name: 'Cards',
 				path: '/features/cards',
-				file: '~/pages/features/index.vue', // Reuse the index.vue file for Cards
+				file: indexFile, // Reuse the index.vue file for Cards
 			});
 			pages.push({
 				name: 'Transfers',
 				path: '/features/transfers',
-				file: '~/pages/features/index.vue', // Reuse the index.vue file for Transfers
+				file: indexFile, // Reuse the index.vue file for Transfers
 			});
 			pages.push({
 				name: 'Payments',
 				path: '/features/payments',
-				file: '~/pages/features/index.vue', // Reuse the index.vue file for Payments
+				file: indexFile, // Reuse the index.vue file for Payments
 			});
 		},
 	},
@@ -204,8 +208,8 @@ export default defineNuxtConfig({
 			// },
 		],
 		restructureDir: './',
-		langDir: './locales/', // Ensure this directory exists
 		// lazy: true, // If false, this will show the translation not yet translate.
+		langDir: './locales/', // Ensure this directory exists
 		defaultLocale: 'en-EU',
 		detectBrowserLanguage: false,
 		// detectBrowserLanguage: {
@@ -226,5 +230,5 @@ export default defineNuxtConfig({
 	},
 	image: {
 		provider: "twicpics",
-	}
+	},
 })
