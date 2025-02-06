@@ -1,45 +1,45 @@
 {
 	"General": {
 		"Regions": {
-			"United Kingdom": "United Kingdom",
+			"United Kingdom": "Regno Unito",
 			"Europe": "Europe",
-			"Spain": "Spain",
-			"Italy": "Italy",
-			"France": "France",
+			"Spain": "Spagna",
+			"Italy": "Italia",
+			"France": "Francia",
 			"Bulgaria": "Bulgaria",
 			"Lebanon": "Lebanon"
 		},
 		"Languages": {
-			"English": "English",
-			"Spanish": "Spanish",
-			"Italian": "Italian",
-			"French": "French",
+			"English": "Inglese",
+			"Spanish": "Spagnolo",
+			"Italian": "Italiano",
+			"French": "Francese",
 			"Bulgarian": "Bulgarian"
 		},
 		"Links": {
-			"Homepage": "Homepage",
-			"Company": "Company",
-			"Why MyMonty": "Why MyMonty",
-			"Who We Are": "Who We Are",
-			"Careers": "Careers",
-			"Code of Conduct": "Code of Conduct",
-			"News": "News",
+			"Homepage": "Pagina iniziale",
+			"Company": "Azienda",
+			"Why MyMonty": "Perché MyMonty",
+			"Who We Are": "Chi siamo",
+			"Careers": "Opportunità di lavoro",
+			"Code of Conduct": "Codice di condotta",
+			"News": "Novità",
 			"Blogs": "Blogs",
-			"Board of Directors": "Board of Directors",
-			"FAQs": "FAQs",
-			"Features": "Features",
-			"Accounts": "Accounts",
-			"Cards": "Cards",
-			"Transfers": "Transfers",
-			"Payments": "Payments",
-			"Plans": "Plans",
-			"Contact Us": "Contact Us",
-			"Terms & Conditions": "Terms & Conditions",
-			"Privacy Policy": "Privacy Policy",
-			"Paynetics Terms & Conditions": "Paynetics Terms & Conditions",
-			"Paynetics Privacy Policy": "Paynetics Privacy Policy",
-			"Cookie Policy": "Cookie Policy",
-			"Cookie Settings": "Cookie Settings"
+			"Board of Directors": "Consiglio di amministrazione",
+			"FAQs": "FAQ (Domande frequenti)",
+			"Features": "Funzioni",
+			"Accounts": "Conti",
+			"Cards": "Carte",
+			"Transfers": "Bonifici",
+			"Payments": "Pagamenti",
+			"Plans": "Piani",
+			"Contact Us": "Contattaci",
+			"Terms & Conditions": "Termini e condizioni",
+			"Privacy Policy": "Informativa sulla privacy",
+			"Paynetics Terms & Conditions": "Paynetics termini e condizioni",
+			"Paynetics Privacy Policy": "Paynetics informativa sulla privacy",
+			"Cookie Policy": "Informativa sui cookie",
+			"Cookie Settings": "Impostazioni dei cookie"
 		},
 		"Alts": {
 			"Logo": "MyMonty Logo",
@@ -66,48 +66,48 @@
 			"Google Play": "Google Play"
 		},
 		"Buttons": {
-			"Download App": "Download App",
+			"Download App": "Scarica app",
 			"Learn More": "Learn More",
-			"Get Started": "Get Started",
-			"Subscribe": "Subscribe",
-			"Contact Us": "Contact Us",
-			"Accounts": "Accounts",
-			"Transfers": "Transfers",
-			"Cards": "Cards",
-			"Payments": "Payments",
-			"View All Features": "View All Features",
-			"View all plans": "View all plans",
-			"Submit": "Submit",
-			"Choose Plan": "Choose Plan",
-			"Coming Soon": "Coming Soon",
-			"Read More": "Read More",
-			"View More": "View More",
-			"Back To News": "Back to news",
-			"Back To Blogs": "Back to blogs",
-			"Visit The Homepage": "Visit the homepage"
+			"Get Started": "Inizia",
+			"Subscribe": "Iscriviti",
+			"Contact Us": "Contattaci",
+			"Accounts": "Conti",
+			"Transfers": "Bonifici",
+			"Cards": "Carte",
+			"Payments": "Pagamenti",
+			"View All Features": "Visualizza tutte le funzioni",
+			"View all plans": "Visualizza tutti i piani",
+			"Submit": "Invia",
+			"Choose Plan": "Scegli il piano",
+			"Coming Soon": "Disponibile a breve",
+			"Read More": "Leggi di più",
+			"View More": "Visualizza di più",
+			"Back To News": "Torna alle novità",
+			"Back To Blogs": "Torna ai blog",
+			"Visit The Homepage": "Visita la pagina iniziale"
 		},
 		"Labels": {
-			"Full Name": "Full Name",
-			"Email Address": "Email Address",
-			"Company Name": "Company Name",
-			"Position": "Position",
-			"Profession": "Profession",
-			"Mobile Number": "Mobile Number",
-			"Subject": "Subject",
-			"Message": "Your Message",
-			"Country": "Country",
-			"Upload your CV": "Upload your CV",
-			"Click to Upload": "Click to Upload",
-			"Files Accepted": "Files Accepted",
-			"Maximum file size": "Maximum file size",
-			"Uploaded File": "Uploaded File",
-			"File Size": "File Size",
+			"Full Name": "Nome completo",
+			"Email Address": "Indirizzo e-mail",
+			"Company Name": "Nome dell'azienda",
+			"Position": "Posizione",
+			"Profession": "Professione",
+			"Mobile Number": "Numero di cellulare",
+			"Subject": "Oggetto",
+			"Message": "Il tuo messaggio",
+			"Country": "Paese",
+			"Upload your CV": "Carica il tuo CV",
+			"Click to Upload": "Fai clic per caricare",
+			"Files Accepted": "File accettati",
+			"Maximum file size": "Dimensione massima del file",
+			"Uploaded File": "File caricato",
+			"File Size": "Dimensione del file",
 			"Acknowlegment": {
-				"Part 1": "By checking this box, you confirm that you've read and accepted our",
-				"Part 2": "for our website"
+				"Part 1": "Selezionando questa casella, si conferma di aver letto e accettato",
+				"Part 2": "del nostro sito web"
 			},
-			"Select": "Select",
-			"Optional": "Optional"
+			"Select": "Seleziona",
+			"Optional": "Opzionale"
 		},
 		"Placeholders": {
 			"Email": "Enter Your Email",
@@ -119,51 +119,51 @@
 			"Mobile Number": "Mobile Number",
 			"Subject": "Subject",
 			"Message": "Your Message",
-			"Search": "Search"
+			"Search": "Cerca"
 		},
 		"Messages": {
 			"Errors": {
 				"Required": {
-					"Full Name": "Please enter your full name",
-					"Email": "Please enter your email address",
-					"Position": "Please choose your position",
-					"Code": "Please choose your country code",
-					"Mobile Number": "Please enter your mobile number",
-					"Country": "Please choose your country",
-					"Profession": "Please enter your profession",
-					"Subject": "Please enter your subject",
-					"Message": "Please enter your message",
-					"File": "Please upload at least one valid file"
+					"Full Name": "Inserire il nome completo",
+					"Email": "Inserire l'indirizzo e-mail",
+					"Position": "Scegliere la posizione",
+					"Code": "Scegliere il prefisso internazionale",
+					"Mobile Number": "Inserire il numero di cellulare",
+					"Country": "Scegliere la nazione",
+					"Profession": "Inserire la professione",
+					"Subject": "Inserire l'oggetto",
+					"Message": "Inserire il messaggio",
+					"File": "Caricare almeno un file valido"
 				},
-				"Safe": "Your input has invalid value",
-				"Valid Email": "Please enter a valid email address",
-				"Valid Code": "Please enter a valid country code",
-				"Unique Email": "This email address is already subscribed.",
-				"Numeric": "Please enter a valid numeric phone number",
-				"Length": "Please enter a valid phone number between 5 and 12 characters",
-				"File Type": "Invalid file type. Allowed types: pdf, doc, docx, jpg, jpeg, png",
-				"File Max Size": "File size exceeds the limit of 5MB",
-				"Upload Up To": "You can only upload up to",
-				"Files": "files",
-				"You can only upload": "You can only upload",
-				"More Files": "more files",
-				"Confirm Policies": "Please confirm that you've read and accepted our Privacy Policy, Cookie Policy, and Terms & Conditions",
-				"Upload Valid File": "Please upload at least one valid file.",
-				"Validation Failed": "Please ensure all required fields are correctly filled and try submitting again.",
-				"Api Response Validation Failed": "Error in submitting your message. Please try again later",
-				"Api Failed": "Error in submitting your message. Please try again later"
+				"Safe": "L'immissione presenta un valore non valido.",
+				"Valid Email": "Inserire un indirizzo e-mail valido.",
+				"Valid Code": "Inserire un prefisso internazionale valido.",
+				"Unique Email": "Esiste già un'iscrizione con questo indirizzo e-mail.",
+				"Numeric": "Inserire un numero di telefono valido.",
+				"Length": "Inserire un numero di telefono valido compreso tra 5 e 12 caratteri.",
+				"File Type": "Tipo di file non valido. Tipi consentiti: pdf, doc, docx, jpg, jpeg, png",
+				"File Max Size": "La dimensione del file supera il limite di 5MB",
+				"Upload Up To": "È possibile caricare un massimo di",
+				"Files": "file",
+				"You can only upload": "È possibile caricare solo",
+				"More Files": "altri file",
+				"Confirm Policies": "Confermare di aver letto e accettato l'Informativa sulla privacy, l'Informativa sui cookie e i Termini e condizioni.",
+				"Upload Valid File": "Caricare almeno un file valido.",
+				"Validation Failed": "Assicurarsi che tutti i campi obbligatori siano stati compilati correttamente e inviare nuovamente.",
+				"Api Response Validation Failed": "Errore nell'invio del messaggio. Riprovare più tardi.",
+				"Api Failed": "Errore nell'invio del messaggio. Riprovare più tardi."
 			},
 			"Success": {
-				"Newsletter": "Thank you for subscribing.",
-				"Career": "Thank you for your message, our team will be in touch with you the soonest."
+				"Newsletter": "Grazie dell'iscrizione.",
+				"Career": "Grazie del messaggio, presto il nostro team ti ricontatterà."
 			}
 		},
 		"Download": {
-			"Title": "Download the app now",
-			"Description": "Sign up and explore our endless benefits",
-			"Scan Qr": "Scan the QR to <br /> download the app"
+			"Title": "Scarica l'app adesso",
+			"Description": "Iscriviti ed esplora i nostri infiniti vantaggi",
+			"Scan Qr": "Scansiona il QR per <br /> scaricare l'app"
 		},
-		"And": "and"
+		"And": "e"
 	},
 	"Pages": {
 		"Homepage": {
@@ -225,25 +225,25 @@
 				]
 			},
 			"Section 9": {
-				"Title": "Choose your plan",
-				"Description": "We've got you covered with plans tailored to your needs. Just pick the one that suits you best or compare plans.",
+				"Title": "Scegli il tuo piano",
+				"Description": "Abbiamo pensato a svariati piani su misura per le tue esigenze. Scegli quello più adatto a te o confronta i piani.",
 				"Plans": [
 					{
 						"Title": "Starter",
-						"Description": "Looking to start that journey to financial freedom? <br /> Get our Starter plan and enjoy true freedom with low in-store fees and a virtual/physical card.",
-						"Button Label": "Free"
+						"Description": "Vuoi iniziare il viaggio verso la libertà finanziaria? <br /> Scegli il nostro piano Starter e goditi la vera libertà con basse commissioni in negozio e una carta virtuale/fisica.",
+						"Button Label": "Gratuito"
 					},
 					{
 						"Title": "Plus",
-						"Description": "If you're looking for true value, try our Classic plan with zero card fees, zero monthly charges and more.",
-						"Status": "Not Available Yet",
-						"Button Label": "COMING SOON"
+						"Description": "Se stai cercando il vero valore, prova il nostro piano Classic con zero commissioni sulla carta, zero addebiti mensili e altro ancora.",
+						"Status": "Non ancora disponibile",
+						"Button Label": "Disponibile a breve"
 					},
 					{
 						"Title": "Premium",
-						"Description": "Step up to a truly global level. Enjoy multi-currency features and added value such as investment, health and much more.",
-						"Status": "Not Available Yet",
-						"Button Label": "COMING SOON"
+						"Description": "Passa a un livello veramente globale. Goditi le funzioni multi-valuta e il valore aggiunto come investimenti, salute e molto altro.",
+						"Status": "Non ancora disponibile",
+						"Button Label": "Disponibile a breve"
 					}
 				]
 			},
@@ -359,61 +359,61 @@
 		},
 		"Plans": {
 			"Banner": {
-				"Sub Title": "Plans",
-				"Title": "Choose Your Plan",
-				"Description": "We've got you covered with plans tailored to your needs. Just pick the one that suits you best or compare plans.",
-				"Image Alt": "Choose Your Plan"
+				"Sub Title": "Piani",
+				"Title": "Scegli il tuo piano",
+				"Description": "Abbiamo pensato a svariati piani su misura per le tue esigenze. Scegli quello più adatto a te o confronta i piani.",
+				"Image Alt": "Scegli il tuo piano"
 			},
 			"Section 2": [
 				{
 					"Category": "Starter",
-					"Price": "Free",
-					"Description": "Enjoy true freedom with low in store fees and a virtual/physical card.",
+					"Price": "Gratuito",
+					"Description": "Goditi la vera libertà con basse commissioni in negozio e una carta virtuale/fisica.",
 					"Layout": "full",
 					"Features": [
-						"Dedicated free Euro/GBP IBAN",
-						"0,2 EUR on faster payments",
-						"Free peer to peer transfers",
-						"2 EUR physical card replacement fee.",
-						"No monthly fee",
-						"Free ATM balance enquiry or pin change",
-						"Free MyMonty virtual Mastercard",
-						"2% on currency exchange + a minimum fee of 2 EUR",
-						"5 EUR physical card printing and delivery in Europe & the UK.",
-						"1.5% on card top up, instant top up",
-						"1 EUR inactive fee when wallet is loaded and no transactions made over period of 6 months",
-						"0,15 EUR on SEPA transfer",
-						"1.5% on ATM withdrawal in EUR subject to a minimum fee of 1 EUR"
+						"IBAN Euro/GBP gratuito dedicato",
+						"0,2 EUR sui pagamenti più veloci",
+						"Trasferimenti peer to peer gratuiti",
+						"2 EUR di commissione per la sostituzione della carta fisica",
+						"Nessun canone mensile",
+						"Interrogazioni sul saldo e modifiche del PIN gratuite dal bancomat",
+						"Mastercard virtuale MyMonty gratuita",
+						"2% sui cambi valuta + una commissione minima di 2 EUR",
+						"5 EUR per la stampa della carta fisica e consegna in Europa e nel Regno Unito",
+						"1,5% sulla ricarica della carta, ricarica immediata",
+						"1 EUR di commissione per inattività, quando il portafoglio viene caricato e non viene effettuata alcuna transazione nell'arco di 6 mesi",
+						"0,15 EUR sul bonifico SEPA",
+						"1,5% sul prelievo in EUR dal bancomat soggetto a una commissione minima di 1 EUR"
 					],
-					"Button Text": "Choose Plan"
+					"Button Text": "Scegli il piano"
 				},
 				{
 					"Category": "Plus",
-					"Price": "All features included in STARTER Plan",
-					"Description": "If you're looking for a true value plan with zero card fees, zero monthly charges and more.",
+					"Price": "Tutte le funzioni incluse nel piano STARTER",
+					"Description": "Se cerchi un piano realmente valido con zero commissioni sulla carta, zero addebiti mensili e molto altro ancora.",
 					"Layout": "half",
 					"Features": [
-						"Free contactless physical card",
-						"Priority customer support",
-						"1 fee free SEPA transfer",
-						"25 fee free POS transactions",
-						"1 fee free account top up per month"
+						"Carta fisica contactless gratuita",
+						"Assistenza clienti prioritaria",
+						"1 bonifico SEPA senza commissioni",
+						"25 transazioni POS gratuite",
+						"1 ricarica del conto al mese senza commissioni"
 					],
-					"Button Text": "Coming Soon"
+					"Button Text": "Disponibile a breve"
 				},
 				{
 					"Category": "Premium",
-					"Price": "All features included in PLUS Plan",
-					"Description": "If you're looking for a true value plan with zero card fees, zero monthly charges and more.",
+					"Price": "Tutte le funzioni incluse nel Piano PLUS",
+					"Description": "Se cerchi un piano realmente valido con zero commissioni sulla carta, zero addebiti mensili e molto altro ancora.",
 					"Layout": "half",
 					"Features": [
-						"Multicurrency accounts",
+						"Conti multivaluta",
 						"Contactless metal debit card",
-						"Investment accounts",
-						"Health insurance",
-						"Joint accounts"
+						"Carta di debito in metallo senza contatto",
+						"Assicurazione sanitaria",
+						"Conti congiunti"
 					],
-					"Button Text": "Coming Soon"
+					"Button Text": "Disponibile a breve"
 				}
 			],
 			"Seo": {
@@ -555,7 +555,7 @@
 			"Banner": {
 				"Sub Title": "FAQ",
 				"Title": "Frequently asked questions",
-				"Description": "Our team is always ready to assist you or answer your inquiries. Fill out this form to reach us.",
+				"Description": "Our team is always ready to assist you or answer your inquiries. Compila questo modulo per contattarci.",
 				"Image Alt": "Frequently asked questions"
 			},
 			"Section 2": {
@@ -806,7 +806,7 @@
 				"Image Alt": "Hai delle domande o ti serve aiuto"
 			},
 			"Section 2": {
-				"Title": "Fill out this form to reach us"
+				"Title": "Compila questo modulo per contattarci"
 			},
 			"Section 3": {
 				"Title": "Sempre al tuo servizio",
@@ -895,19 +895,19 @@
 				"Image Alt": "Unisciti al nostro Dream Team"
 			},
 			"Section 2": {
-				"Title": "Embark on Your career journey with us",
-				"Description": "Our team is our biggest asset! We are dedicated to recognizing and cultivating talent from within, offering a transparent and well-defined career path for our valuable team members.<br /><br />We heavily invest in employee training programs, workshops, and mentorship initiatives, ensuring our team is not only well-equipped for their current roles but also ready for future challenges.",
+				"Title": "Intraprendi un tuo percorso professionale con noi",
+				"Description": "Il nostro team è la nostra più grande risorsa! Ci impegniamo a riconoscere e coltivare i talenti dall'interno, offrendo un percorso professionale trasparente e ben definito per i nostri preziosi membri del team.<br /><br />Investiamo molto in programmi di formazione per i dipendenti, seminari e iniziative di tutoraggio, assicurando che il nostro team non sia solo ben attrezzato per i loro ruoli attuali, ma anche pronto per le sfide future.",
 				"Cards": [
 					{
-						"Title": "Always there for you",
-						"Description 1": "<span class='font-AeonikBold'>Monday to Friday:</span> 8:00 AM - 5:00 PM (EEST)<br /><span class='font-AeonikBold'>Saturday and Sunday:</span> Closed",
-						"Description 2": "Have a complaint or need any assistance?<br />Reach out to us <a href='mailto:support&#64;mymonty.com'>here</a>",
-						"Image Alt": "Always There For You"
+						"Title": "Sempre al tuo servizio",
+						"Description 1": "<span class='font-AeonikBold'>Dal Lunedì al Venerdì:</span> 8:00 - 17:00 (EEST)<br /><span class='font-AeonikBold'>Sabato e Domenica:</span> Chiuso",
+						"Description 2": "Hai un reclamo o bisogno di assistenza?<br />Contattaci <a href='mailto:support&#64;mymonty.com'>qui</a>",
+						"Image Alt": "Sempre al tuo servizio"
 					}
 				]
 			},
 			"Section 3": {
-				"Title": "Fill out this form to reach us"
+				"Title": "Compila questo modulo per contattarci"
 			},
 			"Seo": {
 				"Title": "Join our dream team - Apply today",
@@ -1068,8 +1068,8 @@
 		"Error": {
 			"Section 1": {
 				"Image Alt": "Error 404",
-				"Title": "We can't find that one",
-				"Description": "We update our website regularly, so this page may have been moved, removed, or the URL wasn't quite right.<br /><br />Explore the latest from MyMonty this way..."
+				"Title": "Impossibile trovarlo",
+				"Description": "Aggiorniamo regolarmente il nostro sito web, pertanto questa pagina potrebbe essere stata spostata, rimossa o l'URL non era corretto.<br /><br />Esplora le ultime novità di MyMonty in questo modo..."
 			},
 			"Seo": {
 				"Title": "Error {code}",
@@ -1084,7 +1084,7 @@
 	},
 	"Footer": {
 		"Newsletter": {
-			"Title": "Subscribe to our newsletter",
+			"Title": "Iscriviti alla nostra newsletter",
 			"Description": "Receive the latest news from us.",
 			"Acknowlegment1": "By subscribing to our newsletter, you acknowledge that you have read and accepted our",
 			"Acknowlegment2": "read and understood our"
