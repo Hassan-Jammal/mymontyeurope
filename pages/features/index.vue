@@ -16,9 +16,11 @@
                 <div class="relative flex flex-col justify-center items-center gap-12 lg:w-2/3 mx-auto text-center">
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Features.Section 2.Title`) }}</h2>
                     <p class="text-xl" v-html="t(`Pages.Features.Section 2.Description`)"></p>
-                    <div id="tabs" class="flex lg:grid lg:grid-cols-4 gap-y-4 gap-x-2 lg:gap-x-8 w-full overflow-x-auto">
-                        <div v-for="(item, index) in featuresItems" :key="index">
-                            <ScrollButton @click="show(index)" :class="activeTab === index ? 'text-white bg-primary border-primary' : 'text-black bg-transparent border-black'" target="tabs" class="w-32 mx-auto py-2 px-2 lg:px-6 text-base border rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out transition-all duration-300 ease-in-out">{{ item.category }}</ScrollButton>
+                    <div class="w-full overflow-hidden flex justify-center">
+                        <div id="tabs" class="flex gap-x-3 overflow-x-auto no-scrollbar snap-x snap-mandatory scroll-smooth">
+                            <div v-for="(item, index) in featuresItems" :key="index" class="flex-none snap-center">
+                                <ScrollButton @click="show(index)" target="tabs" :class="['whitespace-nowrap w-full py-2 px-4 lg:px-6 text-base border rounded-[30px] select-none transition-all duration-300 ease-in-out inline-block text-center', activeTab === index ? 'text-white bg-primary border-primary' : 'text-black bg-transparent border-black']">{{ item.category }}</ScrollButton>
+                            </div>
                         </div>
                     </div>
                 </div>

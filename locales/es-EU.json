@@ -2,12 +2,12 @@
 	"General": {
 		"Regions": {
 			"United Kingdom": "Reino Unido",
-			"Europe": "Europe",
+			"Europe": "Europa",
 			"Spain": "España",
 			"Italy": "Italia",
 			"France": "Francia",
 			"Bulgaria": "Bulgaria",
-			"Lebanon": "Lebanon"
+			"Lebanon": "Líbano"
 		},
 		"Languages": {
 			"English": "Inglés",
@@ -36,38 +36,38 @@
 			"Contact Us": "Contáctanos",
 			"Terms & Conditions": "Términos y condiciones",
 			"Privacy Policy": "Política de privacidad",
-			"Paynetics Terms & Conditions": "Paynetics términos y condiciones",
-			"Paynetics Privacy Policy": "Paynetics política de privacidad",
+			"Paynetics Terms & Conditions": "Términos y condiciones de Paynetics",
+			"Paynetics Privacy Policy": "Política de privacidad de Paynetics",
 			"Cookie Policy": "Política de cookies",
 			"Cookie Settings": "Configuración de cookies"
 		},
 		"Alts": {
-			"Logo": "MyMonty Logo",
-			"Chevron Up Gray": "Chevron Up Gray",
-			"Chevron Down Black": "Chevron Down Black",
-			"Chevron Down White": "Chevron Down White",
-			"Chevron Right Primary": "Chevron Right Primary",
-			"Check Box White": "Check Box White",
-			"Check Box Black": "Check Box Black",
-			"Receipt Check Box Primary": "Receipt Check Box Primary",
-			"Chat Box Primary": "Chat Box Primary",
-			"Telephone White": "Telephone White",
-			"Marker Pin White": "Marker Pin White",
-			"Monty Mobile Gray": "Monty Mobile Gray",
-			"Telephone Box Blue": "Telephone Box Blue",
-			"Close Red": "Close Red",
-			"Chevron Right Box Gray": "Chevron Right Box Gray",
-			"Chevron Left Box Black": "Chevron Left Box Black",
-			"Phone Box Blue": "Phone Box Blue",
-			"Search Gray": "Search Gray",
-			"Qr Code": "Qr Code",
-			"Check Box Primary": "Check Box Primary",
+			"Logo": "Logo MyMonty",
+			"Chevron Up Gray": "Chevrón Arriba Gris",
+			"Chevron Down Black": "Chevrón Abajo Negro",
+			"Chevron Down White": "Chevrón Abajo Blanco",
+			"Chevron Right Primary": "Chevrón Derecho Primario",
+			"Check Box White": "Casilla de Verificación Blanca",
+			"Check Box Black": "Casilla de Verificación Negra",
+			"Receipt Check Box Primary": "Casilla de Verificación de Recibo Primaria",
+			"Chat Box Primary": "Caja de Chat Primaria",
+			"Telephone White": "Teléfono Blanco",
+			"Marker Pin White": "Marcador Blanco",
+			"Monty Mobile Gray": "Monty Mobile Gris",
+			"Telephone Box Blue": "Caja de Teléfono Azul",
+			"Close Red": "Cerrar Rojo",
+			"Chevron Right Box Gray": "Caja de Chevrón Derecho Gris",
+			"Chevron Left Box Black": "Caja de Chevrón Izquierdo Negra",
+			"Phone Box Blue": "Caja de Teléfono Azul",
+			"Search Gray": "Búsqueda Gris",
+			"Qr Code": "Código QR",
+			"Check Box Primary": "Casilla de Verificación Primaria",
 			"Apple Store": "Apple Store",
 			"Google Play": "Google Play"
 		},
 		"Buttons": {
 			"Download App": "Descargar la aplicación",
-			"Learn More": "Learn More",
+			"Learn More": "Más información",
 			"Get Started": "Empezar ahora",
 			"Subscribe": "Suscribirse",
 			"Contact Us": "Contáctanos",
@@ -110,15 +110,15 @@
 			"Optional": "Opcional"
 		},
 		"Placeholders": {
-			"Email": "Enter Your Email",
-			"Full Name": "Full Name",
-			"Email Address": "Email Address",
-			"Company Name": "Company Name",
-			"Position": "Position",
-			"Profession": "Profession",
-			"Mobile Number": "Mobile Number",
-			"Subject": "Subject",
-			"Message": "Your Message",
+			"Email": "Correo electrónico",
+			"Full Name": "Nombre completo",
+			"Email Address": "Dirección de correo electrónico",
+			"Company Name": "Nombre de la empresa",
+			"Position": "Puesto",
+			"Profession": "Profesión",
+			"Mobile Number": "Número de teléfono móvil",
+			"Subject": "Asunto",
+			"Message": "Mensaje",
 			"Search": "Buscar"
 		},
 		"Messages": {
@@ -209,7 +209,7 @@
 				"Image Alt": "Es hora de pasar al mundo digital"
 			},
 			"Section 8": {
-				"Title": "Get a look at our revolutionary features",
+				"Title": "Descubre nuestras revolucionarias funciones",
 				"Features": [
 					{
 						"Title": "Pagos sin contacto simplificados",
@@ -258,9 +258,9 @@
 		"Why MyMonty": {
 			"Banner": {
 				"Sub Title": "¿Por qué MyMonty?",
-				"Title": "See what sets us apart",
+				"Title": "¿Qué nos diferencia?",
 				"Description": "En MyMonty™, creemos que los servicios bancarios básicos son un derecho universal. Te ofrecemos una forma sencilla y transparente de enviar, recibir o solicitar dinero, sin comisiones ocultas.",
-				"Image Alt": "See what sets us apart"
+				"Image Alt": "¿Qué nos diferencia?"
 			},
 			"Section 2": {
 				"Cards": [
@@ -303,9 +303,9 @@
 		"Who We Are": {
 			"Banner": {
 				"Sub Title": "Quiénes somos",
-				"Title": "One app for all things money",
-				"Description": "Manage your money effortlessly from the comfort of one single intuitive app.",
-				"Image Alt": "One app for all things money"
+				"Title": "Una única aplicación para todo lo relacionado con el dinero",
+				"Description": "Gestiona tu dinero sin esfuerzo desde la comodidad de una sola aplicación intuitiva.",
+				"Image Alt": "Una única aplicación para todo lo relacionado con el dinero"
 			},
 			"Section 2": {
 				"Title": "Quiénes somos",
@@ -348,11 +348,11 @@
 				]
 			},
 			"Seo": {
-				"Title": "Who we are - Our Mission and Values",
+				"Title": "Quiénes somos - Our Mission and Values",
 				"Description": "The most comprehensive global digital banking experience at your fingertips",
-				"Og Title": "Who we are - Our Mission and Values",
+				"Og Title": "Quiénes somos - Our Mission and Values",
 				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
-				"Twitter Title": "Who we are - Our Mission and Values",
+				"Twitter Title": "Quiénes somos - Our Mission and Values",
 				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
 			}
 		},
@@ -416,17 +416,17 @@
 				}
 			],
 			"Seo": {
-				"Title": "Plans - Compare and Choose",
+				"Title": "Planes - Compare and Choose",
 				"Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security",
-				"Og Title": "Plans - Compare and Choose",
+				"Og Title": "Planes - Compare and Choose",
 				"Og Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security",
-				"Twitter Title": "Plans - Compare and Choose",
+				"Twitter Title": "Planes - Compare and Choose",
 				"Twitter Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security"
 			}
 		},
 		"News": {
 			"Banner": {
-				"Sub Title": "News",
+				"Sub Title": "Noticias",
 				"Title": "¿Qué está pasando en MyMonty?",
 				"Description": "¡Descubre las últimas novedades y ofertas en nuestros blogs!",
 				"Image Alt": "¿Qué está pasando en MyMonty?"
@@ -442,14 +442,14 @@
 		},
 		"Features": {
 			"Banner": {
-				"Sub Title": "Features",
-				"Title": "Unlock the best of what we offer",
-				"Description": "Enjoy our outstanding features and stand out from the crowd",
-				"Image Alt": "Unlock the best of what we offer"
+				"Sub Title": "Características",
+				"Title": "Descubre lo mejor que te ofrecemos",
+				"Description": "Disfruta de nuestras fantásticas funciones y destaca entre la multitud",
+				"Image Alt": "Descubre lo mejor que te ofrecemos"
 			},
 			"Section 2": {
-				"Title": "Features",
-				"Description": "Experience the convenience of features tailored just for you"
+				"Title": "Características",
+				"Description": "Siente la comodidad de funciones diseñadas a tu medida"
 			},
 			"Section 3": [
 				{
@@ -542,11 +542,11 @@
 				}
 			],
 			"Seo": {
-				"Title": "Features",
+				"Title": "Características",
 				"Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
-				"Og Title": "Features",
+				"Og Title": "Características",
 				"Og Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
-				"Twitter Title": "Features",
+				"Twitter Title": "Características",
 				"Twitter Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd."
 			}
 		},
@@ -554,12 +554,12 @@
 			"Banner": {
 				"Sub Title": "FAQ",
 				"Title": "Frequently asked questions",
-				"Description": "Our team is always ready to assist you or answer your inquiries. Rellena el formulario para ponerte en contacto con nosotros.",
+				"Description": "Nuestro equipo está siempre a tu disposición para ayudarte o responder tus preguntas. Rellena el formulario para ponerte en contacto con nosotros.",
 				"Image Alt": "Frequently asked questions"
 			},
 			"Section 2": {
-				"Topic Heading": "Topic",
-				"Question Not Found": "No matching questions found",
+				"Topic Heading": "Tema",
+				"Question Not Found": "No se ha encontrado ninguna pregunta coincidente.",
 				"Faqs": [
 					{
 						"Topic": "Abrir cuenta",
@@ -722,7 +722,7 @@
 							},
 							{
 								"Question": "¿Cómo puedo pedir una tarjeta física?",
-								"Answer": "Ordering a physical card follows a process similar to virtual cards:<ul><li>Ve a la sección “Tarjetas físicas“ en la pestaña “Tarjetas“</li><li>Comprueba que has completado la verificación KYC y que tienes saldo</li><li>Toca en “Solicitar tarjeta“</li><li>Introduce los datos de envío de la tarjeta</li><li>Avanza a través de dos pantallas para elegir y confirmar el PIN de tu tarjeta</li><li>Una vez que hayas introducido la dirección y confirmado el PIN, revisa tus datos y confirma para iniciar el envío de la tarjeta.</li></ul>"
+								"Answer": "El proceso para solicitar una tarjeta física es similar al de las tarjetas virtuales:<ul><li>Ve a la sección “Tarjetas físicas“ en la pestaña “Tarjetas“</li><li>Comprueba que has completado la verificación KYC y que tienes saldo</li><li>Toca en “Solicitar tarjeta“</li><li>Introduce los datos de envío de la tarjeta</li><li>Avanza a través de dos pantallas para elegir y confirmar el PIN de tu tarjeta</li><li>Una vez que hayas introducido la dirección y confirmado el PIN, revisa tus datos y confirma para iniciar el envío de la tarjeta.</li></ul>"
 							},
 							{
 								"Question": "¿Qué son las tarjetas virtuales?",
@@ -799,7 +799,7 @@
 		},
 		"Contact Us": {
 			"Banner": {
-				"Sub Title": "Contact Us",
+				"Sub Title": "Contáctanos",
 				"Title": "¿Tienes alguna pregunta o necesitas ayuda? ",
 				"Description": "¡Nuestro equipo está aquí para ayudarte! Rellena el formulario que encontrarás a continuación, y nos pondremos en contacto contigo tan pronto como podamos. ",
 				"Image Alt": "¿Tienes alguna pregunta o necesitas ayuda? "
@@ -813,20 +813,20 @@
 				"Description 2": "¿Tienes alguna queja o necesitas asistencia?<br />Contáctanos <a href='mailto:support&#64;mymonty.com'>aquí</a>."
 			},
 			"Seo": {
-				"Title": "Contact us if you have any questions",
+				"Title": "Contáctanos if you have any questions",
 				"Description": "Our team is always ready to assist you or answer your inquiries.",
-				"Og Title": "Contact us if you have any questions",
+				"Og Title": "Contáctanos if you have any questions",
 				"Og Description": "Our team is always ready to assist you or answer your inquiries.",
-				"Twitter Title": "Contact us if you have any questions",
+				"Twitter Title": "Contáctanos if you have any questions",
 				"Twitter Description": "Our team is always ready to assist you or answer your inquiries."
 			}
 		},
 		"Code Of Conduct": {
 			"Banner": {
 				"Sub Title": "Nuestros valores",
-				"Title": "Our code of conduct",
+				"Title": "Nuestro código de conducta",
 				"Description": "Nuestros principios en MyMonty.",
-				"Image Alt": "Our code of conduct"
+				"Image Alt": "Nuestro código de conducta"
 			},
 			"Section 2": {
 				"Cards": [
@@ -888,7 +888,7 @@
 		},
 		"Careers": {
 			"Banner": {
-				"Sub Title": "Careers",
+				"Sub Title": "Empleo",
 				"Title": "¡Únete a nuestro Dream Team!",
 				"Description": "No pierdas la oportunidad de formar parte de algo grande. Descubre las vacantes que tenemos disponibles en <a href='https://linkdedin.com/company/mymonty' target='_blank'>LinkedIn</a> y envía tu solicitud hoy.",
 				"Image Alt": "¡Únete a nuestro Dream Team!"
@@ -919,7 +919,7 @@
 		},
 		"Board Of Directors": {
 			"Banner": {
-				"Sub Title": "Board of Directors",
+				"Sub Title": "Consejo de administración",
 				"Title": "Leadership team",
 				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
 				"Image Alt": "Leadership team"
@@ -971,9 +971,9 @@
 		"Blogs": {
 			"Banner": {
 				"Sub Title": "Blogs",
-				"Title": "What's happening at mymonty?",
-				"Description": "Explore our news for the latest updates and offerings.",
-				"Image Alt": "What is happening at mymonty blogs"
+				"Title": "¿Qué está pasando en MyMonty?",
+				"Description": "¡Descubre las últimas novedades y ofertas en nuestros blogs!",
+				"Image Alt": "¿Qué está pasando en MyMonty?"
 			},
 			"Seo": {
 				"Title": "Blogs - Latest updates and offerings",
@@ -986,81 +986,81 @@
 		},
 		"Terms And Conditions": {
 			"Banner": {
-				"Sub Title": "Terms & Conditions",
-				"Title": "Terms & Conditions",
-				"Description": "Terms & Conditions.",
+				"Sub Title": "Términos y condiciones",
+				"Title": "Términos y condiciones",
+				"Description": "Términos y condiciones.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Terms and Conditions",
+				"Title": "Términos y condiciones",
 				"Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!",
-				"Og Title": "Terms and Conditions",
+				"Og Title": "Términos y condiciones",
 				"Og Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!",
-				"Twitter Title": "Terms and Conditions",
+				"Twitter Title": "Términos y condiciones",
 				"Twitter Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!"
 			}
 		},
 		"Privacy Policy": {
 			"Banner": {
-				"Sub Title": "Privacy Policy",
-				"Title": "Privacy Policy",
-				"Description": "Privacy Policy.",
+				"Sub Title": "Política de privacidad",
+				"Title": "Política de privacidad",
+				"Description": "Política de privacidad.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Privacy Policy & Data Protection",
+				"Title": "Política de privacidad y protección de datos",
 				"Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
-				"Og Title": "Privacy Policy & Data Protection",
+				"Og Title": "Política de privacidad y protección de datos",
 				"Og Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
-				"Twitter Title": "Privacy Policy & Data Protection",
+				"Twitter Title": "Política de privacidad y protección de datos",
 				"Twitter Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information."
 			}
 		},
 		"Cookie Policy": {
 			"Banner": {
-				"Sub Title": "Cookie Policy",
-				"Title": "Cookie Policy",
-				"Description": "Cookie Policy.",
+				"Sub Title": "Política de cookies",
+				"Title": "Política de cookies",
+				"Description": "Política de cookies.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Cookie Policy - Types and Usage",
+				"Title": "Política de cookies - Types and Usage",
 				"Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
-				"Og Title": "Cookie Policy - Types and Usage",
+				"Og Title": "Política de cookies - Types and Usage",
 				"Og Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
-				"Twitter Title": "Cookie Policy - Types and Usage",
+				"Twitter Title": "Política de cookies - Types and Usage",
 				"Twitter Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety."
 			}
 		},
 		"Paynetics Terms And Conditions": {
 			"Banner": {
-				"Sub Title": "Paynetics Terms & Conditions",
-				"Title": "Paynetics Terms & Conditions",
-				"Description": "Paynetics Terms & Conditions.",
+				"Sub Title": "Términos y condiciones de Paynetics",
+				"Title": "Términos y condiciones de Paynetics",
+				"Description": "Términos y condiciones de Paynetics.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Paynetics Terms & Conditions",
+				"Title": "Términos y condiciones de Paynetics",
 				"Description": "",
-				"Og Title": "Paynetics Terms & Conditions",
+				"Og Title": "Términos y condiciones de Paynetics",
 				"Og Description": "",
-				"Twitter Title": "Paynetics Terms & Conditions",
+				"Twitter Title": "Términos y condiciones de Paynetics",
 				"Twitter Description": ""
 			}
 		},
 		"Paynetics Privacy Policy": {
 			"Banner": {
-				"Sub Title": "Paynetics Privacy Policy",
-				"Title": "Paynetics Privacy Policy",
-				"Description": "Paynetics Privacy Policy.",
+				"Sub Title": "Política de privacidad de Paynetics",
+				"Title": "Política de privacidad de Paynetics",
+				"Description": "Política de privacidad de Paynetics.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Paynetics Privacy Policy",
+				"Title": "Política de privacidad de Paynetics",
 				"Description": "",
-				"Og Title": "Paynetics Privacy Policy",
+				"Og Title": "Política de privacidad de Paynetics",
 				"Og Description": "",
-				"Twitter Title": "Paynetics Privacy Policy",
+				"Twitter Title": "Política de privacidad de Paynetics",
 				"Twitter Description": ""
 			}
 		},

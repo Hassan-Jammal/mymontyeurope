@@ -90,7 +90,7 @@
                         <div class="flex max-lg:flex-col gap-4 justify-between items-start">
                             <div class="flex flex-col gap-1 w-full">
                                 <label for="message" class="text-base">{{ t(`General.Labels.Message`) }}</label>
-                                <textarea v-model="form.message" rows="10" Lplaveholder="{{ t(`General.Placeholders.Subject`) }}" class="w-full h-full min-h-14 py-3 px-3 bg-white border border-[#D4D4D4] rounded-lg outline-none"></textarea>
+                                <textarea v-model="form.message" rows="10" :placeholder="t(`General.Placeholders.Subject`)" class="w-full h-full min-h-14 py-3 px-3 bg-white border border-[#D4D4D4] rounded-lg outline-none"></textarea>
                                 <div v-if="errors.message" class="text-xs text-red-500">{{ errors.message }}</div>
                             </div>
                         </div>

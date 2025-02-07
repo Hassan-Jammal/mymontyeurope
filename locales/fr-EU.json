@@ -1,169 +1,169 @@
 {
 	"General": {
 		"Regions": {
-			"United Kingdom": "United Kingdom",
+			"United Kingdom": "Royaume-Uni",
 			"Europe": "Europe",
-			"Spain": "Spain",
-			"Italy": "Italy",
+			"Spain": "Espagne",
+			"Italy": "Italie",
 			"France": "France",
-			"Bulgaria": "Bulgaria",
-			"Lebanon": "Lebanon"
+			"Bulgaria": "Bulgarie",
+			"Lebanon": "Liban"
 		},
 		"Languages": {
-			"English": "English",
-			"Spanish": "Spanish",
-			"Italian": "Italian",
-			"French": "French",
-			"Bulgarian": "Bulgarian"
+			"English": "Anglais",
+			"Spanish": "Espagnol",
+			"Italian": "Italien",
+			"French": " Français",
+			"Bulgarian": "Bulgare"
 		},
 		"Links": {
-			"Homepage": "Homepage",
-			"Company": "Company",
-			"Why MyMonty": "Why MyMonty",
-			"Who We Are": "Who We Are",
-			"Careers": "Careers",
-			"Code of Conduct": "Code of Conduct",
-			"News": "News",
+			"Homepage": "Page d'accueil",
+			"Company": "Entreprise",
+			"Why MyMonty": "Pourquoi MyMonty",
+			"Who We Are": "Qui nous sommes",
+			"Careers": "Carrières",
+			"Code of Conduct": "Code de conduite",
+			"News": "Actualités",
 			"Blogs": "Blogs",
-			"Board of Directors": "Board of Directors",
-			"FAQs": "FAQs",
-			"Features": "Features",
-			"Accounts": "Accounts",
-			"Cards": "Cards",
-			"Transfers": "Transfers",
-			"Payments": "Payments",
+			"Board of Directors": "Conseil d'administration",
+			"FAQs": "FAQ (Foire aux questions)",
+			"Features": "Fonctionnalités",
+			"Accounts": "Comptes",
+			"Cards": "Cartes",
+			"Transfers": "Transferts",
+			"Payments": "Paiements",
 			"Plans": "Plans",
-			"Contact Us": "Contact Us",
-			"Terms & Conditions": "Terms & Conditions",
-			"Privacy Policy": "Privacy Policy",
-			"Paynetics Terms & Conditions": "Paynetics Terms & Conditions",
-			"Paynetics Privacy Policy": "Paynetics Privacy Policy",
-			"Cookie Policy": "Cookie Policy",
-			"Cookie Settings": "Cookie Settings"
+			"Contact Us": "Nous contacter",
+			"Terms & Conditions": "Conditions générales",
+			"Privacy Policy": "Politique de confidentialité",
+			"Paynetics Terms & Conditions": "Conditions générales de Paynetics",
+			"Paynetics Privacy Policy": "Politique de confidentialité de Paynetics",
+			"Cookie Policy": "Politique en matière de cookies",
+			"Cookie Settings": "Paramètres des cookies"
 		},
 		"Alts": {
-			"Logo": "MyMonty Logo",
-			"Chevron Up Gray": "Chevron Up Gray",
-			"Chevron Down Black": "Chevron Down Black",
-			"Chevron Down White": "Chevron Down White",
-			"Chevron Right Primary": "Chevron Right Primary",
-			"Check Box White": "Check Box White",
-			"Check Box Black": "Check Box Black",
-			"Receipt Check Box Primary": "Receipt Check Box Primary",
-			"Chat Box Primary": "Chat Box Primary",
-			"Telephone White": "Telephone White",
-			"Marker Pin White": "Marker Pin White",
-			"Monty Mobile Gray": "Monty Mobile Gray",
-			"Telephone Box Blue": "Telephone Box Blue",
-			"Close Red": "Close Red",
-			"Chevron Right Box Gray": "Chevron Right Box Gray",
-			"Chevron Left Box Black": "Chevron Left Box Black",
-			"Phone Box Blue": "Phone Box Blue",
-			"Search Gray": "Search Gray",
-			"Qr Code": "Qr Code",
-			"Check Box Primary": "Check Box Primary",
+			"Logo": "Logo MyMonty",
+			"Chevron Up Gray": "Chevron Haut Gris",
+			"Chevron Down Black": "Chevron Bas Noir",
+			"Chevron Down White": "Chevron Bas Blanc",
+			"Chevron Right Primary": "Chevron Droit Principal",
+			"Check Box White": "Case à Cocher Blanche",
+			"Check Box Black": "Case à Cocher Noire",
+			"Receipt Check Box Primary": "Case à Cocher de Reçu Principale",
+			"Chat Box Primary": "Boîte de Chat Principale",
+			"Telephone White": "Téléphone Blanc",
+			"Marker Pin White": "Épingle de Marqueur Blanche",
+			"Monty Mobile Gray": "Monty Mobile Gris",
+			"Telephone Box Blue": "Boîte Téléphone Bleue",
+			"Close Red": "Fermer Rouge",
+			"Chevron Right Box Gray": "Boîte Chevron Droit Grise",
+			"Chevron Left Box Black": "Boîte Chevron Gauche Noire",
+			"Phone Box Blue": "Boîte Téléphone Bleue",
+			"Search Gray": "Recherche Grise",
+			"Qr Code": "QR Code",
+			"Check Box Primary": "Case à Cocher Principale",
 			"Apple Store": "Apple Store",
 			"Google Play": "Google Play"
 		},
 		"Buttons": {
-			"Download App": "Download App",
-			"Learn More": "Learn More",
-			"Get Started": "Get Started",
-			"Subscribe": "Subscribe",
-			"Contact Us": "Contact Us",
-			"Accounts": "Accounts",
-			"Transfers": "Transfers",
-			"Cards": "Cards",
-			"Payments": "Payments",
-			"View All Features": "View All Features",
-			"View all plans": "View all plans",
-			"Submit": "Submit",
-			"Choose Plan": "Choose Plan",
-			"Coming Soon": "Coming Soon",
-			"Read More": "Read More",
-			"View More": "View More",
-			"Back To News": "Back to news",
-			"Back To Blogs": "Back to blogs",
-			"Visit The Homepage": "Visit the homepage"
+			"Download App": "Télécharger l'application",
+			"Learn More": "Apprendre encore plus",
+			"Get Started": "Commencer",
+			"Subscribe": "S'abonner",
+			"Contact Us": "Nous contacter",
+			"Accounts": "Comptes",
+			"Transfers": "Transferts",
+			"Cards": "Cartes",
+			"Payments": "Paiements",
+			"View All Features": "Voir toutes les fonctionnalités",
+			"View all plans": "Voir tous les plans",
+			"Submit": "Soumettre",
+			"Choose Plan": "Choisir un plan",
+			"Coming Soon": "À venir",
+			"Read More": "Lire la suite",
+			"View More": "Voir plus",
+			"Back To News": "Retour aux actualités",
+			"Back To Blogs": "Retour aux blogs",
+			"Visit The Homepage": "Visiter la page d'accueil"
 		},
 		"Labels": {
-			"Full Name": "Full Name",
-			"Email Address": "Email Address",
-			"Company Name": "Company Name",
-			"Position": "Position",
+			"Full Name": "Nom complet",
+			"Email Address": "Adresse e-mail",
+			"Company Name": "Nom de l'entreprise",
+			"Position": "Poste",
 			"Profession": "Profession",
-			"Mobile Number": "Mobile Number",
-			"Subject": "Subject",
-			"Message": "Your Message",
-			"Country": "Country",
-			"Upload your CV": "Upload your CV",
-			"Click to Upload": "Click to Upload",
-			"Files Accepted": "Files Accepted",
-			"Maximum file size": "Maximum file size",
-			"Uploaded File": "Uploaded File",
-			"File Size": "File Size",
+			"Mobile Number": "Numéro de téléphone",
+			"Subject": "Sujet",
+			"Message": "Votre message",
+			"Country": "Pays",
+			"Upload your CV": "Téléchargez votre CV",
+			"Click to Upload": "Cliquer pour télécharger",
+			"Files Accepted": "Fichiers acceptés",
+			"Maximum file size": "Taille maximale du fichier",
+			"Uploaded File": "Fichier téléchargé",
+			"File Size": "Taille du fichier",
 			"Acknowlegment": {
-				"Part 1": "By checking this box, you confirm that you've read and accepted our",
-				"Part 2": "for our website"
+				"Part 1": "En cochant cette case, vous confirmez avoir lu et accepté notre",
+				"Part 2": "pour notre site web"
 			},
-			"Select": "Select",
-			"Optional": "Optional"
+			"Select": "Sélectionner",
+			"Optional": "Optionnel"
 		},
 		"Placeholders": {
-			"Email": "Enter Your Email",
-			"Full Name": "Full Name",
-			"Email Address": "Email Address",
-			"Company Name": "Company Name",
-			"Position": "Position",
+			"Email": "E-mail",
+			"Full Name": "Nom complet",
+			"Email Address": "Adresse e-mail",
+			"Company Name": "Nom de l'entreprise",
+			"Position": "Poste",
 			"Profession": "Profession",
-			"Mobile Number": "Mobile Number",
-			"Subject": "Subject",
-			"Message": "Your Message",
-			"Search": "Search"
+			"Mobile Number": "Numéro de téléphone",
+			"Subject": "Sujet",
+			"Message": "Votre message",
+			"Search": "Rechercher"
 		},
 		"Messages": {
 			"Errors": {
 				"Required": {
-					"Full Name": "Please enter your full name",
-					"Email": "Please enter your email address",
-					"Position": "Please choose your position",
-					"Code": "Please choose your country code",
-					"Mobile Number": "Please enter your mobile number",
-					"Country": "Please choose your country",
-					"Profession": "Please enter your profession",
-					"Subject": "Please enter your subject",
-					"Message": "Please enter your message",
-					"File": "Please upload at least one valid file"
+					"Full Name": "Veuillez entrer votre nom complet",
+					"Email": "Veuillez entrer votre adresse e-mail",
+					"Position": "Veuillez choisir votre poste",
+					"Code": "Veuillez choisir votre code pays",
+					"Mobile Number": "Veuillez entrer votre numéro de téléphone",
+					"Country": "Veuillez choisir votre pays",
+					"Profession": "Veuillez entrer votre profession",
+					"Subject": "Veuillez entrer votre sujet",
+					"Message": "Veuillez entrer votre message",
+					"File": "Veuillez télécharger au moins un fichier valide"
 				},
-				"Safe": "Your input has invalid value",
-				"Valid Email": "Please enter a valid email address",
-				"Valid Code": "Please enter a valid country code",
-				"Unique Email": "This email address is already subscribed.",
-				"Numeric": "Please enter a valid numeric phone number",
-				"Length": "Please enter a valid phone number between 5 and 12 characters",
-				"File Type": "Invalid file type. Allowed types: pdf, doc, docx, jpg, jpeg, png",
-				"File Max Size": "File size exceeds the limit of 5MB",
-				"Upload Up To": "You can only upload up to",
-				"Files": "files",
-				"You can only upload": "You can only upload",
-				"More Files": "more files",
-				"Confirm Policies": "Please confirm that you've read and accepted our Privacy Policy, Cookie Policy, and Terms & Conditions",
-				"Upload Valid File": "Please upload at least one valid file.",
-				"Validation Failed": "Please ensure all required fields are correctly filled and try submitting again.",
-				"Api Response Validation Failed": "Error in submitting your message. Please try again later",
-				"Api Failed": "Error in submitting your message. Please try again later"
+				"Safe": "Votre saisie est invalide.",
+				"Valid Email": "Veuillez entrer une adresse e-mail valide.",
+				"Valid Code": "Veuillez entrer un code pays valide.",
+				"Unique Email": "Cette adresse e-mail est déjà abonnée.",
+				"Numeric": "Veuillez entrer un numéro de téléphone numérique valide.",
+				"Length": "Veuillez entrer un numéro de téléphone valide entre 5 et 12 caractères.",
+				"File Type": "Type de fichier invalide. Types autorisés: pdf, doc, docx, jpg, jpeg, png",
+				"File Max Size": "La taille du fichier dépasse la limite de 5MB",
+				"Upload Up To": "Vous pouvez télécharger jusqu'à",
+				"Files": "fichiers",
+				"You can only upload": "Vous ne pouvez télécharger que",
+				"More Files": "plus de fichiers",
+				"Confirm Policies": "Veuillez confirmer que vous avez lu et accepté notre Politique de confidentialité, notre Politique en matière de cookies et nos Conditions générales.",
+				"Upload Valid File": "Veuillez télécharger au moins un fichier valide.",
+				"Validation Failed": "Veuillez vous assurer que tous les champs requis sont correctement remplis et essayez de soumettre à nouveau.",
+				"Api Response Validation Failed": "Erreur lors de l'envoi de votre message. Veuillez réessayer plus tard.",
+				"Api Failed": "Erreur lors de l'envoi de votre message. Veuillez réessayer plus tard."
 			},
 			"Success": {
-				"Newsletter": "Thank you for subscribing.",
-				"Career": "Thank you for your message, our team will be in touch with you the soonest."
+				"Newsletter": "Merci pour votre abonnement.",
+				"Career": "Merci pour votre message, notre équipe vous contactera dans les plus brefs délais."
 			}
 		},
 		"Download": {
-			"Title": "Download the app now",
-			"Description": "Sign up and explore our endless benefits",
-			"Scan Qr": "Scan the QR to <br /> download the app"
+			"Title": "Téléchargez l'application maintenant",
+			"Description": "Inscrivez-vous et explorez nos avantages illimités",
+			"Scan Qr": "Scannez le QR pour <br /> télécharger l'application"
 		},
-		"And": "and"
+		"And": "et"
 	},
 	"Pages": {
 		"Homepage": {
@@ -210,7 +210,7 @@
 				"Image Alt": "Il est temps de passer au numérique"
 			},
 			"Section 8": {
-				"Title": "Get a look at our revolutionary features",
+				"Title": "Découvrez nos fonctionnalités révolutionnaires",
 				"Features": [
 					{
 						"Title": "Paiements sans contact simplifiés",
@@ -225,25 +225,25 @@
 				]
 			},
 			"Section 9": {
-				"Title": "Choose your plan",
-				"Description": "We've got you covered with plans tailored to your needs. Just pick the one that suits you best or compare plans.",
+				"Title": "Choisissez votre plan",
+				"Description": "Nous avons des plans adaptés à vos besoins. Il vous suffit de choisir celui qui vous convient le mieux ou de comparer les plans.",
 				"Plans": [
 					{
 						"Title": "Starter",
-						"Description": "Looking to start that journey to financial freedom? <br /> Get our Starter plan and enjoy true freedom with low in-store fees and a virtual/physical card.",
-						"Button Label": "Free"
+						"Description": "Vous souhaitez entamer votre voyage vers la liberté financière? <br /> Obtenez nitre plan Starter et profitez d'une véritable liberté avec de faibles frais en magasin et une carte virtuelle/physique. ",
+						"Button Label": "Gratuit"
 					},
 					{
 						"Title": "Plus",
-						"Description": "If you're looking for true value, try our Classic plan with zero card fees, zero monthly charges and more.",
-						"Status": "Not Available Yet",
-						"Button Label": "COMING SOON"
+						"Description": "Si vous recherchez une véritable valeur, essayez notre plan Classique avec zéro frais de carte, zéro frais mensuels et bien plus encore.",
+						"Status": "Non disponible pour le moment",
+						"Button Label": "A VENIR"
 					},
 					{
 						"Title": "Premium",
-						"Description": "Step up to a truly global level. Enjoy multi-currency features and added value such as investment, health and much more.",
-						"Status": "Not Available Yet",
-						"Button Label": "COMING SOON"
+						"Description": "Passez à un niveau véritablement mondial. Profitez des fonctionnalités multi-devises et d'avantages supplémentaires tels que l'investissement, la santé et bien plus encore.",
+						"Status": "Non disponible pour le moment",
+						"Button Label": "A VENIR"
 					}
 				]
 			},
@@ -259,9 +259,9 @@
 		"Why MyMonty": {
 			"Banner": {
 				"Sub Title": "Pourquoi MyMonty?",
-				"Title": "See what sets us apart",
+				"Title": "Découvrez ce qui nous distingue",
 				"Description": "Chez MyMonty™, nous nous engageons à faire des services bancaires de base un droit universel. Nous vous offrons la chance d'envoyer, de recevoir ou de demander de l'argent avec des tarifs transparents et sans frais cachés.",
-				"Image Alt": "See what sets us apart"
+				"Image Alt": "Découvrez ce qui nous distingue"
 			},
 			"Section 2": {
 				"Cards": [
@@ -273,7 +273,7 @@
 					{
 						"Title": "Paiements récurrents",
 						"Description": "Un autre avantage ! Plus besoin de vous soucier des paiements récurrents lorsque vous pouvez les configurer automatiquement. Relaxez-vous pendant que nous traitons vos factures de services publics rapidement, afin que vous ne ratiez jamais une date limite.",
-						"Image Alt": "Recurring Payments"
+						"Image Alt": "Paiements récurrents"
 					},
 					{
 						"Title": "Pas de frais inattendus",
@@ -304,9 +304,9 @@
 		"Who We Are": {
 			"Banner": {
 				"Sub Title": "Qui nous sommes",
-				"Title": "One app for all things money",
-				"Description": "Manage your money effortlessly from the comfort of one single intuitive app.",
-				"Image Alt": "One app for all things money"
+				"Title": "Une application pour tout ce qui concerne l'argent",
+				"Description": "Gérez votre argent sans effort depuis le confort d'une application unique et intuitive.",
+				"Image Alt": "Une application pour tout ce qui concerne l'argent"
 			},
 			"Section 2": {
 				"Title": "Qui nous sommes",
@@ -349,57 +349,57 @@
 				]
 			},
 			"Seo": {
-				"Title": "Who we are - Our Mission and Values",
+				"Title": "Qui nous sommes - Our Mission and Values",
 				"Description": "The most comprehensive global digital banking experience at your fingertips",
-				"Og Title": "Who we are - Our Mission and Values",
+				"Og Title": "Qui nous sommes - Our Mission and Values",
 				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
-				"Twitter Title": "Who we are - Our Mission and Values",
+				"Twitter Title": "Qui nous sommes - Our Mission and Values",
 				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
 			}
 		},
 		"Plans": {
 			"Banner": {
 				"Sub Title": "Plans",
-				"Title": "Choose Your Plan",
-				"Description": "We've got you covered with plans tailored to your needs. Just pick the one that suits you best or compare plans.",
-				"Image Alt": "Choose Your Plan"
+				"Title": "Choisissez votre forfait",
+				"Description": "Nous avons des forfaits adaptés à vos besoins. Choisissez simplement celui qui vous convient le mieux ou comparez les forfaits.",
+				"Image Alt": "Choisissez votre forfait"
 			},
 			"Section 2": [
 				{
 					"Category": "Starter",
-					"Price": "Free",
-					"Description": "Enjoy true freedom with low in store fees and a virtual/physical card.",
+					"Price": "Gratuit",
+					"Description": "Profitez d'une véritable liberté avec des frais en magasin faibles et une carte virtuelle/physique.",
 					"Layout": "full",
 					"Features": [
-						"Dedicated free Euro/GBP IBAN",
-						"0,2 EUR on faster payments",
-						"Free peer to peer transfers",
-						"2 EUR physical card replacement fee.",
-						"No monthly fee",
-						"Free ATM balance enquiry or pin change",
-						"Free MyMonty virtual Mastercard",
-						"2% on currency exchange + a minimum fee of 2 EUR",
-						"5 EUR physical card printing and delivery in Europe & the UK.",
-						"1.5% on card top up, instant top up",
-						"1 EUR inactive fee when wallet is loaded and no transactions made over period of 6 months",
-						"0,15 EUR on SEPA transfer",
-						"1.5% on ATM withdrawal in EUR subject to a minimum fee of 1 EUR"
+						"IBAN Euro/GBP dédié et gratuit",
+						"0,2 EUR sur les paiements plus rapides",
+						"Virements P2P gratuits",
+						"Frais de remplacement de carte physique: 2 EUR.",
+						"Aucun frais mensuel",
+						"Enquête de solde ATM gratuite ou changement de code PIN",
+						"Carte MyMonty virtuelle Mastercard gratuite",
+						"2 % sur le change de devises + frais minimum de 2 EUR",
+						"Frais de fabrication et de livraison de carte physique en Europe et au Royaume-Uni : 5 EUR",
+						"1,5 % sur le rechargement de la carte, rechargement instantané",
+						"Frais d'inactivité de 1 EUR lorsque le portefeuille est chargé et aucune transaction n'est effectuée pendant une période de 6 mois",
+						"0,15 EUR sur le virement SEPA",
+						"1,5 % sur les retraits ATM en EUR, avec un frais minimum de 1 EUR"
 					],
-					"Button Text": "Choose Plan"
+					"Button Text": "Choisir un forfait"
 				},
 				{
 					"Category": "Plus",
-					"Price": "All features included in STARTER Plan",
-					"Description": "If you're looking for a true value plan with zero card fees, zero monthly charges and more.",
+					"Price": "Toutes les fonctionnalités du forfait STARTER",
+					"Description": "Si vous cherchez un forfait avec une réelle valeur, sans frais de carte, sans frais mensuels et plus encore.",
 					"Layout": "half",
 					"Features": [
-						"Free contactless physical card",
-						"Priority customer support",
-						"1 fee free SEPA transfer",
-						"25 fee free POS transactions",
-						"1 fee free account top up per month"
+						"Carte physique sans contact gratuite",
+						"Support client prioritaire",
+						"1 virement SEPA sans frais",
+						"25 transactions POS sans frais",
+						"1 rechargement de compte sans frais par mois"
 					],
-					"Button Text": "Coming Soon"
+					"Button Text": "À venir"
 				},
 				{
 					"Category": "Premium",
@@ -407,13 +407,13 @@
 					"Description": "If you're looking for a true value plan with zero card fees, zero monthly charges and more.",
 					"Layout": "half",
 					"Features": [
-						"Multicurrency accounts",
-						"Contactless metal debit card",
-						"Investment accounts",
-						"Health insurance",
-						"Joint accounts"
+						"Comptes multidevises",
+						"Carte de débit en métal sans contact",
+						"Comptes d'investissement",
+						"Assurance santé",
+						"Comptes joints"
 					],
-					"Button Text": "Coming Soon"
+					"Button Text": "À venir"
 				}
 			],
 			"Seo": {
@@ -427,7 +427,7 @@
 		},
 		"News": {
 			"Banner": {
-				"Sub Title": "News",
+				"Sub Title": "Actualités",
 				"Title": "Que se passe-t-il chez MyMonty?",
 				"Description": "Explorez nos blogs pour les dernières mises à jour et offres.",
 				"Image Alt": "Que se passe-t-il chez MyMonty?"
@@ -443,14 +443,14 @@
 		},
 		"Features": {
 			"Banner": {
-				"Sub Title": "Features",
-				"Title": "Unlock the best of what we offer",
-				"Description": "Enjoy our outstanding features and stand out from the crowd",
-				"Image Alt": "Unlock the best of what we offer"
+				"Sub Title": "Fonctionnalités",
+				"Title": "Débloquez le meilleur de ce que nous offrons",
+				"Description": "Profitez de nos fonctionnalités exceptionnelles et démarquez-vous de la foule",
+				"Image Alt": "Débloquez le meilleur de ce que nous offrons"
 			},
 			"Section 2": {
-				"Title": "Features",
-				"Description": "Experience the convenience of features tailored just for you"
+				"Title": "Fonctionnalités",
+				"Description": "Découvrez la commodité de fonctionnalités conçues spécialement pour vous"
 			},
 			"Section 3": [
 				{
@@ -468,7 +468,7 @@
 					]
 				},
 				{
-					"Category": "Cards",
+					"Category": "Cartes",
 					"Path": "cards",
 					"Cards": [
 						{
@@ -490,14 +490,14 @@
 					]
 				},
 				{
-					"Category": "Transfers",
+					"Category": "Transferts",
 					"Path": "transfers",
 					"Cards": [
 						{
 							"Title": "Virements bancaires: SEPA",
 							"Path": "wire-transfer-sepa",
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Recevez des virements bancaires en toute simplicité</span>Recevez des virements bancaires en toute simplicité.",
-							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Receive wire transfers with ease</h3></div><p>Recevez des virements bancaires en toute simplicité.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Envoyer des virements électroniques</h3></div><p>Envoyez facilement des virements sortants aux destinataires correspondant à votre devise. Personnalisez les frais des virements IBAN en fonction du forfait sélectionné. Enregistrez les détails des destinataires tels que les noms, les IBAN et les alias pour des virements futurs rapides. MyMonty prend en charge les virements sortants EUR SEPA, BGN BISERA et GBP Faster Payments pour des transactions efficaces.</p></div>",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recevez des virements bancaires en toute simplicité</h3></div><p>Recevez des virements bancaires en toute simplicité.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Envoyer des virements électroniques</h3></div><p>Envoyez facilement des virements sortants aux destinataires correspondant à votre devise. Personnalisez les frais des virements IBAN en fonction du forfait sélectionné. Enregistrez les détails des destinataires tels que les noms, les IBAN et les alias pour des virements futurs rapides. MyMonty prend en charge les virements sortants EUR SEPA, BGN BISERA et GBP Faster Payments pour des transactions efficaces.</p></div>",
 							"Icon": "wire-transfers-sepa",
 							"Image": "wire-transfers-sepa"
 						},
@@ -512,7 +512,7 @@
 					]
 				},
 				{
-					"Category": "Payments",
+					"Category": "Paiements",
 					"Path": "payments",
 					"Cards": [
 						{
@@ -543,24 +543,24 @@
 				}
 			],
 			"Seo": {
-				"Title": "Features",
+				"Title": "Fonctionnalités",
 				"Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
-				"Og Title": "Features",
+				"Og Title": "Fonctionnalités",
 				"Og Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
-				"Twitter Title": "Features",
+				"Twitter Title": "Fonctionnalités",
 				"Twitter Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd."
 			}
 		},
 		"Frequently Asked Questions": {
 			"Banner": {
 				"Sub Title": "FAQ",
-				"Title": "Frequently asked questions",
-				"Description": "Our team is always ready to assist you or answer your inquiries. Fill out this form to reach us.",
-				"Image Alt": "Frequently asked questions"
+				"Title": "Foire aux questions",
+				"Description": "Notre équipe est toujours prête à vous aider ou à répondre à vos questions. Remplissez ce formulaire pour nous contacter.",
+				"Image Alt": "Foire aux questions"
 			},
 			"Section 2": {
-				"Topic Heading": "Topic",
-				"Question Not Found": "No matching questions found",
+				"Topic Heading": "Sujet",
+				"Question Not Found": "Aucune question correspondante trouvée.",
 				"Faqs": [
 					{
 						"Topic": "Ouvrir un compte",
@@ -800,13 +800,13 @@
 		},
 		"Contact Us": {
 			"Banner": {
-				"Sub Title": "Contact Us",
+				"Sub Title": "Nous contacter",
 				"Title": "Des questions ou besoin d'aide?",
 				"Description": "Notre équipe amicale est là pour vous aider. Remplissez simplement le formulaire ci-dessous et nous vous contacterons bientôt.",
 				"Image Alt": "Des questions ou besoin d'aide"
 			},
 			"Section 2": {
-				"Title": "Fill out this form to reach us"
+				"Title": "Remplissez ce formulaire pour nous contacter"
 			},
 			"Section 3": {
 				"Title": "Toujours là pour vous",
@@ -825,9 +825,9 @@
 		"Code Of Conduct": {
 			"Banner": {
 				"Sub Title": "Nos valeurs",
-				"Title": "Our code of conduct",
+				"Title": "Notre code de conduite",
 				"Description": "Principes directeurs de MyMonty",
-				"Image Alt": "Our code of conduct"
+				"Image Alt": "Notre code de conduite"
 			},
 			"Section 2": {
 				"Cards": [
@@ -879,35 +879,35 @@
 				]
 			},
 			"Seo": {
-				"Title": "Code Of Conduct",
+				"Title": "Code de conduite",
 				"Description": "",
-				"Og Title": "Code Of Conduct",
+				"Og Title": "Code de conduite",
 				"Og Description": "",
-				"Twitter Title": "Code Of Conduct",
+				"Twitter Title": "Code de conduite",
 				"Twitter Description": ""
 			}
 		},
 		"Careers": {
 			"Banner": {
-				"Sub Title": "Careers",
+				"Sub Title": "Carrières",
 				"Title": "Rejoignez notre équipe de rêve",
 				"Description": "Ne ratez pas votre chance de faire partie d'une équipe formidable. Découvrez nos offres d'emploi actuelles sur <a href='https://linkdedin.com/company/mymonty' target='_blank'>LinkedIn</a> et postulez dès aujourd'hui.",
 				"Image Alt": "Rejoignez notre équipe de rêve"
 			},
 			"Section 2": {
-				"Title": "Embark on Your career journey with us",
-				"Description": "Our team is our biggest asset! We are dedicated to recognizing and cultivating talent from within, offering a transparent and well-defined career path for our valuable team members.<br /><br />We heavily invest in employee training programs, workshops, and mentorship initiatives, ensuring our team is not only well-equipped for their current roles but also ready for future challenges.",
+				"Title": "Embarquez dans votre parcours professionnel avec nous",
+				"Description": "Notre équipe est notre plus grand atout! Nous nous engageons à reconnaître et à cultiver les talents en interne, en offrant une trajectoire de carrière transparente et bien définie à nos précieux collaborateurs. <br /><br /> Nous investissons massivement dans des programmes de formation, des ateliers et des initiatives de mentorat pour garantir que notre équipe soit non seulement bien préparée pour leurs rôles actuels, mais aussi prête à relever les défis futurs.",
 				"Cards": [
 					{
-						"Title": "Always there for you",
-						"Description 1": "<span class='font-AeonikBold'>Monday to Friday:</span> 8:00 AM - 5:00 PM (EEST)<br /><span class='font-AeonikBold'>Saturday and Sunday:</span> Closed",
-						"Description 2": "Have a complaint or need any assistance?<br />Reach out to us <a href='mailto:support&#64;mymonty.com'>here</a>",
-						"Image Alt": "Always There For You"
+						"Title": "Toujours là pour vous",
+						"Description 1": "<span class='font-AeonikBold'>Lundi à Vendredi:</span> 8h00 - 17h00 (EEST)<br /><span class='font-AeonikBold'>Samedi et dimanche:</span> Fermé",
+						"Description 2": "Vous avez une réclamation ou besoin d'aide?<br />Contactez-nous <a href='mailto:support&#64;mymonty.com'>ici</a>",
+						"Image Alt": "Toujours là pour vous"
 					}
 				]
 			},
 			"Section 3": {
-				"Title": "Fill out this form to reach us"
+				"Title": "Remplissez ce formulaire pour nous joindre"
 			},
 			"Seo": {
 				"Title": "Join our dream team - Apply today",
@@ -920,7 +920,7 @@
 		},
 		"Board Of Directors": {
 			"Banner": {
-				"Sub Title": "Board of Directors",
+				"Sub Title": "Conseil d'administration",
 				"Title": "Leadership team",
 				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
 				"Image Alt": "Leadership team"
@@ -987,9 +987,9 @@
 		},
 		"Terms And Conditions": {
 			"Banner": {
-				"Sub Title": "Terms & Conditions",
-				"Title": "Terms & Conditions",
-				"Description": "Terms & Conditions.",
+				"Sub Title": "Conditions générales",
+				"Title": "Conditions générales",
+				"Description": "Conditions générales.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
@@ -1003,73 +1003,73 @@
 		},
 		"Privacy Policy": {
 			"Banner": {
-				"Sub Title": "Privacy Policy",
-				"Title": "Privacy Policy",
-				"Description": "Privacy Policy.",
+				"Sub Title": "Politique de confidentialité",
+				"Title": "Politique de confidentialité",
+				"Description": "Politique de confidentialité.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Privacy Policy & Data Protection",
+				"Title": "Politique de confidentialité & Data Protection",
 				"Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
-				"Og Title": "Privacy Policy & Data Protection",
+				"Og Title": "Politique de confidentialité & Data Protection",
 				"Og Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
-				"Twitter Title": "Privacy Policy & Data Protection",
+				"Twitter Title": "Politique de confidentialité & Data Protection",
 				"Twitter Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information."
 			}
 		},
 		"Cookie Policy": {
 			"Banner": {
-				"Sub Title": "Cookie Policy",
-				"Title": "Cookie Policy",
-				"Description": "Cookie Policy.",
+				"Sub Title": "Politique en matière de cookies",
+				"Title": "Politique en matière de cookies",
+				"Description": "Politique en matière de cookies.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Cookie Policy - Types and Usage",
+				"Title": "Politique en matière de cookies - Types and Usage",
 				"Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
-				"Og Title": "Cookie Policy - Types and Usage",
+				"Og Title": "Politique en matière de cookies - Types and Usage",
 				"Og Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
-				"Twitter Title": "Cookie Policy - Types and Usage",
+				"Twitter Title": "Politique en matière de cookies - Types and Usage",
 				"Twitter Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety."
 			}
 		},
 		"Paynetics Terms And Conditions": {
 			"Banner": {
-				"Sub Title": "Paynetics Terms & Conditions",
-				"Title": "Paynetics Terms & Conditions",
-				"Description": "Paynetics Terms & Conditions.",
+				"Sub Title": "Conditions générales de Paynetics",
+				"Title": "Conditions générales de Paynetics",
+				"Description": "Conditions générales de Paynetics.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Paynetics Terms & Conditions",
+				"Title": "Conditions générales de Paynetics",
 				"Description": "",
-				"Og Title": "Paynetics Terms & Conditions",
+				"Og Title": "Conditions générales de Paynetics",
 				"Og Description": "",
-				"Twitter Title": "Paynetics Terms & Conditions",
+				"Twitter Title": "Conditions générales de Paynetics",
 				"Twitter Description": ""
 			}
 		},
 		"Paynetics Privacy Policy": {
 			"Banner": {
-				"Sub Title": "Paynetics Privacy Policy",
-				"Title": "Paynetics Privacy Policy",
-				"Description": "Paynetics Privacy Policy.",
+				"Sub Title": "Politique de confidentialité de Paynetics",
+				"Title": "Politique de confidentialité de Paynetics",
+				"Description": "Politique de confidentialité de Paynetics.",
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Paynetics Privacy Policy",
+				"Title": "Politique de confidentialité de Paynetics",
 				"Description": "",
-				"Og Title": "Paynetics Privacy Policy",
+				"Og Title": "Politique de confidentialité de Paynetics",
 				"Og Description": "",
-				"Twitter Title": "Paynetics Privacy Policy",
+				"Twitter Title": "Politique de confidentialité de Paynetics",
 				"Twitter Description": ""
 			}
 		},
 		"Error": {
 			"Section 1": {
 				"Image Alt": "Error 404",
-				"Title": "We can't find that one",
-				"Description": "We update our website regularly, so this page may have been moved, removed, or the URL wasn't quite right.<br /><br />Explore the latest from MyMonty this way..."
+				"Title": "Impossible de trouver cette page",
+				"Description": "Nous mettons régulièrement à jour notre site web, donc cette page a peut-être été déplacée, supprimée ou l'URL n'était pas tout à fait correcte. <br /><br />Découvrez les dernières nouveautés de MyMonty par ici..."
 			},
 			"Seo": {
 				"Title": "Error {code}",
@@ -1084,14 +1084,14 @@
 	},
 	"Footer": {
 		"Newsletter": {
-			"Title": "Subscribe to our newsletter",
+			"Title": "Abonnez-vous à notre newsletter",
 			"Description": "Receive the latest news from us.",
 			"Acknowlegment1": "By subscribing to our newsletter, you acknowledge that you have read and accepted our",
 			"Acknowlegment2": "read and understood our"
 		},
 		"Toll-Free Number": "Toll-Free Number",
 		"Email Us": "Email Us",
-		"Copyright 1": "Copyright ©",
+		"Copyright 1": "Droits d'auteur ©",
 		"Copyright 2": "All Rights Reserved Monty Finance UK LTD",
 		"Paynetics Agreement": "“For programmes operating in the United Kingdom, the Payment Account and Mastercard cards are issued by Paynetics UK, Company number 1248133, (via Monty Finance UK Ltd, a Technical Provider of Paynetics UK). Paynetics UK is a wholly owned subsidiary of Paynetics AD with its registered address at 1st Floor, 18 Devonshire Row, London, England, EC2M 4RH. Paynetics UK is an electronic money institution authorised and regulated by the Financial Conduct Authority (firm reference number 942777) for the issuance of e-money and provision of payment services in the UK.”<br /><br />“For programmes operating in the European Union, the Payment account and Mastercard cards are issued by Paynetics AD (via Monty Finance UK Ltd, a Technical Provider of Paynetics AD) with company address 76A James Bourchier Blvd, 1407 Sofia, Bulgaria, company registration number 131574695 and VAT BG131574695, pursuant to license by Mastercard International Incorporated and Bulgarian National Bank.”"
 	}
