@@ -9,7 +9,7 @@
                     <!-- <button @click="scrollToDownload" class="w-max py-2 px-6 text-base text-white bg-black hover:bg-primary rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">Get Started</button> -->
                 </div>
                 <div class="lg:absolute lg:bottom-0 lg:right-0 lg:w-[55%]">
-                    <NuxtImg src="/images/main-banner.webp" :alt="t(`Pages.Homepage.Banner.Image Alt`)" width="1424" height="1664" />
+                    <NuxtImg :src="`/images/main-banner-${ currentLanguage }.webp`" :alt="t(`Pages.Homepage.Banner.Image Alt`)" width="1424" height="1664" />
                 </div>
             </div>
         </section>
@@ -44,7 +44,7 @@
         <section id="section-4" class="manage-your-money relative my-12 py-12 lg:my-14 lg:py-36 bg-[url('/images/manage-your-money-bg.webp')] bg-fixed bg-no-repeat bg-cover bg-center">
             <div class="container">
                 <div class="flex flex-col justify-center gap-14 h-full">
-                    <NuxtImg loading="lazy" class="w-44 lg:w-64" src="/images/manage-your-money.webp" :alt="t(`Pages.Homepage.Section 4.Image Alt`)" width="514" height="384" />
+                    <NuxtImg loading="lazy" class="w-44 lg:w-64" :src="`/images/manage-your-money-${ currentLanguage }.webp`" :alt="t(`Pages.Homepage.Section 4.Image Alt`)" width="514" height="384" />
 
                     <div class="flex flex-col justify-start items-start gap-4 lg:gap-8 text-white">
                         <h3 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Homepage.Section 4.Title`) }}</h3>
@@ -103,7 +103,7 @@
                             <button class="py-2 px-6 text-base text-white bg-black hover:bg-primary rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">{{ t(`General.Buttons.Accounts`) }}</button>
                         </NuxtLinkLocale>
                     </div>
-                    <NuxtImg loading="lazy" class="order-2 lg:order-1" src="/images/stay-protected.webp" :alt="t(`Pages.Homepage.Section 6.Image Alt`)" width="1120" height="892" />
+                    <NuxtImg loading="lazy" class="order-2 lg:order-1" :src="`/images/stay-protected-${ currentLanguage }.webp`" :alt="t(`Pages.Homepage.Section 6.Image Alt`)" width="1120" height="892" />
                 </div>
             </div>
         </section>    
@@ -114,7 +114,7 @@
                     <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Homepage.Section 7.Title`) }}</h2>
                     <p class="text-xl" v-html="t(`Pages.Homepage.Section 7.Description`)"></p>
                 </div>
-                <NuxtImg loading="lazy" class="w-full mt-8" src="/images/time-to-go-digital.webp" :alt="t(`Pages.Homepage.Section 7.Image Alt`)" width="2124" height="1022" />
+                <NuxtImg loading="lazy" class="w-full mt-8" :src="`/images/time-to-go-digital-${ currentLanguage }.webp`" :alt="t(`Pages.Homepage.Section 7.Image Alt`)" width="2124" height="1022" />
             </div>
         </section>
 
@@ -202,7 +202,7 @@
 </template>
 
 <script setup>
-    const { t } = useLocale(); 
+    const { t, currentLanguage } = useLocale(); 
 
     useSeoMeta({
         title: t('Pages.Homepage.Seo.Title'),

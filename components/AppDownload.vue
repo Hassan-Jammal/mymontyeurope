@@ -20,7 +20,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="mx-auto lg:ms-auto lg:mx-0 text-right">
+                <div class="flex flex-col items-center jusitfy-center lg:ms-auto">
                     <NuxtImg loading="lazy" src="/images/icons/qr-code.svg" :alt="t(`General.Alts.Qr Code`)" width="180" height="180" />
                     <p class="text-center text-xl mt-4" v-html="t(`General.Download.Scan Qr`)"></p>
                 </div>

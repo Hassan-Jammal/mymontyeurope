@@ -36,7 +36,7 @@
                     <p class="text-xl" v-html="t(`Pages.Who We Are.Section 3.Description`)"></p>
                 </div>
                 <div class="lg:w-3/4 mx-auto mt-8">
-                    <NuxtImg loading="lazy" src="/images/equal-opportunities-for-all.webp" :alt="t(`Pages.Who We Are.Section 3.Image Alt`)" width="918" height="460" />
+                    <NuxtImg loading="lazy" :src="`/images/equal-opportunities-for-all-${ currentLanguage }.webp`" :alt="t(`Pages.Who We Are.Section 3.Image Alt`)" width="918" height="460" />
                 </div>
             </div>
         </section>
@@ -49,7 +49,7 @@
                     <NuxtImg loading="lazy" class="max-lg:hidden absolute bottom-0 -left-14 -z-10" src="/images/icons/monty-mobile-gray.svg" :alt="t(`General.Alts.Monty Mobile Gray`)" width="249" height="128" />
                 </div>
                 <div class="order-2 lg:order-1">
-                    <NuxtImg loading="lazy" src="/images/digital-all-the-way.webp" :alt="t(`Pages.Who We Are.Section 4.Image Alt`)" width="489" height="474" />
+                    <NuxtImg loading="lazy" :src="`/images/digital-all-the-way-${ currentLanguage }.webp`" :alt="t(`Pages.Who We Are.Section 4.Image Alt`)" width="489" height="474" />
                 </div>
             </div>
         </section>

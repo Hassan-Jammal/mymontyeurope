@@ -6,7 +6,7 @@
             description="Description"
             buttonLink=""
             buttonText="Learn More"
-            image="see-what-sets-us-apart"
+            :image="`see-what-sets-us-apart-${ currentLanguage }`"
             alt="Image Alt"
             page="Why MyMonty"
         />
@@ -48,7 +48,7 @@
                         <h2 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase">{{ t(`Pages.Why MyMonty.Section 2.Cards[4].Title`) }}</h2>
                         <p class="text-xl" v-html="t(`Pages.Why MyMonty.Section 2.Cards[4].Description`)"></p>
                     </div>
-                    <NuxtImg loading="lazy" class="w-full mt-8" src="/images/high-end-security.webp" :alt="t(`Pages.Why MyMonty.Section 2.Cards[4].Image Alt`)" width="1908" height="816" />
+                    <NuxtImg loading="lazy" class="w-full mt-8" :src="`/images/high-end-security-${currentLanguage}.webp`" :alt="t(`Pages.Why MyMonty.Section 2.Cards[4].Image Alt`)" width="1908" height="816" />
                 </div>
             </div>
         </section>
@@ -56,7 +56,7 @@
 </template>
 
 <script setup>
-    const { t } = useLocale(); 
+    const { t, currentLanguage } = useLocale(); 
 
     useSeoMeta({
         title: t('Pages.Why MyMonty.Seo.Title'),

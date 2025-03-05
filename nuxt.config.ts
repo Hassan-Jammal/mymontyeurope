@@ -89,14 +89,13 @@ export default defineNuxtConfig({
 						"@type": "Organization",
 						"name": "MyMonty",
 						"url": "https://www.mymonty.com",
-						"description": "MyMonty is a super digital wallet, setting the digital stage for your money to take the spotlight and dance like no one's watching!",
+						"description": "With MyMonty, you get the most comprehensive global digital banking experience, anytime, anywhere.",
 						"logo": "http://92.205.130.62:5000/images/logo.svg", // png
 						"sameAs": [
 							"https://www.facebook.com/mymonty",
 							"https://x.com/mymontyapp",
 							"https://www.instagram.com/mymonty",
 							"https://www.linkedin.com/company/my-monty",
-							"https://www.tiktok.com/@revolutapp",
 							"https://www.youtube.com/@mymonty4395",
 							"https://apps.apple.com/lb/app/mymonty-europe/id6451243007",
 							"https://play.google.com/store/apps/details?id=com.mymonty.wallet",

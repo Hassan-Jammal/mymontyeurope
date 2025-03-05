@@ -130,7 +130,8 @@
 					"Code": "Selecciona el código de país.",
 					"Mobile Number": "Introduce tu número de teléfono móvil.",
 					"Country": "Selecciona tu país.",
-					"Profession": "Introduce tu Introduce el asunto. enter your subject.",
+					"Profession": "Introduce tu profesión.",
+					"Subject": "Introduce el asunto.",
 					"Message": "Escribe el mensaje.",
 					"File": "Carga al menos un archivo válido."
 				},
@@ -173,7 +174,7 @@
 			},
 			"Section 2": {
 				"Title": "Acompáñanos en esta aventura",
-				"Description": "We understand the importance of a smooth and efficient onboarding process. That’s why we’ve developed a comprehensive digital onboarding program designed to get you up to speed quickly and comfortably."
+				"Description": "Entendemos lo importante que es tener un proceso de incorporación sencillo y eficiente. Por eso, hemos creado un programa de integración digital completo, pensado para que te adaptes rápidamente y sin complicaciones."
 			},
 			"Section 3": {
 				"Title": "Cubrimos tus espaldas",
@@ -462,7 +463,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Disfruta de una banca cómoda, con la cuenta de la cartera digital de MyMonty Europe.</span>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Disfruta de una banca cómoda, con la cuenta de la cartera digital de MyMonty Europe.</h3></div><p>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.<br />Disfruta de la flexibilidad de nuestra cuenta de la cartera en una única moneda, disponible en EUR o GBP, y haz transferencias rápidas y seguras con nuestras soluciones de pago sin contacto a través de Google Pay o Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con tarjeta</h3></div><p>Recarga fácilmente tu cartera MyMonty guardando tus tarjetas Mastercard o Visa de forma segura. Disfruta de acceso inmediato a tus fondos con cada recarga. Las tarifas de este servicio pueden configurarse en función de tu plan de precios personalizado, lo que garantiza una flexibilidad y comodidad adaptadas a tus necesidades.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con solicitud P2P</h3></div><p>Solicita dinero fácilmente a amigos o familiares y recarga tu saldo al instante con tan solo unos toques.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga mediante transferencia SEPA</h3></div><p>Añade fondos a tu cuenta de forma segura y práctica con una transferencia bancaria SEPA.</p></div>",
 							"Icon": "wallet-account",
-							"Image": "wallet-account"
+							"Image": "wallet-account-es"
 						}
 					]
 				},
@@ -498,7 +499,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Recibe transferencias bancarias de manera sencilla</span>Regístrate y obtén un IBAN único para recibir transferencias bancarias fácilmente. MyMonty admite transferencias SEPA en euros (Zona Única de Pagos en Euros) y transferencias entrantes BISERA en levas búlgaras, lo que garantiza que puedas disfrutar de una experiencia cómoda y segura.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recibe transferencias bancarias de manera sencilla</h3></div><p>Regístrate y obtén un IBAN único para recibir transferencias bancarias fácilmente. MyMonty admite transferencias SEPA en euros (Zona Única de Pagos en Euros) y transferencias entrantes BISERA en levas búlgaras, lo que garantiza que puedas disfrutar de una experiencia cómoda y segura.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Envía transferencias bancarias</h3></div><p>Haz transferencias bancarias a destinatarios que operen en la misma divisa de forma sencilla. Personaliza las comisiones de las transferencias IBAN en función del plan que hayas seleccionado. Guarda los datos del destinatario (nombre, IBAN y alias) para hacer transferencias más rápidamente en el futuro. MyMonty admite transferencias salientes SEPA en euros, BISERA en levas búlgaras y libras esterlinas a través de Faster Payments para conseguir transacciones más eficientes.</p></div>",
 							"Icon": "wire-transfers-sepa",
-							"Image": "wire-transfers-sepa"
+							"Image": "wire-transfers-sepa-es"
 						},
 						{
 							"Title": "Transferencias P2P",
@@ -506,7 +507,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Transferencias P2P instantáneas</span>Transfiere fondos al instante a otros usuarios de MyMonty. Si el destinatario no tiene cuenta, recibirá una invitación por SMS. Una vez registrado y completado el proceso de verificación KYC, la transferencia se procesará y se abonará en su cuenta.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Transferencias P2P instantáneas</h3></div><p>Transfiere fondos al instante a otros usuarios de MyMonty. Si el destinatario no tiene cuenta, recibirá una invitación por SMS. Una vez registrado y completado el proceso de verificación KYC, la transferencia se procesará y se abonará en su cuenta. Las transferencias P2P caducan a los tres días si no se completan.<br />También puedes realizar transferencias P2P entre MyMonty y otros colaboradores de Paynetics, como Phyre, A1 Wallet, Pay by Vivacom y BACB Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Envía dinero al instante</h3></div><p>Envía dinero a familiares y amigos dentro de MyMonty de forma rápida y sencilla. Si el destinatario no está registrado, recibirá una invitación por SMS para registrarse en MyMonty. Las transferencias se completan de inmediato una vez que se ha completado el registro y el proceso de verificación KYC.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recibe dinero cómodamente</h3></div><p>Empieza a recibir dinero con tu IBAN único al instante. MyMonty admite transferencias SEPA en euros y BISERA en levas búlgaras para que disfrutes de una experiencia cómoda y segura. Los fondos se abonan de manera instantánea en tu cuenta.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Solicita dinero fácilmente</h3></div><p>Pide dinero a cualquier contacto de tu aplicación MyMonty. Los usuarios que no estén registrados recibirán una invitación por SMS. Después de registrarse y completar el proceso de verificación KYC, podrán enviarte el importe solicitado al instante. Las solicitudes caducan a los tres días si no se completan.</p></div>",
 							"Icon": "peer-to-peer-transfers",
-							"Image": "peer-to-peer-transfers"
+							"Image": "peer-to-peer-transfers-es"
 						}
 					]
 				},
@@ -921,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Consejo de administración",
 				"Title": "Leadership team",
-				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
+				"Description": "Confiamos en nuestro equipo. Al apoyar constantemente el desarrollo de sus habilidades, establecemos estándares altos y nos esforzamos por superarlos. Nos comprometemos a guiarlos y empoderarlos para transformar la experiencia de la banca digital.",
 				"Image Alt": "Leadership team"
 			},
 			"Section 2": {
@@ -1072,26 +1073,26 @@
 			},
 			"Seo": {
 				"Title": "Error {code}",
-				"Description": "An error occurred: {message}",
+				"Description": "Ocurrió un error: {message}",
 				"Og Title": "Error {code} Occurred",
-				"Og Description": "An error occurred on our website: {message}",
+				"Og Description": "Se presentó un problema en nuestro sitio web: {message}",
 				"Twitter Title": "Error {code} Occurred",
-				"Twitter Description": "An error occurred on our website: {message}",
-				"Default Message": "An unknown error occurred"
+				"Twitter Description": "Se presentó un problema en nuestro sitio web: {message}",
+				"Default Message": "Ha ocurrido un error desconocido"
 			}
 		}
 	},
 	"Footer": {
 		"Newsletter": {
 			"Title": "Suscríbete a nuestro boletín de noticias",
-			"Description": "Receive the latest news from us.",
-			"Acknowlegment1": "By subscribing to our newsletter, you acknowledge that you have read and accepted our",
-			"Acknowlegment2": "read and understood our"
+			"Description": "Mantente al tanto de nuestras últimas noticias.",
+			"Acknowlegment1": "Al suscribirte a nuestro boletín, confirmas que has leído y aceptado nuestros",
+			"Acknowlegment2": "Leer y entender nuestro"
 		},
-		"Toll-Free Number": "Toll-Free Number",
-		"Email Us": "Email Us",
-		"Copyright 1": "Copyright ©",
-		"Copyright 2": "All Rights Reserved Monty Finance UK LTD",
-		"Paynetics Agreement": "“For programmes operating in the United Kingdom, the Payment Account and Mastercard cards are issued by Paynetics UK, Company number 1248133, (via Monty Finance UK Ltd, a Technical Provider of Paynetics UK). Paynetics UK is a wholly owned subsidiary of Paynetics AD with its registered address at 1st Floor, 18 Devonshire Row, London, England, EC2M 4RH. Paynetics UK is an electronic money institution authorised and regulated by the Financial Conduct Authority (firm reference number 942777) for the issuance of e-money and provision of payment services in the UK.”<br /><br />“For programmes operating in the European Union, the Payment account and Mastercard cards are issued by Paynetics AD (via Monty Finance UK Ltd, a Technical Provider of Paynetics AD) with company address 76A James Bourchier Blvd, 1407 Sofia, Bulgaria, company registration number 131574695 and VAT BG131574695, pursuant to license by Mastercard International Incorporated and Bulgarian National Bank.”"
+		"Toll-Free Number": "Número gratuito",
+		"Email Us": "Contáctanos por correo electrónico",
+		"Copyright 1": "Derechos de autor ©",
+		"Copyright 2": "Todos los derechos reservados Monty Finance UK LTD",
+		"Paynetics Agreement": "«Para los programas en el Reino Unido, la cuenta de pago y las tarjetas Mastercard son emitidas por Paynetics UK, empresa registrada bajo el número 1248133 (a través de Monty Finance UK Ltd, proveedor técnico de Paynetics UK). Paynetics UK es una filial al 100% de Paynetics AD, ubicada en 1st Floor, 18 Devonshire Row, Londres, Inglaterra, EC2M 4RH. Paynetics UK es una institución de dinero electrónico autorizada y regulada por la Financial Conduct Authority (número de referencia 942777) para emitir dinero electrónico y ofrecer servicios de pago en el Reino Unido.»<br /><br />«Para los programas en la Unión Europea, la cuenta de pago y las tarjetas Mastercard son emitidas por Paynetics AD (a través de Monty Finance UK Ltd, proveedor técnico de Paynetics AD), ubicada en 76A James Bourchier Blvd, 1407 Sofía, Bulgaria, registrada bajo el número 131574695 y NIF BG131574695, con licencia de Mastercard International Incorporated y del Banco Nacional de Bulgaria.»"
 	}
 }

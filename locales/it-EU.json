@@ -174,7 +174,7 @@
 			},
 			"Section 2": {
 				"Title": "Sali a bordo con noi",
-				"Description": "We understand the importance of a smooth and efficient onboarding process. That’s why we’ve developed a comprehensive digital onboarding program designed to get you up to speed quickly and comfortably."
+				"Description": "Comprendiamo l'importanza di un processo di onboarding fluido ed efficiente. Ecco perché abbiamo sviluppato un programma di onboarding digitale completo, progettato per aiutarti a integrarti rapidamente e senza difficoltà."
 			},
 			"Section 3": {
 				"Title": "Ci pensiamo noi",
@@ -463,7 +463,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Vivi un'esperienza bancaria senza soluzione di continuità con il Conto con portafoglio digitale di MyMonty Europe</span>Scopri una nuova frontiera della comodità bancaria grazie all'intuitiva app mobile di MyMonty Europe. La nostra piattaforma offre una suite completa di servizi bancari, dalla gestione del conto al trasferimento di fondi.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Vivi un'esperienza bancaria senza soluzione di continuità con il Conto con portafoglio digitale di MyMonty Europe</h3></div><p>Scopri una nuova frontiera della comodità bancaria grazie all'intuitiva app mobile di MyMonty Europe. La nostra piattaforma offre una suite completa di servizi bancari, dalla gestione del conto al trasferimento di fondi, tutti accessibili in mobilità. , all accessible on-the-go.<br />Approfitta della flessibilità del nostro conto con portafoglio a valuta singola, disponibile in EUR o GBP, ed effettua transazioni rapide e sicure con le nostre soluzioni di pagamento contactless tramite Google/Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite carta</h3></div><p>Ricarica facilmente il tuo portafoglio MyMonty salvando in tutta sicurezza le tue carte Mastercard o Visa. Ricarica il conto per accedere immediatamente ai tuoi fondi. È possibile configurare le tariffe del servizio in base al tuo piano tariffario personalizzato, in modo da garantirti flessibilità e convenienza in base alle tue esigenze.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite funzione P2P</h3></div><p>Richiedi facilmente denaro ad amici o parenti e ricarica il tuo saldo in modo istantaneo.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite bonifico SEPA</h3></div><p>Aggiungi comodamente denaro al tuo conto tramite un semplice quanto sicuro bonifico SEPA.</p></div>",
 							"Icon": "wallet-account",
-							"Image": "wallet-account"
+							"Image": "wallet-account-fr"
 						}
 					]
 				},
@@ -477,7 +477,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Gestione semplificata con le carte virtuali MyMonty</span>Il portafoglio Issuing di MyMonty ti permette di gestire le tue finanze in tutta semplicità emettendo carte virtuali direttamente dalla nostra interfaccia utente. Non devi far altro che passare alla sezione Carte e selezionare l'opzione per emettere una carta virtuale che sarà immediatamente disponibile per l'uso.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Gestione semplificata con le carte virtuali MyMonty</h3></div><p>Il portafoglio Issuing di MyMonty ti permette di gestire le tue finanze in tutta semplicità emettendo carte virtuali direttamente dalla nostra interfaccia utente. Non devi far altro che passare alla sezione Carte e selezionare l'opzione per emettere una carta virtuale che sarà immediatamente disponibile per l'uso.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Una volta emessa la carta, potrai</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Visualizzare i dettagli della carta facendo clic sul pulsante Vedi dettagli ed eseguendo l'autenticazione.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Bloccare la carta.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Distruggere la carta (solo dopo averla bloccata).</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Aggiungere la carta ad Apple Pay o Google Pay.</h4></ul></div><div class='flex flex-col gap-4'><p>Se una carta virtuale viene distrutta, puoi richiederne una nuova in qualsiasi momento. Per evitare che ti sfugga la data di scadenza, quando la tua carta sta per scadere riceverai una notifica push: per eseguire il rinnovo, ti basterà accedere alla carta e selezionando il pulsante Rinnova.</p><p>Approfitta della comodità e della sicurezza delle carte virtuali MyMonty, create per offrirti il pieno controllo sulle tue transazioni digitali.</p></div>",
 							"Icon": "virtual-cards",
-							"Image": "virtual-cards"
+							"Image": "virtual-cards-fr"
 						},
 						{
 							"Title": "Carte fisiche",
@@ -485,7 +485,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Emissione e gestione semplificata delle carte fisiche</span>Richiedere le carte fisiche con il portafoglio Issuing è semplicissimo. Accedi alla schermata Carta fisica nella sezione Carte, assicurati di avere effettuato la verifica KYC e di disporre di un saldo superiore a zero, quindi fai clic su “Ordina carta”.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Emissione e gestione semplificata delle carte fisiche</h3></div><p>Richiedere le carte fisiche con il portafoglio Issuing è semplicissimo. Accedi alla schermata Carta fisica nella sezione Carte, assicurati di avere effettuato la verifica KYC e di disporre di un saldo superiore a zero, quindi fai clic su “Ordina carta”. Inserisci i dati di spedizione e imposta il PIN in pochi e rapidi passaggi.</p><p>Ogni utente può possedere un'unica carta fisica e un'unica carta virtuale alla volta. Dopo aver dato la conferma, la carta verrà spedita. Al momento della ricezione, attivala tramite l'app.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Con una carta fisica attivata, puoi:</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Visualizzare i dettagli della carta e il PIN dopo l'autenticazione.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Bloccare o distruggere la carta.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Aggiungere la carta ad Apple Pay o Google Pay (se abilitata).</h4></ul></div><div class='flex flex-col gap-4'><p>Le carte fisiche distrutte possono essere riordinate, con detrazione immediata delle spese. Le carte vengono inviate tramite posta ordinaria RoyalMail senza tracciabilità. All'approssimarsi della scadenza, riceverai una notifica push e potrai riemettere la carta seguendo la stessa procedura per inviare un nuovo ordine. Si applicano costi di spedizione.</p></div>",
 							"Icon": "physical-cards",
-							"Image": "physical-cards"
+							"Image": "physical-cards-fr"
 						}
 					]
 				},
@@ -922,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Consiglio di amministrazione",
 				"Title": "Leadership team",
-				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
+				"Description": "Crediamo nelle nostre persone. Sostenendo continuamente e migliorando le loro competenze, fissiamo standard elevati e li spingiamo sempre più in alto. Ci dedichiamo alla formazione e all’empowerment del nostro team per ridefinire l’esperienza della banca digitale.",
 				"Image Alt": "Leadership team"
 			},
 			"Section 2": {
@@ -1067,32 +1067,32 @@
 		},
 		"Error": {
 			"Section 1": {
-				"Image Alt": "Error 404",
+				"Image Alt": "Errore 404",
 				"Title": "Impossibile trovarlo",
 				"Description": "Aggiorniamo regolarmente il nostro sito web, pertanto questa pagina potrebbe essere stata spostata, rimossa o l'URL non era corretto.<br /><br />Esplora le ultime novità di MyMonty in questo modo..."
 			},
 			"Seo": {
-				"Title": "Error {code}",
-				"Description": "An error occurred: {message}",
-				"Og Title": "Error {code} Occurred",
-				"Og Description": "An error occurred on our website: {message}",
-				"Twitter Title": "Error {code} Occurred",
-				"Twitter Description": "An error occurred on our website: {message}",
-				"Default Message": "An unknown error occurred"
+				"Title": "Errore {code}",
+				"Description": "Si è verificato un errore: {message}",
+				"Og Title": "Errore {code} Occurred",
+				"Og Description": "Si è verificato un errore sul nostro sito web: {message}",
+				"Twitter Title": "Errore {code} Occurred",
+				"Twitter Description": "Si è verificato un errore sul nostro sito web: {message}",
+				"Default Message": "Si è verificato un errore sconosciuto"
 			}
 		}
 	},
 	"Footer": {
 		"Newsletter": {
 			"Title": "Iscriviti alla nostra newsletter",
-			"Description": "Receive the latest news from us.",
-			"Acknowlegment1": "By subscribing to our newsletter, you acknowledge that you have read and accepted our",
-			"Acknowlegment2": "read and understood our"
+			"Description": "Ricevi le ultime novità da noi.",
+			"Acknowlegment1": "Iscrivendoti alla nostra newsletter, confermi di aver letto e accettato la nostra informativa",
+			"Acknowlegment2": "letto e compreso il nostro"
 		},
-		"Toll-Free Number": "Toll-Free Number",
-		"Email Us": "Email Us",
+		"Toll-Free Number": "Numero Verde",
+		"Email Us": "Contattaci via Email",
 		"Copyright 1": "Copyright ©",
-		"Copyright 2": "All Rights Reserved Monty Finance UK LTD",
-		"Paynetics Agreement": "“For programmes operating in the United Kingdom, the Payment Account and Mastercard cards are issued by Paynetics UK, Company number 1248133, (via Monty Finance UK Ltd, a Technical Provider of Paynetics UK). Paynetics UK is a wholly owned subsidiary of Paynetics AD with its registered address at 1st Floor, 18 Devonshire Row, London, England, EC2M 4RH. Paynetics UK is an electronic money institution authorised and regulated by the Financial Conduct Authority (firm reference number 942777) for the issuance of e-money and provision of payment services in the UK.”<br /><br />“For programmes operating in the European Union, the Payment account and Mastercard cards are issued by Paynetics AD (via Monty Finance UK Ltd, a Technical Provider of Paynetics AD) with company address 76A James Bourchier Blvd, 1407 Sofia, Bulgaria, company registration number 131574695 and VAT BG131574695, pursuant to license by Mastercard International Incorporated and Bulgarian National Bank.”"
+		"Copyright 2": "Tutti i Diritti Riservati Monty Finance UK LTD",
+		"Paynetics Agreement": "\"Per i programmi operativi nel Regno Unito, il Conto di Pagamento e le carte Mastercard sono emessi da Paynetics UK, numero di registrazione aziendale 1248133, (tramite Monty Finance UK Ltd, un Fornitore Tecnico di Paynetics UK). Paynetics UK è una società interamente controllata da Paynetics AD con sede legale al 1° piano, 18 Devonshire Row, Londra, Inghilterra, EC2M 4RH. Paynetics UK è un istituto di moneta elettronica autorizzato e regolamentato dalla Financial Conduct Authority (numero di riferimento 942777) per l'emissione di moneta elettronica e la fornitura di servizi di pagamento nel Regno Unito.\"<br /><br />\"Per i programmi operativi nell'Unione Europea, il Conto di Pagamento e le carte Mastercard sono emessi da Paynetics AD (tramite Monty Finance UK Ltd, un Fornitore Tecnico di Paynetics AD) con sede aziendale in 76A James Bourchier Blvd, 1407 Sofia, Bulgaria, numero di registrazione aziendale 131574695 e partita IVA BG131574695, in conformità alla licenza concessa da Mastercard International Incorporated e dalla Banca Nazionale Bulgara.\""
 	}
 }

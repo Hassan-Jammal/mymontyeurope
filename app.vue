@@ -12,7 +12,6 @@
 	</div>
 </template>
 
-
 <script setup>
 	import { useCountry } from '~/composables/useCountry';
 

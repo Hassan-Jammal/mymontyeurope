@@ -174,7 +174,7 @@
 			},
 			"Section 2": {
 				"Title": "Embarquez avec nous",
-				"Description": "We understand the importance of a smooth and efficient onboarding process. That’s why we’ve developed a comprehensive digital onboarding program designed to get you up to speed quickly and comfortably."
+				"Description": "Nous comprenons l'importance d'un processus d'intégration fluide et efficace. C'est pourquoi nous avons développé un programme d'intégration numérique complet, conçu pour vous permettre de vous familiariser rapidement et confortablement."
 			},
 			"Section 3": {
 				"Title": "Nous vous couvrons",
@@ -463,7 +463,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Bénéficiez d'une banque transparente avec le compte portefeuille numérique de MyMonty Europe</span>Découvrez une nouvelle ère de services bancaires pratiques avec l'application mobile conviviale de MyMonty Europe. Notre plateforme intuitive offre une gamme complète de services bancaires, de la gestion de compte aux transferts de fonds.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Bénéficiez d'une banque transparente avec le compte portefeuille numérique de MyMonty Europe</h3></div><p>Découvrez une nouvelle ère de services bancaires pratiques avec l'application mobile conviviale de MyMonty Europe. Notre plateforme intuitive offre une gamme complète de services bancaires, de la gestion de compte aux transferts de fonds, tous accessibles en déplacement.<br />Profitez de la flexibilité de notre compte portefeuille à devise unique, disponible en EUR ou en GBP, et effectuez des transactions rapides et sécurisées avec nos solutions de paiement sans contact via Google Pay</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par carte</h3></div><p>Rechargez facilement votre portefeuille MyMonty en sauvegardant en toute sécurité vos cartes Mastercard ou Visa. Profitez d'un accès immédiat à vos fonds, à chaque recharge. Les frais de ce service peuvent être configurés en fonction de votre plan tarifaire personnalisé, garantissant une flexibilité et une commodité adaptées à vos besoins.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par demande P2P</h3></div><p>Demandez facilement des fonds à vos amis ou à votre famille et rechargez instantanément votre solde en quelques clics.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par virement SEPA</h3></div><p>Ajoutez facilement des fonds sur votre compte via un virement bancaire SEPA sécurisé et simple.</p></div>",
 							"Icon": "wallet-account",
-							"Image": "wallet-account"
+							"Image": "wallet-account-fr"
 						}
 					]
 				},
@@ -477,7 +477,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Contrôle sans effort avec les cartes virtuelles MyMonty</span>Avec le portefeuille de type émetteur de MyMonty, vous pouvez gérer vos finances sans effort en émettant des cartes virtuelles directement depuis notre interface utilisateur. Accédez simplement à l'onglet Cartes et sélectionnez l'option permettant d'émettre une carte virtuelle, qui sera immédiatement disponible pour utilisation.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Contrôle sans effort avec les cartes virtuelles MyMonty</h3></div><p>Avec le portefeuille de type émetteur de MyMonty, vous pouvez gérer vos finances sans effort en émettant des cartes virtuelles directement depuis notre interface utilisateur. Accédez simplement à l'onglet Cartes et sélectionnez l'option permettant d'émettre une carte virtuelle, qui sera immédiatement disponible pour utilisation.</div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Une fois émise, vous pouvez</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Afficher les détails de la carte en cliquant sur le bouton Voir les détails et en vous authentifiant</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Geler la carte</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Détruire la carte (uniquement après l'avoir gelée).</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Ajouter la carte à Apple ou Google Pay</h4></ul></div><div class='flex flex-col gap-4'><p>Si une carte virtuelle est détruite, vous pouvez en demander une nouvelle à tout moment. Pour vous assurer de ne jamais manquer une date d'expiration, vous recevrez une notification push vous rappelant quand la validité de votre carte est sur le point d'expirer, vous permettant de la renouveler facilement en accédant à la carte et en cliquant sur le bouton Renouveler.<p>Adoptez la commodité et la sécurité des cartes virtuelles MyMonty, conçues pour vous donner un contrôle total sur vos transactions numériques.</div>",
 							"Icon": "virtual-cards",
-							"Image": "virtual-cards"
+							"Image": "virtual-cards-fr"
 						},
 						{
 							"Title": "Cartes physiques",
@@ -485,7 +485,7 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Émission et gestion aisées des cartes physiques</span>Pour le portefeuille de type émetteur, les cartes physiques peuvent être demandées facilement, comme les cartes virtuelles. Accédez à l'écran Carte physique dans l'onglet Cartes, assurez-vous que vous avez effectué une vérification KYC et que votre solde n'est pas nul, puis cliquez sur « Commander une carte ».",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Émission et gestion aisées des cartes physiques</h3></div><p>Pour le portefeuille de type émetteur, les cartes physiques peuvent être demandées facilement, comme les cartes virtuelles. Accédez à l'écran Carte physique dans l'onglet Cartes, assurez-vous que vous avez effectué une vérification KYC et que votre solde n'est pas nul, puis cliquez sur « Commander une carte ». Saisissez vos informations de livraison et définissez votre code PIN en quelques étapes rapides.</p><p>Les utilisateurs sont limités à une carte physique et une carte virtuelle à la fois. Une fois confirmée, votre carte sera en route. Activez-la dès réception via l'application.</div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Avec une carte physique activée, vous pouvez:</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Afficher les détails de la carte et le code PIN après authentification</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Geler ou détruire la carte</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Ajouter la carte à Apple ou Google Pay (si activée).</h4></ul></div><div class='flex flex-col gap-4'><p>Les cartes physiques détruites peuvent être commandées à nouveau, les frais étant déduits immédiatement. Les cartes sont envoyées via RoyalMail sans suivi. À l'approche de la date d'expiration, vous recevrez une notification push et pourrez réémettre la carte en suivant le même processus qu'une nouvelle commande. Des frais de livraison sont appliqués.</p></div>",
 							"Icon": "physical-cards",
-							"Image": "physical-cards"
+							"Image": "physical-cards-fr"
 						}
 					]
 				},
@@ -922,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Conseil d'administration",
 				"Title": "Leadership team",
-				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
+				"Description": "Nous croyons en notre équipe. En soutenant continuellement le développement de leurs compétences, nous plaçons la barre haut et ne cessons de l'élever. Nous nous engageons à les coacher et à les autonomiser pour redéfinir l'expérience de la banque numérique.",
 				"Image Alt": "Leadership team"
 			},
 			"Section 2": {
@@ -1072,27 +1072,27 @@
 				"Description": "Nous mettons régulièrement à jour notre site web, donc cette page a peut-être été déplacée, supprimée ou l'URL n'était pas tout à fait correcte. <br /><br />Découvrez les dernières nouveautés de MyMonty par ici..."
 			},
 			"Seo": {
-				"Title": "Error {code}",
-				"Description": "An error occurred: {message}",
-				"Og Title": "Error {code} Occurred",
-				"Og Description": "An error occurred on our website: {message}",
-				"Twitter Title": "Error {code} Occurred",
-				"Twitter Description": "An error occurred on our website: {message}",
-				"Default Message": "An unknown error occurred"
+				"Title": "Erreur {code}",
+				"Description": "Une erreur s'est produite: {message}",
+				"Og Title": "Erreur {code} s'est produite",
+				"Og Description": "Une erreur s'est produite sur notre site: {message}",
+				"Twitter Title": "Erreur {code} s'est produite",
+				"Twitter Description": "Une erreur s'est produite sur notre site: {message}",
+				"Default Message": "Une erreur inconnue s'est produite"
 			}
 		}
 	},
 	"Footer": {
 		"Newsletter": {
 			"Title": "Abonnez-vous à notre newsletter",
-			"Description": "Receive the latest news from us.",
-			"Acknowlegment1": "By subscribing to our newsletter, you acknowledge that you have read and accepted our",
-			"Acknowlegment2": "read and understood our"
+			"Description": "Recevez nos dernières actualités.",
+			"Acknowlegment1": "En vous abonnant à notre newsletter, vous reconnaissez avoir lu et accepté notre",
+			"Acknowlegment2": "lu et compris notre"
 		},
-		"Toll-Free Number": "Toll-Free Number",
-		"Email Us": "Email Us",
+		"Toll-Free Number": "Numéro sans frais",
+		"Email Us": "Nous contacter par e-mail",
 		"Copyright 1": "Droits d'auteur ©",
-		"Copyright 2": "All Rights Reserved Monty Finance UK LTD",
-		"Paynetics Agreement": "“For programmes operating in the United Kingdom, the Payment Account and Mastercard cards are issued by Paynetics UK, Company number 1248133, (via Monty Finance UK Ltd, a Technical Provider of Paynetics UK). Paynetics UK is a wholly owned subsidiary of Paynetics AD with its registered address at 1st Floor, 18 Devonshire Row, London, England, EC2M 4RH. Paynetics UK is an electronic money institution authorised and regulated by the Financial Conduct Authority (firm reference number 942777) for the issuance of e-money and provision of payment services in the UK.”<br /><br />“For programmes operating in the European Union, the Payment account and Mastercard cards are issued by Paynetics AD (via Monty Finance UK Ltd, a Technical Provider of Paynetics AD) with company address 76A James Bourchier Blvd, 1407 Sofia, Bulgaria, company registration number 131574695 and VAT BG131574695, pursuant to license by Mastercard International Incorporated and Bulgarian National Bank.”"
+		"Copyright 2": "Tous droits réservés Monty Finance UK LTD",
+		"Paynetics Agreement": "« Pour les programmes opérant au Royaume-Uni, le compte de paiement et les cartes Mastercard sont émis par Paynetics UK, société immatriculée sous le numéro 1248133 (via Monty Finance UK Ltd, un prestataire technique de Paynetics UK). Paynetics UK est une filiale à 100 % de Paynetics AD, dont l’adresse enregistrée est 1er étage, 18 Devonshire Row, Londres, Angleterre, EC2M 4RH. Paynetics UK est un établissement de monnaie électronique autorisé et réglementé par la Financial Conduct Authority (numéro de référence 942777) pour l’émission de monnaie électronique et la fourniture de services de paiement au Royaume-Uni. »<br /></br />« Pour les programmes opérant dans l’Union européenne, le compte de paiement et les cartes Mastercard sont émis par Paynetics AD (via Monty Finance UK Ltd, un prestataire technique de Paynetics AD), dont l’adresse est 76A James Bourchier Blvd, 1407 Sofia, Bulgarie, immatriculée sous le numéro 131574695 et TVA BG131574695, en vertu d’une licence délivrée par Mastercard International Incorporated et la Banque nationale de Bulgarie. »"
 	}
 }
