@@ -18,9 +18,10 @@
 	const { detectCountry } = useCountry();
 
 	onMounted(async () => {
-		const { data } = await useFetch('/api/geoip');
-		
-		if (data.value && data.value.continent_code !== 'EU') {
+		const response = await fetch('/api/geoip');
+		const data = await response.json();
+
+		if (data && data.continent_code !== 'EU') {
 			window.location.href = 'https://mymonty.com.lb';
 		}
 
