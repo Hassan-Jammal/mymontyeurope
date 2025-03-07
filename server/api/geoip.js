@@ -20,17 +20,6 @@ export default defineEventHandler(async (event) => {
         const lookup = await maxmind.open(geoDbPath);
         const geoData = lookup.get(testIp);
 
-        if (geoData && geoData.continent && geoData.continent.code !== 'EU') {
-            // Set CORS headers before redirecting
-            setResponseHeaders(event, {
-                'Access-Control-Allow-Origin': 'https://mymonty.com',
-                'Access-Control-Allow-Methods': 'GET,HEAD,PUT,PATCH,POST,DELETE',
-                'Access-Control-Allow-Credentials': 'true'
-            });
-            
-            return sendRedirect(event, 'https://mymonty.com.lb', 302);
-        }
-
         if (geoData && geoData.country) {
             return { 
                 country: geoData.country.iso_code,

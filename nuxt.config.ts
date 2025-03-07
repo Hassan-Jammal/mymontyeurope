@@ -20,6 +20,9 @@ export default defineNuxtConfig({
 		// exclude all URLs that start with /secret
 		// exclude: ['/team/**']
 	},
+	routeRules: {
+		'/api/**': { cors: true }
+	},
 	gtag: {
 		id: 'G-S79FRGY3FC'
 	},
