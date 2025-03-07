@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
 
     try {
         const lookup = await maxmind.open(geoDbPath);
-        const geoData = lookup.get(testIp);
+        const geoData = lookup.get(ip);
 
         if (geoData && geoData.country) {
             return { 
