@@ -22,6 +22,7 @@ export default defineEventHandler(async (event) => {
         const geoData = lookup.get(ip);
 
         if (geoData && geoData.country) {
+            console.log(geoData.country)
             return { country: geoData.country.iso_code };
         }
 

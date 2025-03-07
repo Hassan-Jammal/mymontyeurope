@@ -1077,36 +1077,34 @@
                     <h2 class="font-AeonikBlack text-lg md:text-xl xl:text-2xl 4xl:text-4xl uppercase mt-4">30. HOW YOU CAN CONTACT US</h2>
                     <ol>    
                         <li>You can contact our Customer Relations Centre using the contact details set out in the table below. We may record any conversations with the Customer Relations Centre for monitoring purposes and we may use them as evidence if you make a complaint. These recordings shall be destroyed in accordance with our normal procedures.
-                            <ol>    
-                                <figure>
-                                    <table>
-                                        <colgroup>
-                                            <col style="width: 50%;">
-                                            <col style="width: 50%;">
-                                        </colgroup>
-                                        <thead>
-                                            <tr>
-                                                <th>Method</th>
-                                                <th>Details</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Telephone (Monday - Friday: 8:00 am - 5:00 pm (EEST))</td>
-                                                <td>+44 808 238 7522</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Email</td>
-                                                <td>support@mymonty.com</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Writing at</td>
-                                                <td><u>Contact Us | MyMonty™</u></td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </figure>
-                            </ol>
+                            <figure>
+                                <table>
+                                    <colgroup>
+                                        <col style="width: 50%;">
+                                        <col style="width: 50%;">
+                                    </colgroup>
+                                    <thead>
+                                        <tr>
+                                            <th>Method</th>
+                                            <th>Details</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Telephone (Monday - Friday: 8:00 am - 5:00 pm (EEST))</td>
+                                            <td>+44 808 238 7522</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Email</td>
+                                            <td>support@mymonty.com</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Writing at</td>
+                                            <td><u>Contact Us | MyMonty™</u></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </figure>
                         </li>
                         <li>To report a lost, stolen or misappropriated Card or unauthorised access to your Platform or Account, please contact us via the Platform or via telephone to +44 808 238 7522 (available 24 hours a day)</li>
                     </ol>
