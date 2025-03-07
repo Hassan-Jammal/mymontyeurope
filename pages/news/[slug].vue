@@ -43,7 +43,7 @@
     const route = useRoute();
     const slug = route.params.slug;    
 
-    const {data: post, pending, error, refresh } = await useFetch('http://92.205.130.62:5001/wp-json/wp/v2/posts', {
+    const {data: post, pending, error, refresh } = await useFetch('https://backend-europe.mymonty.com/wp-json/wp/v2/posts', {
         query: { slug: slug, _embed: '1', acf_format: 'standard' },
     });
 

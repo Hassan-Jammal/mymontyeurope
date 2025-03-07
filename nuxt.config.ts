@@ -35,37 +35,37 @@ export default defineNuxtConfig({
 				{
 					rel: "icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5000/images/favicon-64x64.png",
+					href: "https://mymonty.com/images/favicon-64x64.png",
 				},
 				{
 					rel: "icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5000/images/favicon-32x32.png",
+					href: "https://mymonty.com/images/favicon-32x32.png",
 				},
 				{
 					rel: "icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5000/images/favicon-16x16.png",
+					href: "https://mymonty.com/images/favicon-16x16.png",
 				},
 				{
 					rel: "apple-touch-icon",
 					type: "image/png",
-					href: "http://92.205.130.62:5000/images/apple-touch-icon-180x180.png",
+					href: "https://mymonty.com/images/apple-touch-icon-180x180.png",
 				},
 				{
 					rel: "mask-icon",
-					href: "http://92.205.130.62:5000/images/icons/mask-icon.svg",
+					href: "https://mymonty.com/images/icons/mask-icon.svg",
 					color: "#32393C",
 				},
 				{
 					rel: "icon",
 					sizes: "192x192",
-					href: "http://92.205.130.62:5000/images/android-chrome-192x192.png",
+					href: "https://mymonty.com/images/android-chrome-192x192.png",
 				},
 				{
 					rel: "icon",
 					sizes: "512x512",
-					href: "http://92.205.130.62:5000/images/android-chrome-512x512.png",
+					href: "https://mymonty.com/images/android-chrome-512x512.png",
 				},
 			],
 			meta: [
@@ -90,7 +90,7 @@ export default defineNuxtConfig({
 						"name": "MyMonty",
 						"url": "https://www.mymonty.com",
 						"description": "With MyMonty, you get the most comprehensive global digital banking experience, anytime, anywhere.",
-						"logo": "http://92.205.130.62:5000/images/logo.svg", // png
+						"logo": "https://mymonty.com/images/logo.svg", // png
 						"sameAs": [
 							"https://www.facebook.com/mymonty",
 							"https://x.com/mymontyapp",

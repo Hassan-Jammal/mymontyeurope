@@ -441,7 +441,7 @@
         }
 
         try {
-            const API_ENDPOINT = 'http://92.205.130.62:5001/wp-json/contact-form-7/v1/contact-forms/5/feedback';
+            const API_ENDPOINT = 'https://backend-europe.mymonty.com/wp-json/contact-form-7/v1/contact-forms/5/feedback';
             const formData = new FormData();
 
             // Append top-level fields
