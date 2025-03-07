@@ -1,8 +1,9 @@
 export default defineNuxtRouteMiddleware(async (to, from) => {
-    const { data } = await useFetch('/api/geopip')
+    const response = await fetch('/api/geoip');
+    const data = await response.json();
     
     // Unwrap the data correctly
-    if (data.value && data.value.continent_code !== 'EU') {
+    if (data && data.continent_code !== 'EU') {
         return navigateTo('https://mymonty.com.lb', { 
             external: true,
             redirectCode: 302
