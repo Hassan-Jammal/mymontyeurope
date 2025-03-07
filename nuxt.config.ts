@@ -21,13 +21,7 @@ export default defineNuxtConfig({
 		// exclude: ['/team/**']
 	},
 	routeRules: {
-		'/api/**': { 
-		  cors: {
-			origin: 'https://mymonty.com.lb',
-			methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
-			credentials: true
-		  }
-		}
+		'/': { middleware: 'redirection' }
 	},
 	gtag: {
 		id: 'G-S79FRGY3FC'
