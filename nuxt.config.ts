@@ -221,7 +221,7 @@ export default defineNuxtConfig({
 			strictMessage: false,
 			// escapeHtml: true,
 		},
-		strategy: 'prefix',
+		strategy: 'prefix_and_default',
 		// // //  {{ $t('Header.' + locale.language) }} or {{ $t('Header.Features) }}
 	},
 	webpack: {
