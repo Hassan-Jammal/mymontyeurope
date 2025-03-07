@@ -2,7 +2,6 @@ import maxmind from 'maxmind';
 import path from 'path';
 
 export default defineEventHandler(async (event) => {
-    
     const testIp = '100.128.0.1'; // Replace with an IP you want to test (US)
     const testIp1 = '109.110.96.1'; // Replace with an IP you want to test (Lebanon)
     const testIp2 = '101.44.32.1'; // Replace with an IP you want to test (Turkey)
@@ -24,7 +23,7 @@ export default defineEventHandler(async (event) => {
         if (geoData && geoData.country) {
             return { 
                 country: geoData.country.iso_code,
-                continent_code: geoData.continent.code
+                continent_code: 'EU'
             };
         }
 
