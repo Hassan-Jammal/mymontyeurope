@@ -35,8 +35,6 @@ export const useCountry = () => { // (manualSelection)
             const response = await fetch('/api/geoip');
             const data = await response.json();
             
-            console.log(data.continent_code)
-
             if (data && data.country) {
                 const detectedCountry = countriesData.find(country => country.iso2 === data.country);
                 
