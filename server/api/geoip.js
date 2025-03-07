@@ -20,15 +20,17 @@ export default defineEventHandler(async (event) => {
     try {
         const lookup = await maxmind.open(geoDbPath);
         const geoData = lookup.get(ip);
-        console.log(geoData)
 
         if (geoData && geoData.country) {
-            return { country: geoData.country.iso_code };
+            return { 
+                country: geoData.country.iso_code,
+                continent_code: geoData.continent.code
+            };
         }
 
-        return { country: 'LB' }; // Default to Lebanon if detection fails
+        return { country: 'LB', continent_code: 'AS' }; // Default to Lebanon if detection fails
     } catch (error) {
         // console.error('Error accessing GeoLite2 database:', error);
-        return { country: 'LB' }; // Default to Lebanon in case of error
+        return { country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
     }
 });
