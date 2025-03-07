@@ -20,9 +20,6 @@ export default defineNuxtConfig({
 		// exclude all URLs that start with /secret
 		// exclude: ['/team/**']
 	},
-	routeRules: {
-		'/': { middleware: 'redirection' }
-	},
 	gtag: {
 		id: 'G-S79FRGY3FC'
 	},

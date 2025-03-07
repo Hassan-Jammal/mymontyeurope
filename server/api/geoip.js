@@ -20,11 +20,6 @@ export default defineEventHandler(async (event) => {
         const lookup = await maxmind.open(geoDbPath);
         const geoData = lookup.get(testIp);
 
-        // if (geoData && geoData.continent && geoData.continent.code !== 'EU') {
-        //     // Redirect non-EU users directly
-        //     return sendRedirect(event, 'https://mymonty.com.lb', 302);
-        // }
-        
         if (geoData && geoData.country) {
             return { 
                 country: geoData.country.iso_code,

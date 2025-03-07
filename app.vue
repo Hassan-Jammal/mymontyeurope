@@ -18,6 +18,12 @@
 	const { detectCountry } = useCountry();
 
 	onMounted(() => {
+		const { data } = await useFetch('/api/geoip');
+		
+		if (data.value && data.value.continent_code !== 'EU') {
+			window.location.href = 'https://mymonty.com.lb';
+		}
+
 		detectCountry();  // Detect country on app load
 	});
 </script>
