@@ -17,7 +17,7 @@
 
 	const { detectCountry } = useCountry();
 
-	onMounted(() => {
+	onMounted(async () => {
 		const { data } = await useFetch('/api/geoip');
 		
 		if (data.value && data.value.continent_code !== 'EU') {
