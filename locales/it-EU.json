@@ -260,7 +260,7 @@
 			"Banner": {
 				"Sub Title": "Perché MyMonty?",
 				"Title": "Scopri cosa ci contraddistingue",
-				"Description": "Noi di MyMonty™ ci impegniamo a rendere i servizi bancari di base un diritto universale. Grazie a noi potrai inviare, ricevere o richiedere denaro senza problemi, con tariffe trasparenti e senza commissioni nascoste.",
+				"Description": "In MyMonty, siamo impegnati a rendere i servizi di pagamento di base un diritto universale. Ti permettiamo di inviare, ricevere o richiedere denaro senza sforzo, con tariffe trasparenti e senza costi nascosti.",
 				"Image Alt": "Scopri cosa ci contraddistingue"
 			},
 			"Section 2": {
@@ -293,11 +293,11 @@
 				]
 			},
 			"Seo": {
-				"Title": "Banking Services and Features",
+				"Title": "Servizi e caratteristiche finanziarie.",
 				"Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Og Title": "Banking Services and Features",
+				"Og Title": "Servizi e caratteristiche finanziarie.",
 				"Og Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Twitter Title": "Banking Services and Features",
+				"Twitter Title": "Servizi e caratteristiche finanziarie.",
 				"Twitter Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support."
 			}
 		},
@@ -310,11 +310,11 @@
 			},
 			"Section 2": {
 				"Title": "Chi siamo",
-				"Description": "Lo scopo di MyMonty EEA/UK è di semplificare i processi finanziari. La nostra piattaforma digitale offre servizi finanziari innovativi e di facile utilizzo ai cittadini di tutta l'area SEE e del Regno Unito. Il nostro obiettivo è quello di rendere l'attività bancaria facile, sicura e accessibile a tutti, in particolare alle persone che non riescono ad accedere ai servizi bancari e ai giovani, in modo che possano usufruire di soluzioni finanziarie personalizzate.",
+				"Description": "In MyMonty EEA/Regno Unito, ci impegniamo a semplificare i processi finanziari. La nostra piattaforma digitale offre servizi finanziari innovativi e facili da usare a persone in tutta l'EEA e nel Regno Unito. Vogliamo rendere le finanze facili, sicure e accessibili a tutti, in particolare a chi non ha accesso ai servizi tradizionali, a chi ha un accesso limitato e ai giovani, affinché possano godere di soluzioni finanziarie personalizzate.",
 				"Cards": [
 					{
 						"Title": "Ecco il futuro",
-						"Description": "In un mondo in cui il digitale è la nuova norma, i servizi bancari e finanziari di base, in passato considerati un lusso, sono diventati un diritto di tutti.",
+						"Description": "Ciò che un tempo era un lusso, ora è un diritto per tutti, in un mondo dove il digitale è la nuova norma.",
 						"Image Alt": "Ecco il futuro"
 					}
 				]
@@ -350,11 +350,11 @@
 			},
 			"Seo": {
 				"Title": "Chi siamo - Our Mission and Values",
-				"Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Description": "L'esperienza globale più completa di pagamento digitale a portata di mano",
 				"Og Title": "Chi siamo - Our Mission and Values",
-				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Og Description": "L'esperienza globale più completa di pagamento digitale a portata di mano",
 				"Twitter Title": "Chi siamo - Our Mission and Values",
-				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
+				"Twitter Description": "L'esperienza globale più completa di pagamento digitale a portata di mano"
 			}
 		},
 		"Plans": {
@@ -460,8 +460,8 @@
 						{
 							"Title": "Conto con portafoglio digitale",
 							"Path": "accounts",
-							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Vivi un'esperienza bancaria senza soluzione di continuità con il Conto con portafoglio digitale di MyMonty Europe</span>Scopri una nuova frontiera della comodità bancaria grazie all'intuitiva app mobile di MyMonty Europe. La nostra piattaforma offre una suite completa di servizi bancari, dalla gestione del conto al trasferimento di fondi.",
-							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Vivi un'esperienza bancaria senza soluzione di continuità con il Conto con portafoglio digitale di MyMonty Europe</h3></div><p>Scopri una nuova frontiera della comodità bancaria grazie all'intuitiva app mobile di MyMonty Europe. La nostra piattaforma offre una suite completa di servizi bancari, dalla gestione del conto al trasferimento di fondi, tutti accessibili in mobilità. , all accessible on-the-go.<br />Approfitta della flessibilità del nostro conto con portafoglio a valuta singola, disponibile in EUR o GBP, ed effettua transazioni rapide e sicure con le nostre soluzioni di pagamento contactless tramite Google/Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite carta</h3></div><p>Ricarica facilmente il tuo portafoglio MyMonty salvando in tutta sicurezza le tue carte Mastercard o Visa. Ricarica il conto per accedere immediatamente ai tuoi fondi. È possibile configurare le tariffe del servizio in base al tuo piano tariffario personalizzato, in modo da garantirti flessibilità e convenienza in base alle tue esigenze.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite funzione P2P</h3></div><p>Richiedi facilmente denaro ad amici o parenti e ricarica il tuo saldo in modo istantaneo.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite bonifico SEPA</h3></div><p>Aggiungi comodamente denaro al tuo conto tramite un semplice quanto sicuro bonifico SEPA.</p></div>",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Vivi transazioni senza interruzioni con il Conto Wallet digitale di MyMonty Europa.</span>Scopri una nuova frontiera della comodità bancaria grazie all'intuitiva app mobile di MyMonty Europe. La nostra piattaforma offre una suite completa di servizi bancari, dalla gestione del conto al trasferimento di fondi.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Vivi transazioni senza interruzioni con il Conto Wallet digitale di MyMonty Europa.</h3></div><p>Scopri una nuova era di convenienza finanziaria con l'app mobile facile da usare di MyMonty Europa. La nostra piattaforma intuitiva offre una suite completa di servizi di pagamento, dalla gestione del conto ai trasferimenti di fondi, tutti accessibili in movimento.<br />Approfitta della flessibilità del nostro conto con portafoglio a valuta singola, disponibile in EUR o GBP, ed effettua transazioni rapide e sicure con le nostre soluzioni di pagamento contactless tramite Google/Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite carta</h3></div><p>Ricarica facilmente il tuo portafoglio MyMonty salvando in tutta sicurezza le tue carte Mastercard o Visa. Ricarica il conto per accedere immediatamente ai tuoi fondi. È possibile configurare le tariffe del servizio in base al tuo piano tariffario personalizzato, in modo da garantirti flessibilità e convenienza in base alle tue esigenze.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite funzione P2P</h3></div><p>Richiedi facilmente denaro ad amici o parenti e ricarica il tuo saldo in modo istantaneo.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Ricarica tramite bonifico SEPA</h3></div><p>Aggiungi comodamente denaro al tuo conto tramite un semplice quanto sicuro bonifico SEPA.</p></div>",
 							"Icon": "wallet-account",
 							"Image": "wallet-account-fr"
 						}
@@ -863,7 +863,7 @@
 					},
 					{
 						"Title": "Conformità e responsabilità legale",
-						"Description": "Rispettiamo rigorosamente tutte le leggi, le normative e gli standard del settore. Il rispetto delle norme non è negoziabile nell'ambito del nostro impegno a favore di pratiche bancarie responsabili.",
+						"Description": "Rispettiamo rigorosamente tutte le leggi, normative e standard del settore applicabili. La conformità è imprescindibile nel nostro impegno per pratiche finanziarie responsabili.",
 						"Image Alt": "Conformità e responsabilità legale"
 					},
 					{
@@ -922,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Consiglio di amministrazione",
 				"Title": "Leadership team",
-				"Description": "Crediamo nelle nostre persone. Sostenendo continuamente e migliorando le loro competenze, fissiamo standard elevati e li spingiamo sempre più in alto. Ci dedichiamo alla formazione e all’empowerment del nostro team per ridefinire l’esperienza della banca digitale.",
+				"Description": "Crediamo nelle nostre persone. Supportando e elevando continuamente le loro competenze, fissiamo un alto standard e continuiamo a spingerlo oltre. Siamo dedicati a formare e potenziare il nostro team per ridefinire l'esperienza dei pagamenti digitali.",
 				"Image Alt": "Leadership team"
 			},
 			"Section 2": {

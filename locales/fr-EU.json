@@ -260,7 +260,7 @@
 			"Banner": {
 				"Sub Title": "Pourquoi MyMonty?",
 				"Title": "Découvrez ce qui nous distingue",
-				"Description": "Chez MyMonty™, nous nous engageons à faire des services bancaires de base un droit universel. Nous vous offrons la chance d'envoyer, de recevoir ou de demander de l'argent avec des tarifs transparents et sans frais cachés.",
+				"Description": "Chez MyMonty, nous nous engageons à faire des services de paiement de base un droit universel. Nous vous permettons d'envoyer, de recevoir ou de demander de l'argent en toute simplicité, avec une tarification transparente et sans frais cachés.",
 				"Image Alt": "Découvrez ce qui nous distingue"
 			},
 			"Section 2": {
@@ -293,11 +293,11 @@
 				]
 			},
 			"Seo": {
-				"Title": "Banking Services and Features",
+				"Title": "Services et fonctionnalités financières",
 				"Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Og Title": "Banking Services and Features",
+				"Og Title": "Services et fonctionnalités financières",
 				"Og Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Twitter Title": "Banking Services and Features",
+				"Twitter Title": "Services et fonctionnalités financières",
 				"Twitter Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support."
 			}
 		},
@@ -310,11 +310,11 @@
 			},
 			"Section 2": {
 				"Title": "Qui nous sommes",
-				"Description": "Chez My Monty EEA/UK, notre objectif est de simplifier les processus financiers. Notre plateforme numérique offre des services financiers innovants et conviviaux, aux particuliers dans tout l'EEE et au Royaume-Uni. Notre but de rendre les opérations bancaires faciles, sécurisées et accessibles à tous, en particulier aux personnes non bancarisées, sous-bancarisées et aux jeunes, afin qu'elles puissent bénéficier de solutions financières personnalisées.",
+				"Description": "Chez MyMonty EEE/Royaume-Uni, nous simplifions les processus financiers. Notre plateforme numérique propose des services financiers innovants et conviviaux aux particuliers à travers l’EEE et le Royaume-Uni. Nous nous engageons à rendre la finance simple, sécurisée et accessible à tous, en particulier aux personnes non bancarisées, sous-bancarisées et aux jeunes, afin qu'ils puissent bénéficier de solutions financières personnalisées.",
 				"Cards": [
 					{
 						"Title": "Voici l'avenir",
-						"Description": "Autrefois considérés comme un luxe, les services bancaires et financiers sont devenus un droit pour tous, dans un monde où le numérique est la nouvelle norme.",
+						"Description": "Autrefois un luxe, les services financiers de base sont aujourd’hui un droit pour tous, dans un monde où le numérique est la norme.",
 						"Image Alt": "Voici l'avenir"
 					}
 				]
@@ -350,11 +350,11 @@
 			},
 			"Seo": {
 				"Title": "Qui nous sommes - Our Mission and Values",
-				"Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Description": " L'expérience de paiement numérique mondiale la plus complète au bout des doigts.",
 				"Og Title": "Qui nous sommes - Our Mission and Values",
-				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Og Description": " L'expérience de paiement numérique mondiale la plus complète au bout des doigts.",
 				"Twitter Title": "Qui nous sommes - Our Mission and Values",
-				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
+				"Twitter Description": " L'expérience de paiement numérique mondiale la plus complète au bout des doigts."
 			}
 		},
 		"Plans": {
@@ -460,8 +460,8 @@
 						{
 							"Title": "Compte portefeuille",
 							"Path": "accounts",
-							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Bénéficiez d'une banque transparente avec le compte portefeuille numérique de MyMonty Europe</span>Découvrez une nouvelle ère de services bancaires pratiques avec l'application mobile conviviale de MyMonty Europe. Notre plateforme intuitive offre une gamme complète de services bancaires, de la gestion de compte aux transferts de fonds.",
-							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Bénéficiez d'une banque transparente avec le compte portefeuille numérique de MyMonty Europe</h3></div><p>Découvrez une nouvelle ère de services bancaires pratiques avec l'application mobile conviviale de MyMonty Europe. Notre plateforme intuitive offre une gamme complète de services bancaires, de la gestion de compte aux transferts de fonds, tous accessibles en déplacement.<br />Profitez de la flexibilité de notre compte portefeuille à devise unique, disponible en EUR ou en GBP, et effectuez des transactions rapides et sécurisées avec nos solutions de paiement sans contact via Google Pay</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par carte</h3></div><p>Rechargez facilement votre portefeuille MyMonty en sauvegardant en toute sécurité vos cartes Mastercard ou Visa. Profitez d'un accès immédiat à vos fonds, à chaque recharge. Les frais de ce service peuvent être configurés en fonction de votre plan tarifaire personnalisé, garantissant une flexibilité et une commodité adaptées à vos besoins.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par demande P2P</h3></div><p>Demandez facilement des fonds à vos amis ou à votre famille et rechargez instantanément votre solde en quelques clics.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par virement SEPA</h3></div><p>Ajoutez facilement des fonds sur votre compte via un virement bancaire SEPA sécurisé et simple.</p></div>",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Profitez d’une expérience de transaction fluide avec le Compte Portefeuille numérique de MyMonty Europe.</span>Découvrez une nouvelle ère de commodité financière avec l'application mobile intuitive de MyMonty Europe. Notre plateforme conviviale propose une gamme complète de services de paiement, de la gestion de compte aux transferts de fonds.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Profitez d’une expérience de transaction fluide avec le Compte Portefeuille numérique de MyMonty Europe.</h3></div><p>Découvrez une nouvelle ère de commodité financière avec l'application mobile intuitive de MyMonty Europe. Notre plateforme conviviale propose une gamme complète de services de paiement, de la gestion de compte aux transferts de fonds, accessibles en toute mobilité.<br />Profitez de la flexibilité de notre compte portefeuille à devise unique, disponible en EUR ou en GBP, et effectuez des transactions rapides et sécurisées avec nos solutions de paiement sans contact via Google Pay</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par carte</h3></div><p>Rechargez facilement votre portefeuille MyMonty en sauvegardant en toute sécurité vos cartes Mastercard ou Visa. Profitez d'un accès immédiat à vos fonds, à chaque recharge. Les frais de ce service peuvent être configurés en fonction de votre plan tarifaire personnalisé, garantissant une flexibilité et une commodité adaptées à vos besoins.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par demande P2P</h3></div><p>Demandez facilement des fonds à vos amis ou à votre famille et rechargez instantanément votre solde en quelques clics.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recharge par virement SEPA</h3></div><p>Ajoutez facilement des fonds sur votre compte via un virement bancaire SEPA sécurisé et simple.</p></div>",
 							"Icon": "wallet-account",
 							"Image": "wallet-account-fr"
 						}
@@ -863,7 +863,7 @@
 					},
 					{
 						"Title": "Conformité et responsabilité juridique",
-						"Description": "Nous adhérons strictement à toutes les lois, réglementations et normes industrielles applicables. La conformité n'est pas négociable dans notre engagement envers des pratiques bancaires responsables.",
+						"Description": "Nous respectons strictement toutes les lois, réglementations et normes de l’industrie applicables. La conformité est une priorité absolue dans notre engagement envers des pratiques financières responsables.",
 						"Image Alt": "Conformité et responsabilité juridique"
 					},
 					{
@@ -922,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Conseil d'administration",
 				"Title": "Leadership team",
-				"Description": "Nous croyons en notre équipe. En soutenant continuellement le développement de leurs compétences, nous plaçons la barre haut et ne cessons de l'élever. Nous nous engageons à les coacher et à les autonomiser pour redéfinir l'expérience de la banque numérique.",
+				"Description": "Nous croyons en nos collaborateurs. En soutenant continuellement leur développement et en renforçant leurs compétences, nous plaçons la barre toujours plus haut. Nous sommes déterminés à coacher et à autonomiser notre équipe pour redéfinir l'expérience du paiement numérique.",
 				"Image Alt": "Leadership team"
 			},
 			"Section 2": {

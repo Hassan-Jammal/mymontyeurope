@@ -260,7 +260,7 @@
 			"Banner": {
 				"Sub Title": "Why MyMonty?",
 				"Title": "See what sets us apart",
-				"Description": "At MyMonty, we're committed to making basic banking services a universal right. We empower you to effortlessly send, receive, or request money with transparent pricing and no hidden fees.",
+				"Description": "At MyMonty, we're committed to making basic payment services a universal right. We empower you to effortlessly send, receive, or request money with transparent pricing and no hidden fees.",
 				"Image Alt": "See what sets us apart"
 			},
 			"Section 2": {
@@ -293,11 +293,11 @@
 				]
 			},
 			"Seo": {
-				"Title": "Banking Services and Features",
+				"Title": "Financial Services and Features",
 				"Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Og Title": "Banking Services and Features",
+				"Og Title": "Financial Services and Features",
 				"Og Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Twitter Title": "Banking Services and Features",
+				"Twitter Title": "Financial Services and Features",
 				"Twitter Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support."
 			}
 		},
@@ -310,11 +310,11 @@
 			},
 			"Section 2": {
 				"Title": "Who We Are",
-				"Description": "At MyMonty EEA/UK, we're all about simplifying financial processes. Our digital platform offers innovative, user-friendly financial services to individuals across the EEA and UK. We're all about making banking easy, secure, and accessible for everyone, especially the unbanked, underbanked, and youth, so they can enjoy personalized financial solutions.",
+				"Description": "At MyMonty EEA/UK, we're all about simplifying financial processes. Our digital platform offers innovative, user-friendly financial services to individuals across the EEA and UK. We're all about making finance easy, secure, and accessible for everyone, especially the unbanked, underbanked, and youth, so they can enjoy personalized financial solutions.",
 				"Cards": [
 					{
 						"Title": "This is the future",
-						"Description": "Once a luxury, basic banking and financial services have become a right for everyone, in a world where digital is the new norm.",
+						"Description": "Once a luxury, basic financial services have become a right for everyone, in a world where digital is the new norm.",
 						"Image Alt": "This Is The Future"
 					}
 				]
@@ -350,11 +350,11 @@
 			},
 			"Seo": {
 				"Title": "Who we are - Our Mission and Values",
-				"Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Description": "The most comprehensive global digital payment experience at your fingertips",
 				"Og Title": "Who we are - Our Mission and Values",
-				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Og Description": "The most comprehensive global digital payment experience at your fingertips",
 				"Twitter Title": "Who we are - Our Mission and Values",
-				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
+				"Twitter Description": "The most comprehensive global digital payment experience at your fingertips"
 			}
 		},
 		"Plans": {
@@ -460,8 +460,8 @@
 						{
 							"Title": "Wallet Account",
 							"Path": "wallet-accounts",
-							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Experience Seamless Banking with MyMonty Europe's Digital Wallet Account</span>Discover a new era of banking convenience with MyMonty Europe's user-friendly mobile app. Our intuitive platform offers a comprehensive suite of banking services, from account management and fund transfers",
-							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Experience seamless banking with MyMonty Europe's digital Wallet Account</h3></div><p>Discover a new era of banking convenience with MyMonty Europe's user-friendly mobile app. Our intuitive platform offers a comprehensive suite of banking services, from account management and fund transfers, all accessible on-the-go.<br />Enjoy the flexibility of our single-currency wallet account, available in EUR or GBP, and make quick, secure transactions with our contactless payment solutions through Google Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18/><h3>Top-up by card</h3></div><p>Easily top-up your MyMonty wallet by securely saving your Mastercard or Visa cards. Enjoy instant access to your funds with every top-up. Fees for this service can be configured based on your personalized pricing plan, ensuring flexibility and convenience tailored to your needs.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Top up by P2P request</h3></div><p>Easily request funds from friends or family and instantly top up your balance with just a few taps.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Top up by SEPA transfer</h3></div><p>Conveniently add funds to your account via a secure and straightforward SEPA bank transfer.</p></div>",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Experience seamless transacting with MyMonty Europe's digital Wallet Account</span>Discover a new era of financial convenience with MyMonty Europe's user-friendly mobile app. Our intuitive platform offers a comprehensive suite of payment services, from account management and fund transfers",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Experience seamless transacting with MyMonty Europe's digital Wallet Account</h3></div><p>Discover a new era of financial convenience with MyMonty Europe's user-friendly mobile app. Our intuitive platform offers a comprehensive suite of payment services, from account management and fund transfers, all accessible on-the-go.<br />Enjoy the flexibility of our single-currency wallet account, available in EUR or GBP, and make quick, secure transactions with our contactless payment solutions through Google Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18/><h3>Top-up by card</h3></div><p>Easily top-up your MyMonty wallet by securely saving your Mastercard or Visa cards. Enjoy instant access to your funds with every top-up. Fees for this service can be configured based on your personalized pricing plan, ensuring flexibility and convenience tailored to your needs.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Top up by P2P request</h3></div><p>Easily request funds from friends or family and instantly top up your balance with just a few taps.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Top up by SEPA transfer</h3></div><p>Conveniently add funds to your account via a secure and straightforward SEPA bank transfer.</p></div>",
 							"Icon": "wallet-account",
 							"Image": "wallet-account-en"
 						}
@@ -863,7 +863,7 @@
 					},
 					{
 						"Title": "Compliance & Legal Responsibility",
-						"Description": "We adhere strictly to all applicable laws, regulations, and industry standards. Compliance is non-negotiable in our commitment to responsible banking practices.",
+						"Description": "We adhere strictly to all applicable laws, regulations, and industry standards. Compliance is non-negotiable in our commitment to responsible financial practices.",
 						"Image Alt": "Compliance & Legal Responsibility"
 					},
 					{
@@ -922,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Board of Directors",
 				"Title": "Board of Directors",
-				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital banking experience.",
+				"Description": "We believe in our people. By continually supporting and elevating their skills, we set the bar high and keep pushing it higher. We're dedicated to coaching and empowering our team to redefine the digital payment experience.",
 				"Image Alt": "Board of Directors"
 			},
 			"Section 2": {

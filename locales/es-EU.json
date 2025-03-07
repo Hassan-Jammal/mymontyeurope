@@ -260,7 +260,7 @@
 			"Banner": {
 				"Sub Title": "¿Por qué MyMonty?",
 				"Title": "¿Qué nos diferencia?",
-				"Description": "En MyMonty™, creemos que los servicios bancarios básicos son un derecho universal. Te ofrecemos una forma sencilla y transparente de enviar, recibir o solicitar dinero, sin comisiones ocultas.",
+				"Description": "En MyMonty, estamos comprometidos a hacer que los servicios básicos de pago sean un derecho universal. Te damos el poder de enviar, recibir o solicitar dinero sin esfuerzo, con precios transparentes y sin tarifas ocultas.",
 				"Image Alt": "¿Qué nos diferencia?"
 			},
 			"Section 2": {
@@ -293,11 +293,11 @@
 				]
 			},
 			"Seo": {
-				"Title": "Banking Services and Features",
+				"Title": "Servicios y características financieras",
 				"Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Og Title": "Banking Services and Features",
+				"Og Title": "Servicios y características financieras",
 				"Og Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Twitter Title": "Banking Services and Features",
+				"Twitter Title": "Servicios y características financieras",
 				"Twitter Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support."
 			}
 		},
@@ -310,11 +310,11 @@
 			},
 			"Section 2": {
 				"Title": "Quiénes somos",
-				"Description": "El objetivo de MyMonty EEA/UK es simplificar los procesos financieros. Nuestra plataforma digital ofrece servicios financieros innovadores y fáciles de usar para personas de todo el Espacio Económico Europeo (EEE) y el Reino Unido. Nos esforzamos por hacer que la banca sea fácil, segura y accesible para todos, especialmente para aquellas personas que no tengan acceso a servicios bancarios, los subatendidos y los jóvenes, para que puedan disfrutar de soluciones financieras personalizadas.",
+				"Description": "En MyMonty EEA/Reino Unido, nos dedicamos a simplificar los procesos financieros. Nuestra plataforma digital ofrece servicios financieros innovadores y fáciles de usar a individuos en toda la EEA y el Reino Unido. Nos enfocamos en hacer que las finanzas sean fáciles, seguras y accesibles para todos, especialmente para los no bancarizados, sub-bancarizados y los jóvenes, para que puedan disfrutar de soluciones financieras personalizadas.",
 				"Cards": [
 					{
 						"Title": "Esto es el futuro",
-						"Description": "Los servicios bancarios y financieros básicos ya no son un lujo, sino una necesidad en el mundo digital actual.",
+						"Description": "Lo que antes era un lujo, ahora son un derecho para todos, en un mundo donde lo digital es la nueva norma.",
 						"Image Alt": "Esto es el futuro"
 					}
 				]
@@ -350,11 +350,11 @@
 			},
 			"Seo": {
 				"Title": "Quiénes somos - Our Mission and Values",
-				"Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Description": "La experiencia global más completa de pagos digitales al alcance de tu mano",
 				"Og Title": "Quiénes somos - Our Mission and Values",
-				"Og Description": "The most comprehensive global digital banking experience at your fingertips",
+				"Og Description": "La experiencia global más completa de pagos digitales al alcance de tu mano",
 				"Twitter Title": "Quiénes somos - Our Mission and Values",
-				"Twitter Description": "The most comprehensive global digital banking experience at your fingertips"
+				"Twitter Description": "La experiencia global más completa de pagos digitales al alcance de tu mano"
 			}
 		},
 		"Plans": {
@@ -372,18 +372,18 @@
 					"Layout": "full",
 					"Features": [
 						"IBAN EUR/GBP individual gratuito",
-						"Comisión de 0,20 EUR para pagos más rápidos",
+						"Comisión de 0,20 EUR para pagos más rápidos",
 						"Transferencias P2P gratuitas",
-						"2 EUR de comisión por sustitución de la tarjeta física",
+						"2 EUR de comisión por sustitución de la tarjeta física",
 						"Sin cuota mensual",
 						"Consulta de saldo y cambio de PIN en cajeros gratis",
 						"Mastercard virtual MyMonty gratuita",
-						"Comisión del 2 % en cambio de divisas + comisión mínima de 2 EUR",
-						"5 EUR por la impresión y envío de tarjetas físicas en Europa y el Reino Unido",
-						"Comisión del 1,5 % al recargar la tarjeta, recarga inmediata",
-						"1 EUR de comisión por inactividad si la cartera tiene fondos y no se ha realizado ninguna transacción en un periodo de 6 meses",
-						"0,15 EUR de comisión en transferencias SEPA",
-						"Comisión del 1,5 % en retiradas en euros en cajeros automáticos, con una comisión mínima de 1 EUR"
+						"Comisión del 2 % en cambio de divisas + comisión mínima de 2 EUR",
+						"5 EUR por la impresión y envío de tarjetas físicas en Europa y el Reino Unido",
+						"Comisión del 1,5 % al recargar la tarjeta, recarga inmediata",
+						"1 EUR de comisión por inactividad si la cartera tiene fondos y no se ha realizado ninguna transacción en un periodo de 6 meses",
+						"0,15 EUR de comisión en transferencias SEPA",
+						"Comisión del 1,5 % en retiradas en euros en cajeros automáticos, con una comisión mínima de 1 EUR"
 					],
 					"Button Text": "Elegir un plan"
 				},
@@ -460,8 +460,8 @@
 						{
 							"Title": "Cuenta de la cartera",
 							"Path": "wallet-account",
-							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Disfruta de una banca cómoda, con la cuenta de la cartera digital de MyMonty Europe.</span>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.",
-							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Disfruta de una banca cómoda, con la cuenta de la cartera digital de MyMonty Europe.</h3></div><p>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.<br />Disfruta de la flexibilidad de nuestra cuenta de la cartera en una única moneda, disponible en EUR o GBP, y haz transferencias rápidas y seguras con nuestras soluciones de pago sin contacto a través de Google Pay o Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con tarjeta</h3></div><p>Recarga fácilmente tu cartera MyMonty guardando tus tarjetas Mastercard o Visa de forma segura. Disfruta de acceso inmediato a tus fondos con cada recarga. Las tarifas de este servicio pueden configurarse en función de tu plan de precios personalizado, lo que garantiza una flexibilidad y comodidad adaptadas a tus necesidades.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con solicitud P2P</h3></div><p>Solicita dinero fácilmente a amigos o familiares y recarga tu saldo al instante con tan solo unos toques.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga mediante transferencia SEPA</h3></div><p>Añade fondos a tu cuenta de forma segura y práctica con una transferencia bancaria SEPA.</p></div>",
+							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Experimenta transacciones sin interrupciones con la Cuenta de Billetera digital de MyMonty Europa.</span>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.",
+							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Experimenta transacciones sin interrupciones con la Cuenta de Billetera digital de MyMonty Europa.</h3></div><p>Descubre una nueva era de conveniencia financiera con la aplicación móvil fácil de usar de MyMonty Europa. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios de pago, desde la gestión de cuentas hasta transferencias de fondos, todo accesible desde cualquier lugar.<br />Disfruta de la flexibilidad de nuestra cuenta de la cartera en una única moneda, disponible en EUR o GBP, y haz transferencias rápidas y seguras con nuestras soluciones de pago sin contacto a través de Google Pay o Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con tarjeta</h3></div><p>Recarga fácilmente tu cartera MyMonty guardando tus tarjetas Mastercard o Visa de forma segura. Disfruta de acceso inmediato a tus fondos con cada recarga. Las tarifas de este servicio pueden configurarse en función de tu plan de precios personalizado, lo que garantiza una flexibilidad y comodidad adaptadas a tus necesidades.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con solicitud P2P</h3></div><p>Solicita dinero fácilmente a amigos o familiares y recarga tu saldo al instante con tan solo unos toques.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga mediante transferencia SEPA</h3></div><p>Añade fondos a tu cuenta de forma segura y práctica con una transferencia bancaria SEPA.</p></div>",
 							"Icon": "wallet-account",
 							"Image": "wallet-account-es"
 						}
@@ -863,7 +863,7 @@
 					},
 					{
 						"Title": "Cumplimiento normativo y responsabilidad legal",
-						"Description": "Cumplimos estrictamente con todas las leyes, regulaciones y estándares del sector aplicables. El cumplimiento normativo es innegociable en nuestro compromiso con la aplicación de prácticas bancarias responsables.",
+						"Description": "Cumplimos estrictamente con todas las leyes, regulaciones y normas del sector aplicables. El cumplimiento es innegociable en nuestro compromiso con prácticas financieras responsables.",
 						"Image Alt": "Cumplimiento normativo y responsabilidad legal"
 					},
 					{
@@ -922,7 +922,7 @@
 			"Banner": {
 				"Sub Title": "Consejo de administración",
 				"Title": "Leadership team",
-				"Description": "Confiamos en nuestro equipo. Al apoyar constantemente el desarrollo de sus habilidades, establecemos estándares altos y nos esforzamos por superarlos. Nos comprometemos a guiarlos y empoderarlos para transformar la experiencia de la banca digital.",
+				"Description": "Creemos en nuestra gente. Al apoyar y elevar continuamente sus habilidades, marcamos un estándar alto y seguimos elevándolo. Estamos dedicados a entrenar y empoderar a nuestro equipo para redefinir la experiencia de pagos digitales.",
 				"Image Alt": "Leadership team"
 			},
 			"Section 2": {
