@@ -248,12 +248,12 @@
 				]
 			},
 			"Seo": {
-				"Title": "Innovative Financial Solutions",
-				"Description": "Send, receive & request money anytime anywhere. Transfer money globally. Easily manage your money. Biometric protection",
-				"Og Title": "Innovative Financial Solutions",
-				"Og Description": "Send, receive & request money anytime anywhere. Transfer money globally. Easily manage your money. Biometric protection",
-				"Twitter Title": "Innovative Financial Solutions",
-				"Twitter Description": "Send, receive & request money anytime anywhere. Transfer money globally. Easily manage your money. Biometric protection"
+				"Title": "Soluzioni Finanziarie Innovative",
+				"Description": "Invia, ricevi e richiedi denaro in qualsiasi momento e ovunque. Trasferisci denaro a livello globale. Gestisci facilmente il tuo denaro. Protezione biometrica.",
+				"Og Title": "Soluzioni Finanziarie Innovative",
+				"Og Description": "Invia, ricevi e richiedi denaro in qualsiasi momento e ovunque. Trasferisci denaro a livello globale. Gestisci facilmente il tuo denaro. Protezione biometrica.",
+				"Twitter Title": "Soluzioni Finanziarie Innovative",
+				"Twitter Description": "Invia, ricevi e richiedi denaro in qualsiasi momento e ovunque. Trasferisci denaro a livello globale. Gestisci facilmente il tuo denaro. Protezione biometrica."
 			}
 		},
 		"Why MyMonty": {
@@ -293,12 +293,12 @@
 				]
 			},
 			"Seo": {
-				"Title": "Servizi e caratteristiche finanziarie.",
-				"Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Og Title": "Servizi e caratteristiche finanziarie.",
-				"Og Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support.",
-				"Twitter Title": "Servizi e caratteristiche finanziarie.",
-				"Twitter Description": "Manage your accounts and recurring payments with high-end security (biometric protection). Enjoy our friendly support."
+				"Title": "Servizi e Vantaggi Finanziari",
+				"Description": "Gestisci i tuoi conti e pagamenti ricorrenti con sicurezza avanzata (protezione biometrica). Goditi il nostro supporto amichevole.",
+				"Og Title": "Servizi e Vantaggi Finanziari",
+				"Og Description": "Gestisci i tuoi conti e pagamenti ricorrenti con sicurezza avanzata (protezione biometrica). Goditi il nostro supporto amichevole.",
+				"Twitter Title": "Servizi e Vantaggi Finanziari",
+				"Twitter Description": "Gestisci i tuoi conti e pagamenti ricorrenti con sicurezza avanzata (protezione biometrica). Goditi il nostro supporto amichevole."
 			}
 		},
 		"Who We Are": {
@@ -349,12 +349,12 @@
 				]
 			},
 			"Seo": {
-				"Title": "Chi siamo - Our Mission and Values",
-				"Description": "L'esperienza globale più completa di pagamento digitale a portata di mano",
-				"Og Title": "Chi siamo - Our Mission and Values",
-				"Og Description": "L'esperienza globale più completa di pagamento digitale a portata di mano",
-				"Twitter Title": "Chi siamo - Our Mission and Values",
-				"Twitter Description": "L'esperienza globale più completa di pagamento digitale a portata di mano"
+				"Title": "Chi siamo - La Nostra Missione e i Nostri Valori",
+				"Description": "L'esperienza di pagamento digitale globale più completa a portata di mano.",
+				"Og Title": "Chi siamo - La Nostra Missione e i Nostri Valori",
+				"Og Description": "L'esperienza di pagamento digitale globale più completa a portata di mano.",
+				"Twitter Title": "Chi siamo - La Nostra Missione e i Nostri Valori",
+				"Twitter Description": "L'esperienza di pagamento digitale globale più completa a portata di mano."
 			}
 		},
 		"Plans": {
@@ -417,12 +417,12 @@
 				}
 			],
 			"Seo": {
-				"Title": "Piani - Compare and Choose",
-				"Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security",
-				"Og Title": "Piani - Compare and Choose",
-				"Og Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security",
-				"Twitter Title": "Piani - Compare and Choose",
-				"Twitter Description": "Dedicated individual Euro IBAN, MyMonty virtual debit card, MyMonty contactless physical card, enhanced data security"
+				"Title": "Piani - Confronta e Scegli",
+				"Description": "IBAN Euro dedicato individuale, carta di debito virtuale MyMonty, carta fisica contactless MyMonty, sicurezza avanzata dei dati.",
+				"Og Title": "Piani - Confronta e Scegli",
+				"Og Description": "IBAN Euro dedicato individuale, carta di debito virtuale MyMonty, carta fisica contactless MyMonty, sicurezza avanzata dei dati.",
+				"Twitter Title": "Piani - Confronta e Scegli",
+				"Twitter Description": "IBAN Euro dedicato individuale, carta di debito virtuale MyMonty, carta fisica contactless MyMonty, sicurezza avanzata dei dati."
 			}
 		},
 		"News": {
@@ -433,12 +433,12 @@
 				"Image Alt": "What is happening at mCosa succede da MyMonty"
 			},
 			"Seo": {
-				"Title": "Latest News and Trends",
-				"Description": "Stay updated with the latest news from My Monty by discovering our innovations and industry insights. Read our news updates today!",
-				"Og Title": "Latest News and Trends",
-				"Og Description": "Stay updated with the latest news from My Monty by discovering our innovations and industry insights. Read our news updates today!",
-				"Twitter Title": "Latest News and Trends",
-				"Twitter Description": "Stay updated with the latest news from My Monty by discovering our innovations and industry insights. Read our news updates today!"
+				"Title": "Ultime Notizie e Tendenze",
+				"Description": "Rimani aggiornato sulle ultime novità di MyMonty scoprendo le nostre innovazioni e approfondimenti di settore. Leggi i nostri aggiornamenti oggi stesso!",
+				"Og Title": "Ultime Notizie e Tendenze",
+				"Og Description": "Rimani aggiornato sulle ultime novità di MyMonty scoprendo le nostre innovazioni e approfondimenti di settore. Leggi i nostri aggiornamenti oggi stesso!",
+				"Twitter Title": "Ultime Notizie e Tendenze",
+				"Twitter Description": "Rimani aggiornato sulle ultime novità di MyMonty scoprendo le nostre innovazioni e approfondimenti di settore. Leggi i nostri aggiornamenti oggi stesso!"
 			}
 		},
 		"Features": {
@@ -543,12 +543,12 @@
 				}
 			],
 			"Seo": {
-				"Title": "Funzioni",
-				"Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
-				"Og Title": "Funzioni",
-				"Og Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd.",
-				"Twitter Title": "Funzioni",
-				"Twitter Description": "Read more about MyMonty's virtual cards to manage your finances effortlessly. Enjoy our outstanding features and stand out from the crowd."
+				"Title": "Caratteristiche",
+				"Description": "Scopri di più sulle carte virtuali MyMonty per gestire le tue finanze senza sforzo. Approfitta delle nostre funzionalità straordinarie e distinguiti dalla massa.",
+				"Og Title": "Caratteristiche",
+				"Og Description": "Scopri di più sulle carte virtuali MyMonty per gestire le tue finanze senza sforzo. Approfitta delle nostre funzionalità straordinarie e distinguiti dalla massa.",
+				"Twitter Title": "Caratteristiche",
+				"Twitter Description": "Scopri di più sulle carte virtuali MyMonty per gestire le tue finanze senza sforzo. Approfitta delle nostre funzionalità straordinarie e distinguiti dalla massa."
 			}
 		},
 		"Frequently Asked Questions": {
@@ -790,12 +790,12 @@
 				]
 			},
 			"Seo": {
-				"Title": "Frequently Asked Questions",
-				"Description": "Discover all the frequently asked questions asked about people about MyMonty regarding different topics. Visit our website to learn more.",
-				"Og Title": "Frequently Asked Questions",
-				"Og Description": "Discover all the frequently asked questions asked about people about MyMonty regarding different topics. Visit our website to learn more.",
-				"Twitter Title": "Frequently Asked Questions",
-				"Twitter Description": "Discover all the frequently asked questions asked about people about MyMonty regarding different topics. Visit our website to learn more."
+				"Title": "Domande Frequenti",
+				"Description": "Scopri tutte le domande più frequenti su MyMonty riguardanti vari argomenti. Visita il nostro sito web per saperne di più.",
+				"Og Title": "Domande Frequenti",
+				"Og Description": "Scopri tutte le domande più frequenti su MyMonty riguardanti vari argomenti. Visita il nostro sito web per saperne di più.",
+				"Twitter Title": "Domande Frequenti",
+				"Twitter Description": "Scopri tutte le domande più frequenti su MyMonty riguardanti vari argomenti. Visita il nostro sito web per saperne di più."
 			}
 		},
 		"Contact Us": {
@@ -814,12 +814,12 @@
 				"Description 2": "Hai un reclamo o bisogno di assistenza?<br /> Contattaci <a href='mailto:support&#64;mymonty.com'>qui</a>"
 			},
 			"Seo": {
-				"Title": "Contattaci if you have any questions",
-				"Description": "Our team is always ready to assist you or answer your inquiries.",
-				"Og Title": "Contattaci if you have any questions",
-				"Og Description": "Our team is always ready to assist you or answer your inquiries.",
-				"Twitter Title": "Contattaci if you have any questions",
-				"Twitter Description": "Our team is always ready to assist you or answer your inquiries."
+				"Title": "Contattaci se hai domande",
+				"Description": "Il nostro team è sempre pronto ad assisterti o a rispondere alle tue domande.",
+				"Og Title": "Contattaci se hai domande",
+				"Og Description": "Il nostro team è sempre pronto ad assisterti o a rispondere alle tue domande.",
+				"Twitter Title": "Contattaci se hai domande",
+				"Twitter Description": "Il nostro team è sempre pronto ad assisterti o a rispondere alle tue domande."
 			}
 		},
 		"Code Of Conduct": {
@@ -910,12 +910,12 @@
 				"Title": "Compila questo modulo per contattarci"
 			},
 			"Seo": {
-				"Title": "Join our dream team - Apply today",
-				"Description": "Explore MyMonty current vacancies on LinkedIn and apply today for a chance to join our dream team and take your career to the next level.",
-				"Og Title": "Join our dream team - Apply today",
-				"Og Description": "Explore MyMonty current vacancies on LinkedIn and apply today for a chance to join our dream team and take your career to the next level.",
-				"Twitter Title": "Join our dream team - Apply today",
-				"Twitter Description": "Explore MyMonty current vacancies on LinkedIn and apply today for a chance to join our dream team and take your career to the next level."
+				"Title": "Unisciti al nostro team dei sogni - Candidati oggi",
+				"Description": "Esplora le attuali offerte di lavoro di MyMonty su LinkedIn e candidati oggi per avere l'opportunità di entrare nel nostro team dei sogni e far avanzare la tua carriera.",
+				"Og Title": "Unisciti al nostro team dei sogni - Candidati oggi",
+				"Og Description": "Esplora le attuali offerte di lavoro di MyMonty su LinkedIn e candidati oggi per avere l'opportunità di entrare nel nostro team dei sogni e far avanzare la tua carriera.",
+				"Twitter Title": "Unisciti al nostro team dei sogni - Candidati oggi",
+				"Twitter Description": "Esplora le attuali offerte di lavoro di MyMonty su LinkedIn e candidati oggi per avere l'opportunità di entrare nel nostro team dei sogni e far avanzare la tua carriera."
 			}
 		},
 		"Board Of Directors": {
@@ -961,12 +961,12 @@
 				]
 			},
 			"Seo": {
-				"Title": "Meet our board of directors and Leadership Team",
-				"Description": "Meet our leadership team and board of directors driving MyMonty towards fintech innovation and get to know the minds behind the revolution.",
-				"Og Title": "Meet our board of directors and Leadership Team",
-				"Og Description": "Meet our leadership team and board of directors driving MyMonty towards fintech innovation and get to know the minds behind the revolution.",
-				"Twitter Title": "Meet our board of directors and Leadership Team",
-				"Twitter Description": "Meet our leadership team and board of directors driving MyMonty towards fintech innovation and get to know the minds behind the revolution."
+				"Title": "Incontra il nostro consiglio di amministrazione",
+				"Description": "Conosci il nostro team di leadership e il consiglio di amministrazione che guidano MyMonty verso l'innovazione fintech, e scopri le menti dietro questa rivoluzione.",
+				"Og Title": "Incontra il nostro consiglio di amministrazione",
+				"Og Description": "Conosci il nostro team di leadership e il consiglio di amministrazione che guidano MyMonty verso l'innovazione fintech, e scopri le menti dietro questa rivoluzione.",
+				"Twitter Title": "Incontra il nostro consiglio di amministrazione",
+				"Twitter Description": "Conosci il nostro team di leadership e il consiglio di amministrazione che guidano MyMonty verso l'innovazione fintech, e scopri le menti dietro questa rivoluzione."
 			}
 		},
 		"Blogs": {
@@ -977,12 +977,12 @@
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Blogs - Latest updates and offerings",
-				"Description": "Explore MyMonty's blog for the latest insights and trends in fintech. Stay informed and inspired by our expert articles. Read our blogs now!",
-				"Og Title": "Blogs - Latest updates and offerings",
-				"Og Description": "Explore MyMonty's blog for the latest insights and trends in fintech. Stay informed and inspired by our expert articles. Read our blogs now!",
-				"Twitter Title": "Blogs - Latest updates and offerings",
-				"Twitter Description": "Explore MyMonty's blog for the latest insights and trends in fintech. Stay informed and inspired by our expert articles. Read our blogs now!"
+				"Title": "Blog - Ultimi aggiornamenti e offerte",
+				"Description": "Esplora il blog di MyMonty per scoprire le ultime intuizioni e tendenze nel settore fintech. Rimani informato e ispirato dai nostri articoli di esperti. Leggi i nostri blog ora!",
+				"Og Title": "Blog - Ultimi aggiornamenti e offerte",
+				"Og Description": "Esplora il blog di MyMonty per scoprire le ultime intuizioni e tendenze nel settore fintech. Rimani informato e ispirato dai nostri articoli di esperti. Leggi i nostri blog ora!",
+				"Twitter Title": "Blog - Ultimi aggiornamenti e offerte",
+				"Twitter Description": "Esplora il blog di MyMonty per scoprire le ultime intuizioni e tendenze nel settore fintech. Rimani informato e ispirato dai nostri articoli di esperti. Leggi i nostri blog ora!"
 			}
 		},
 		"Terms And Conditions": {
@@ -993,12 +993,12 @@
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Terms and Conditions",
-				"Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!",
-				"Og Title": "Terms and Conditions",
-				"Og Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!",
-				"Twitter Title": "Terms and Conditions",
-				"Twitter Description": "Understand My Monty's terms and conditions for a clear view of our services. Stay informed about your rights and obligations. Read here!"
+				"Title": "Termini e Condizioni",
+				"Description": "Comprendi i termini e le condizioni di MyMonty per avere una visione chiara dei nostri servizi. Rimani informato sui tuoi diritti e obblighi. Leggi qui!",
+				"Og Title": "Termini e Condizioni",
+				"Og Description": "Comprendi i termini e le condizioni di MyMonty per avere una visione chiara dei nostri servizi. Rimani informato sui tuoi diritti e obblighi. Leggi qui!",
+				"Twitter Title": "Termini e Condizioni",
+				"Twitter Description": "Comprendi i termini e le condizioni di MyMonty per avere una visione chiara dei nostri servizi. Rimani informato sui tuoi diritti e obblighi. Leggi qui!"
 			}
 		},
 		"Privacy Policy": {
@@ -1009,12 +1009,12 @@
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Informativa sulla privacy & Data Protection",
-				"Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
-				"Og Title": "Informativa sulla privacy & Data Protection",
-				"Og Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information.",
-				"Twitter Title": "Informativa sulla privacy & Data Protection",
-				"Twitter Description": "Review My Monty's privacy policy and understand how we protect your data and maintain the confidentiality of your personal information."
+				"Title": "Politica sulla Privacy e Protezione dei Dati",
+				"Description": "Esamina la politica sulla privacy di MyMonty e comprendi come proteggiamo i tuoi dati e manteniamo la riservatezza delle tue informazioni personali.",
+				"Og Title": "Politica sulla Privacy e Protezione dei Dati",
+				"Og Description": "Esamina la politica sulla privacy di MyMonty e comprendi come proteggiamo i tuoi dati e manteniamo la riservatezza delle tue informazioni personali.",
+				"Twitter Title": "Politica sulla Privacy e Protezione dei Dati",
+				"Twitter Description": "Esamina la politica sulla privacy di MyMonty e comprendi come proteggiamo i tuoi dati e manteniamo la riservatezza delle tue informazioni personali."
 			}
 		},
 		"Cookie Policy": {
@@ -1025,12 +1025,12 @@
 				"Image Alt": "What is happening at mymonty blogs"
 			},
 			"Seo": {
-				"Title": "Informativa sui cookie - Types and Usage",
-				"Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
-				"Og Title": "Informativa sui cookie - Types and Usage",
-				"Og Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety.",
-				"Twitter Title": "Informativa sui cookie - Types and Usage",
-				"Twitter Description": "Learn more about My Monty's cookie policy, its types, and how we ensure your personal data privacy. Stay informed about your online safety."
+				"Title": "Politica sui Cookie - Tipi e Utilizzo",
+				"Description": "Scopri di più sulla politica sui cookie di MyMonty, i suoi tipi e come garantiamo la privacy dei tuoi dati personali. Rimani informato sulla tua sicurezza online.",
+				"Og Title": "Politica sui Cookie - Tipi e Utilizzo",
+				"Og Description": "Scopri di più sulla politica sui cookie di MyMonty, i suoi tipi e come garantiamo la privacy dei tuoi dati personali. Rimani informato sulla tua sicurezza online.",
+				"Twitter Title": "Politica sui Cookie - Tipi e Utilizzo",
+				"Twitter Description": "Scopri di più sulla politica sui cookie di MyMonty, i suoi tipi e come garantiamo la privacy dei tuoi dati personali. Rimani informato sulla tua sicurezza online."
 			}
 		},
 		"Paynetics Terms And Conditions": {
