@@ -61,9 +61,8 @@
                                 <label for="position" class="text-base">{{ t(`General.Labels.Position`) }}</label>
                                 <select v-model="form.position" name="position" id="position" class="w-full h-full min-h-14 py-3 px-3 bg-white border border-[#D4D4D4] rounded-lg outline-none">
                                     <option value="" disabled class="text-[#ECECEE]">{{ t(`General.Labels.Select`) }}</option>
-                                    <option value="1">1</option>
-                                    <option value="2">2</option>
-                                    <option value="3">2</option>
+                                    <option value="Product Manager">Product Manager</option>
+                                    <option value="Back-End Developer">Back-End Developer</option>
                                 </select>
                                 <div v-if="errors.position" class="text-xs text-red-500">{{ errors.position }}</div>
                             </div>
