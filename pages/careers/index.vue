@@ -150,7 +150,7 @@
                                         <p class="inline">{{ t(`General.Labels.Acknowlegment.Part 1`) }} <NuxtLinkLocale :to="'/privacy-policy'" class="text-primary">{{ t(`General.Links.Privacy Policy`) }}</NuxtLinkLocale>, <NuxtLinkLocale :to="'/cookie-policy'" class="text-primary">{{ t(`General.Links.Cookie Policy`) }}</NuxtLinkLocale>, {{ t(`General.And`) }} <NuxtLinkLocale :to="'/terms-and-conditions'" class="text-primary">{{ t(`General.Links.Terms & Conditions`) }}</NuxtLinkLocale> {{ t(`General.Labels.Acknowlegment.Part 2`) }}.</p>
                                     </div>
                                 </div>
-                                <button :disabled="!isAcknowledged" @click.prevent="handleSubmit" class="max-sm:w-full w-max py-2 px-14 text-base text-white bg-black hover:bg-primary rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out disabled:bg-[#D4D4D4]">{{ t(`General.Buttons.Submit`) }}</button>
+                                <button :disabled="!isAcknowledged || isSubmitting" @click.prevent="handleSubmit" class="max-sm:w-full w-max py-2 px-14 text-base text-white bg-black hover:bg-primary rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out disabled:bg-[#D4D4D4]">{{ t(`General.Buttons.Submit`) }}</button>
                                 <div v-if="submissionMessage" :class="{'text-red-500': isError, 'text-gray-500': !isError}">{{ submissionMessage }}</div>
                             </div>
                             <!-- <div class="lg:text-right">

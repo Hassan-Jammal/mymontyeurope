@@ -10,7 +10,7 @@
                         <div v-if="errors.newsletter_email" class="text-xs text-red-500">{{ errors.newsletter_email }}</div>
                         <div v-if="submissionMessage" class="text-xs text-gray-500">{{ submissionMessage }}</div>
                     </div>
-                    <button @click.prevent="handleSubmit" class="py-2 px-4 text-base text-white hover:text-black bg-primary hover:bg-white rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out">{{ t(`General.Buttons.Subscribe`) }}</button>
+                    <button :disabled="isSubmitting" @click.prevent="handleSubmit" class="py-2 px-4 text-base text-white hover:text-black bg-primary hover:bg-white rounded-[30px] select-none font-AeonikMedium transition-all duration-300 ease-in-out disabled:bg-[#D4D4D4] disabled:text-black">{{ t(`General.Buttons.Subscribe`) }}</button>
                     <p class="text-[#727272] text-sm">{{ t(`Footer.Newsletter.Acknowlegment1`) }} <NuxtLinkLocale :to="`/terms-and-conditions`" class="underline underline-offset-4 hover:text-primary transition-all duration-300 ease-in-out">{{ t(`General.Links.Terms & Conditions`) }}</NuxtLinkLocale>; {{ t(`Footer.Newsletter.Acknowlegment2`) }} <NuxtLinkLocale :to="`/privacy-policy`" class="underline underline-offset-4 hover:text-primary transition-all duration-300 ease-in-out">{{ t(`General.Links.Privacy Policy`) }}</NuxtLinkLocale>.</p>
                 </div>
                 <ul class="lg:col-span-2 grid sm:grid-cols-4 sm:justify-between gap-6 sm:gap-3">
