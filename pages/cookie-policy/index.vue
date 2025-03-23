@@ -153,7 +153,7 @@ const { t } = useLocale();
 
 useSeoMeta({
     title: t('Pages.Cookie Policy.Seo.Title'),
-    description: '',
+    description: t(`Pages.Cookie Policy.Seo.Description`),
 
     ogTitle: t('Pages.Cookie Policy.Seo.Og Title'),
     ogDescription: t('Pages.Cookie Policy.Seo.Og Description'),

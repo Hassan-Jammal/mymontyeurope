@@ -161,7 +161,7 @@ const { t } = useLocale();
 
 useSeoMeta({
     title: t('Pages.Terms And Conditions.Seo.Title'),
-    description: '',
+    description: t(`Pages.Terms And Conditions.Seo.Description`),
 
     ogTitle: t('Pages.Terms And Conditions.Seo.Og Title'),
     ogDescription: t('Pages.Terms And Conditions.Seo.Og Description'),

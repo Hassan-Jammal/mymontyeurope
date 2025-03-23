@@ -34,7 +34,7 @@
 
     useSeoMeta({
         title: t('Pages.Code Of Conduct.Seo.Title'),
-        description: '',
+        description: t(`Pages.Code Of Conduct.Seo.Description`),
 
         ogTitle: t('Pages.Code Of Conduct.Seo.Og Title'),
         ogDescription: t('Pages.Code Of Conduct.Seo.Og Description'),

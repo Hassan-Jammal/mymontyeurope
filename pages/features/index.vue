@@ -57,7 +57,7 @@
 
     useSeoMeta({
         title: t('Pages.Features.Seo.Title'),
-        description: '',
+        description: t(`Pages.Features.Seo.Description`),
 
         ogTitle: t('Pages.Features.Seo.Og Title'),
         ogDescription: t('Pages.Features.Seo.Og Description'),

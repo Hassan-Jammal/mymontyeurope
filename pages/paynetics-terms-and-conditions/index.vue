@@ -1154,7 +1154,7 @@ const { t } = useLocale();
 
 useSeoMeta({
     title: t('Pages.Paynetics Terms And Conditions.Seo.Title'),
-    description: '',
+    description: t(`Pages.Paynetics Terms And Conditions.Seo.Description`),
 
     ogTitle: t('Pages.Paynetics Terms And Conditions.Seo.Og Title'),
     ogDescription: t('Pages.Paynetics Terms And Conditions.Seo.Og Description'),

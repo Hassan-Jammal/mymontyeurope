@@ -47,11 +47,15 @@
     });
 
     useSeoMeta({
-        title: () => he.decode(post.value[0].title.rendered),
-        ogTitle: () => he.decode(post.value[0].title.rendered),
-        description: () => he.decode(post.value[0].excerpt.rendered).replace(/<[^>]*>/g, ''),
-        ogDescription: () => he.decode(post.value[0].excerpt.rendered).replace(/<[^>]*>/g, ''),
+        title: () => he.decode(post.value[0].acf.meta_title),
+        description: () => he.decode(post.value[0].acf.meta_description),
+        
+        ogTitle: () => he.decode(post.value[0].acf.meta_title),
+        ogDescription: () => he.decode(post.value[0].acf.meta_description),
         ogImage: () => he.decode(post.value[0]._embedded['wp:featuredmedia']['0'].source_url),
+       
+        twitterTitle:() => he.decode(post.value[0].acf.meta_title),
+        twitterDescription: () => he.decode(post.value[0].acf.meta_description),
         twitterCard: 'summary_large_image',
     })
 </script>

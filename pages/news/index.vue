@@ -54,7 +54,7 @@
 	
     useSeoMeta({
         title: t(`Pages.News.Seo.Title`),
-        description: '',
+        description: t(`Pages.News.Seo.Description`),
 
         ogTitle: t(`Pages.News.Seo.Og Title`),
         ogDescription: t(`Pages.News.Seo.Og Description`),

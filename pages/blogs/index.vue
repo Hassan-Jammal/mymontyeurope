@@ -53,7 +53,7 @@
 	
     useSeoMeta({
         title: t(`Pages.Blogs.Seo.Title`),
-        description: '',
+        description: t(`Pages.Blogs.Seo.Description`),
 
         ogTitle: t(`Pages.Blogs.Seo.Og Title`),
         ogDescription: t(`Pages.Blogs.Seo.Og Description`),

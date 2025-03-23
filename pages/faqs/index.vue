@@ -70,7 +70,7 @@
 
     useSeoMeta({
         title: t('Pages.Frequently Asked Questions.Seo.Title'),
-        description: '',
+        description: t(`Pages.Frequently Asked Questions.Seo.Description`),
 
         ogTitle: t('Pages.Frequently Asked Questions.Seo.Og Title'),
         ogDescription: t('Pages.Frequently Asked Questions.Seo.Og Description'),

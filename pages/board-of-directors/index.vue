@@ -63,7 +63,7 @@
 
     useSeoMeta({
         title: t(`Pages.Board Of Directors.Seo.Title`),
-        description: '',
+        description: t(`Pages.Board Of Directors.Seo.Description`),
 
         ogTitle: t(`Pages.Board Of Directors.Seo.Og Title`),
         ogDescription: t(`Pages.Board Of Directors.Seo.Og Description`),

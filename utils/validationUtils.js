@@ -23,7 +23,7 @@ export const isValidUrl = (url) => {
 };
 
 export const isSafe = (url) => {
-    return !/<(\/|\s)?(_ENV|_SERVER|_HOST|PATH|php|main|br|header|h[1-9]|body|style|script|html|head|p|b|strong|a|i|span|div)?(\/|\s)*>/.test(url);
+    return !/<(\/|\s)?(xmn|xml|xi|xml|doctype|_ENV|_SERVER|_HOST|PATH|php|main|br|header|h[1-9]|body|style|script|html|head|p|b|strong|a|i|span|div)?(\/|\s)*>/.test(url);
 };
 
 export const fileType = (file, allowedTypesMessage) => {

@@ -170,7 +170,7 @@
 
     useSeoMeta({
         title: t('Pages.Careers.Seo.Title'),
-        description: '',
+        description: t(`Pages.Careers.Seo.Description`),
 
         ogTitle: t('Pages.Careers.Seo.Og Title'),
         ogDescription: t('Pages.Careers.Seo.Og Description'),

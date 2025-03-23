@@ -140,7 +140,7 @@
 
     useSeoMeta({
         title: t('Pages.Contact Us.Seo.Title'),
-        description: '',
+        description: t(`Pages.Contact Us.Seo.Description`),
 
         ogTitle: t('Pages.Contact Us.Seo.Og Title'),
         ogDescription: t('Pages.Contact Us.Seo.Og Description'),
