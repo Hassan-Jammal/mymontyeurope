@@ -28,7 +28,7 @@
                     <img :src="post[0]._embedded['wp:featuredmedia']['0'].source_url" class="w-full rounded-xl overflow-hidden" :alt="post[0].title.rendered" :width="post[0]._embedded['wp:featuredmedia'][0].media_details.width" :height="post[0]._embedded['wp:featuredmedia'][0].media_details.height" />
                     <span>{{ new Date(post[0].date).toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }) }}</span>
                     <h1 class="font-AeonikBlack text-3xl md:text-4xl xl:text-5xl 4xl:text-6xl uppercase" v-html="post[0].title.rendered"></h1>
-                    <div class="text-xl" v-html="post[0].content.rendered"></div>
+                    <div class="description flex flex-col gap-4 text-xl" v-html="post[0].content.rendered"></div>
                 </div>
             </div>
         </section>
@@ -72,4 +72,7 @@
         100% 
             background-position: -200% 0
 				
+    :deep(.description)
+        h1, h2, h3, h4, h5, h6
+            @apply font-AeonikBold text-2xl
 </style>

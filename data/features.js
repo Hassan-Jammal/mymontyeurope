@@ -28,6 +28,8 @@ export const featuresData = async (t, locale) => {
             description: t(`Pages.Features.Section 3[${sectionIndex}].Cards[${cardIndex}].Description`),
             icon: t(`Pages.Features.Section 3[${sectionIndex}].Cards[${cardIndex}].Icon`),
             image: t(`Pages.Features.Section 3[${sectionIndex}].Cards[${cardIndex}].Image`),
+            seo_title: t(`Pages.Features.Section 3[${sectionIndex}].Cards[${cardIndex}].Seo.Title`),
+            seo_description: t(`Pages.Features.Section 3[${sectionIndex}].Cards[${cardIndex}].Seo.Description`),
         }))
     }));
 };

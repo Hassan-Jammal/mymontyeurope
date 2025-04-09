@@ -294,11 +294,11 @@
 			},
 			"Seo": {
 				"Title": "Servicios y Beneficios Financieros",
-				"Description": "Administra tus cuentas y pagos recurrentes con máxima seguridad (protección biométrica). Disfruta de nuestro soporte amigable.",
+				"Description": "Descubre por qué MyMonty es el futuro de la banca digital. Disfruta de servicios financieros seguros, rápidos y sin fronteras. ¡Únete a la revolución hoy!",
 				"Og Title": "Servicios y Beneficios Financieros",
-				"Og Description": "Administra tus cuentas y pagos recurrentes con máxima seguridad (protección biométrica). Disfruta de nuestro soporte amigable.",
+				"Og Description": "Descubre por qué MyMonty es el futuro de la banca digital. Disfruta de servicios financieros seguros, rápidos y sin fronteras. ¡Únete a la revolución hoy!",
 				"Twitter Title": "Servicios y Beneficios Financieros",
-				"Twitter Description": "Administra tus cuentas y pagos recurrentes con máxima seguridad (protección biométrica). Disfruta de nuestro soporte amigable."
+				"Twitter Description": "Descubre por qué MyMonty es el futuro de la banca digital. Disfruta de servicios financieros seguros, rápidos y sin fronteras. ¡Únete a la revolución hoy!"
 			}
 		},
 		"Who We Are": {
@@ -350,11 +350,11 @@
 			},
 			"Seo": {
 				"Title": "Quiénes somos - Nuestra Misión y Valores",
-				"Description": "La experiencia de pago digital global más completa al alcance de tu mano.",
+				"Description": "Conoce la misión de MyMonty para revolucionar la banca digital. Conoce a nuestro equipo y explora nuestra visión de un futuro financiero sin fronteras.",
 				"Og Title": "Quiénes somos - Nuestra Misión y Valores",
-				"Og Description": "La experiencia de pago digital global más completa al alcance de tu mano.",
+				"Og Description": "Conoce la misión de MyMonty para revolucionar la banca digital. Conoce a nuestro equipo y explora nuestra visión de un futuro financiero sin fronteras.",
 				"Twitter Title": "Quiénes somos - Nuestra Misión y Valores",
-				"Twitter Description": "La experiencia de pago digital global más completa al alcance de tu mano."
+				"Twitter Description": "Conoce la misión de MyMonty para revolucionar la banca digital. Conoce a nuestro equipo y explora nuestra visión de un futuro financiero sin fronteras."
 			}
 		},
 		"Plans": {
@@ -418,11 +418,11 @@
 			],
 			"Seo": {
 				"Title": "Planes - Compara y Elige",
-				"Description": "IBAN Euro individual dedicado, tarjeta de débito virtual MyMonty, tarjeta física sin contacto MyMonty, seguridad de datos mejorada.",
+				"Description": "Elige un plan de MyMonty que se adapte a tus necesidades financieras. Explora opciones flexibles de banca digital y comienza a administrar tu dinero de forma más inteligente hoy",
 				"Og Title": "Planes - Compara y Elige",
-				"Og Description": "IBAN Euro individual dedicado, tarjeta de débito virtual MyMonty, tarjeta física sin contacto MyMonty, seguridad de datos mejorada.",
+				"Og Description": "Elige un plan de MyMonty que se adapte a tus necesidades financieras. Explora opciones flexibles de banca digital y comienza a administrar tu dinero de forma más inteligente hoy",
 				"Twitter Title": "Planes - Compara y Elige",
-				"Twitter Description": "IBAN Euro individual dedicado, tarjeta de débito virtual MyMonty, tarjeta física sin contacto MyMonty, seguridad de datos mejorada."
+				"Twitter Description": "Elige un plan de MyMonty que se adapte a tus necesidades financieras. Explora opciones flexibles de banca digital y comienza a administrar tu dinero de forma más inteligente hoy"
 			}
 		},
 		"News": {
@@ -434,11 +434,11 @@
 			},
 			"Seo": {
 				"Title": "Últimas Noticias y Tendencias",
-				"Description": "Mantente al día con las últimas noticias de MyMonty descubriendo nuestras innovaciones y perspectivas del sector. ¡Lee nuestras actualizaciones hoy mismo!",
+				"Description": "Descubre las últimas noticias sobre MyMonty, tendencias fintech e innovaciones en banca digital. Mantente informado con nuestras actualizaciones e información del sector.",
 				"Og Title": "Últimas Noticias y Tendencias",
-				"Og Description": "Mantente al día con las últimas noticias de MyMonty descubriendo nuestras innovaciones y perspectivas del sector. ¡Lee nuestras actualizaciones hoy mismo!",
+				"Og Description": "Descubre las últimas noticias sobre MyMonty, tendencias fintech e innovaciones en banca digital. Mantente informado con nuestras actualizaciones e información del sector.",
 				"Twitter Title": "Últimas Noticias y Tendencias",
-				"Twitter Description": "Mantente al día con las últimas noticias de MyMonty descubriendo nuestras innovaciones y perspectivas del sector. ¡Lee nuestras actualizaciones hoy mismo!"
+				"Twitter Description": "Descubre las últimas noticias sobre MyMonty, tendencias fintech e innovaciones en banca digital. Mantente informado con nuestras actualizaciones e información del sector."
 			}
 		},
 		"Features": {
@@ -463,7 +463,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Experimenta transacciones sin interrupciones con la Cuenta de Billetera digital de MyMonty Europa.</span>Descubre una nueva era de comodidad bancaria con la sencilla aplicación móvil de MyMonty Europe. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios bancarios, desde la gestión de cuentas hasta las transferencias de fondos, todo accesible desde cualquier lugar.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Experimenta transacciones sin interrupciones con la Cuenta de Billetera digital de MyMonty Europa.</h3></div><p>Descubre una nueva era de conveniencia financiera con la aplicación móvil fácil de usar de MyMonty Europa. Nuestra plataforma intuitiva ofrece un conjunto completo de servicios de pago, desde la gestión de cuentas hasta transferencias de fondos, todo accesible desde cualquier lugar.<br />Disfruta de la flexibilidad de nuestra cuenta de la cartera en una única moneda, disponible en EUR o GBP, y haz transferencias rápidas y seguras con nuestras soluciones de pago sin contacto a través de Google Pay o Apple Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con tarjeta</h3></div><p>Recarga fácilmente tu cartera MyMonty guardando tus tarjetas Mastercard o Visa de forma segura. Disfruta de acceso inmediato a tus fondos con cada recarga. Las tarifas de este servicio pueden configurarse en función de tu plan de precios personalizado, lo que garantiza una flexibilidad y comodidad adaptadas a tus necesidades.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga con solicitud P2P</h3></div><p>Solicita dinero fácilmente a amigos o familiares y recarga tu saldo al instante con tan solo unos toques.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recarga mediante transferencia SEPA</h3></div><p>Añade fondos a tu cuenta de forma segura y práctica con una transferencia bancaria SEPA.</p></div>",
 							"Icon": "wallet-account",
-							"Image": "wallet-account-es"
+							"Image": "wallet-account-es",
+							"Seo": {
+								"Title": "",
+								"Description": "Administra tu dinero sin esfuerzo con una Cuenta Monedero MyMonty. Segura, digital y diseñada para transacciones sin complicaciones. ¡Ábrela hoy mismo!"
+							}
 						}
 					]
 				},
@@ -477,7 +481,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Gestión total con las tarjetas virtuales de MyMonty</span>Con la cartera de emisión de MyMonty, gestionar tus finanzas es más fácil que nunca. Emite tarjetas virtuales directamente desde nuestra interfaz de usuario. Solo tienes que acceder a la sección de Tarjetas y seleccionar la opción de emitir una tarjeta virtual, que estará lista al instante para que puedas usarla.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Gestión total con las tarjetas virtuales de MyMonty</h3></div><p>Con la cartera de emisión de MyMonty, gestionar tus finanzas es más fácil que nunca. Emite tarjetas virtuales directamente desde nuestra interfaz de usuario. Solo tienes que acceder a la sección de Tarjetas y seleccionar la opción de emitir una tarjeta virtual, que estará lista al instante para que puedas usarla.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Una vez emitida, podrás</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Ver los detalles de la tarjeta tras autenticarte y pulsar en “Ver detalles“.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Congelar la tarjeta.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Eliminar la tarjeta (solo si la congelas primero).</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Añadir la tarjeta a Apple o Google Pay.</h4></ul></div><div class='flex flex-col gap-4'><p>Si decides eliminar una tarjeta virtual, podrás solicitar una tarjeta nueva cuando lo necesites. Para que no se te pase la fecha de caducidad, recibirás una notificación push cuando la tarjeta esté a punto de caducar. Podrás renovarla fácilmente si navegas hasta la página de la tarjeta y haces clic en el botón de “Renovar“.</p><p>Disfruta de la comodidad y seguridad de las tarjetas virtuales de MyMonty que han sido pensadas para ofrecerte el control total de tus transacciones digitales.</p></div>",
 							"Icon": "virtual-cards",
-							"Image": "virtual-cards"
+							"Image": "virtual-cards",
+							"Seo": {
+								"Title": "",
+								"Description": "Experimenta compras en línea seguras con las Tarjetas Virtuales MyMonty. Disfruta de emisión instantánea, protección contra fraudes y pagos fluidos. ¡Consigue la tuya hoy!"
+							}
 						},
 						{
 							"Title": "Tarjetas físicas",
@@ -485,7 +493,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Emite y gestiona tus tarjetas físicas de forma sencilla</span>Para los usuarios de la cartera de emisión, solicitar tarjetas físicas es tan fácil como solicitar tarjetas virtuales. Accede a la pestaña “Tarjeta física“ dentro de la sección “Tarjetas“ (deberás haber completado primero el proceso KYC y deberás tener saldo suficiente), y luego pulsa en “Solicitar tarjeta“",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Emite y gestiona tus tarjetas físicas de forma sencilla</h3></div><p>Para los usuarios de la cartera de emisión, solicitar tarjetas físicas es tan fácil como solicitar tarjetas virtuales. Accede a la pestaña “Tarjeta física“ dentro de la sección “Tarjetas“ (deberás haber completado primero el proceso KYC y deberás tener saldo suficiente), y luego pulsa en “Solicitar tarjeta“. Introduce tus datos de entrega y configura tu PIN en unos sencillos pasos.</p><p>Podrás tener una tarjeta física y una virtual a la vez. Cuando se confirme tu solicitud, te enviaremos la tarjeta. Una vez recibida, actívala fácilmente desde la aplicación.</div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><p class='font-AoenikBold'>Con la tarjeta física activada, podrás:</div><ul class='flex flex-col gap-4'><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Consultar los detalles de la tarjeta y el PIN tras autenticarte.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Congelar o eliminar la tarjeta.</h4><li class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h4>Añadirla a Apple o Google Pay (si está habilitado).</h4></ul></div><div class='flex flex-col gap-4'><p>Si eliminas la tarjeta física, puedes volver a pedirla; las tarifas se deducirán automáticamente. La tarjeta se enviará a través del correo postal ordinario sin número de seguimiento. Al acercarse la fecha de caducidad, recibirás una notificación push y podrás renovar la tarjeta si repites el mismo proceso de solicitud. Se aplican tarifas de envío.</p></div>",
 							"Icon": "physical-cards",
-							"Image": "physical-cards"
+							"Image": "physical-cards",
+							"Seo": {
+								"Title": "",
+								"Description": "Obtén una Tarjeta Física MyMonty para transacciones seguras en todo el mundo. Compra, retira y gestiona tus gastos fácilmente. Descarga la app y pide la tuya hoy mismo."
+							}
 						}
 					]
 				},
@@ -499,7 +511,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Recibe transferencias bancarias de manera sencilla</span>Regístrate y obtén un IBAN único para recibir transferencias bancarias fácilmente. MyMonty admite transferencias SEPA en euros (Zona Única de Pagos en Euros) y transferencias entrantes BISERA en levas búlgaras, lo que garantiza que puedas disfrutar de una experiencia cómoda y segura.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recibe transferencias bancarias de manera sencilla</h3></div><p>Regístrate y obtén un IBAN único para recibir transferencias bancarias fácilmente. MyMonty admite transferencias SEPA en euros (Zona Única de Pagos en Euros) y transferencias entrantes BISERA en levas búlgaras, lo que garantiza que puedas disfrutar de una experiencia cómoda y segura.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Envía transferencias bancarias</h3></div><p>Haz transferencias bancarias a destinatarios que operen en la misma divisa de forma sencilla. Personaliza las comisiones de las transferencias IBAN en función del plan que hayas seleccionado. Guarda los datos del destinatario (nombre, IBAN y alias) para hacer transferencias más rápidamente en el futuro. MyMonty admite transferencias salientes SEPA en euros, BISERA en levas búlgaras y libras esterlinas a través de Faster Payments para conseguir transacciones más eficientes.</p></div>",
 							"Icon": "wire-transfers-sepa",
-							"Image": "wire-transfers-sepa-es"
+							"Image": "wire-transfers-sepa-es",
+							"Seo": {
+								"Title": "",
+								"Description": "Envía y recibe pagos internacionales de forma segura con las Transferencias SEPA de MyMonty. Rápidas, confiables y sin complicaciones. ¡Transfiere fondos con confianza!"
+							}
 						},
 						{
 							"Title": "Transferencias P2P",
@@ -507,7 +523,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Transferencias P2P instantáneas</span>Transfiere fondos al instante a otros usuarios de MyMonty. Si el destinatario no tiene cuenta, recibirá una invitación por SMS. Una vez registrado y completado el proceso de verificación KYC, la transferencia se procesará y se abonará en su cuenta.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Transferencias P2P instantáneas</h3></div><p>Transfiere fondos al instante a otros usuarios de MyMonty. Si el destinatario no tiene cuenta, recibirá una invitación por SMS. Una vez registrado y completado el proceso de verificación KYC, la transferencia se procesará y se abonará en su cuenta. Las transferencias P2P caducan a los tres días si no se completan.<br />También puedes realizar transferencias P2P entre MyMonty y otros colaboradores de Paynetics, como Phyre, A1 Wallet, Pay by Vivacom y BACB Pay.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Envía dinero al instante</h3></div><p>Envía dinero a familiares y amigos dentro de MyMonty de forma rápida y sencilla. Si el destinatario no está registrado, recibirá una invitación por SMS para registrarse en MyMonty. Las transferencias se completan de inmediato una vez que se ha completado el registro y el proceso de verificación KYC.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Recibe dinero cómodamente</h3></div><p>Empieza a recibir dinero con tu IBAN único al instante. MyMonty admite transferencias SEPA en euros y BISERA en levas búlgaras para que disfrutes de una experiencia cómoda y segura. Los fondos se abonan de manera instantánea en tu cuenta.</p></div><div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><img loading='lazy' alt='Box Empty' height=18 src=/images/icons/box-empty.svg width=18 /><h3>Solicita dinero fácilmente</h3></div><p>Pide dinero a cualquier contacto de tu aplicación MyMonty. Los usuarios que no estén registrados recibirán una invitación por SMS. Después de registrarse y completar el proceso de verificación KYC, podrán enviarte el importe solicitado al instante. Las solicitudes caducan a los tres días si no se completan.</p></div>",
 							"Icon": "peer-to-peer-transfers",
-							"Image": "peer-to-peer-transfers-es"
+							"Image": "peer-to-peer-transfers-es",
+							"Seo": {
+								"Title": "",
+								"Description": "Envía y recibe dinero al instante con las transferencias entre pares (P2P) seguras de MyMonty. Transacciones rápidas y fluidas en cualquier momento. ¡Empieza ahora!"
+							}
 						}
 					]
 				},
@@ -521,7 +541,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Pagos simplificados desde dispositivos móviles</span>Disfruta de transacciones sin complicaciones con MyMonty a través de Google Pay. Paga de manera segura y cómoda en tiendas, en Internet y desde cualquier lugar.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Pagos simplificados desde dispositivos móviles</h3></div><p>Disfruta de transacciones sin complicaciones con MyMonty a través de Google Pay. Paga de manera segura y cómoda en tiendas, en Internet y desde cualquier lugar.</p></div>",
 							"Icon": "google-pay",
-							"Image": "google-pay"
+							"Image": "google-pay",
+							"Seo": {
+								"Title": "",
+								"Description": "Agrega MyMonty a Google Pay para realizar transacciones sin contacto de forma fluida. Compra con seguridad en línea y en tiendas con solo un toque. ¡Configura tu monedero ahora!"
+							}
 						},
 						{
 							"Title": "Pagos P2P con código QR",
@@ -529,7 +553,11 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Haz transacciones instantáneas: solo escanea y paga</span>Aprovecha el poder de los pagos con QR para transacciones rápidas y sencillas entre usuarios. Solo tienes que escanear, introducir el importe y autorizar la transacción en segundos.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Haz transacciones instantáneas: solo escanea y paga</h3></div><p>Aprovecha el poder de los pagos con QR para transacciones rápidas y sencillas entre usuarios. Solo tienes que escanear, introducir el importe y autorizar la transacción en segundos.</p></div>",
 							"Icon": "qr-p2p-payments",
-							"Image": "qr-p2p-payments"
+							"Image": "qr-p2p-payments",
+							"Seo": {
+								"Title": "",
+								"Description": "Escanea, paga y transfiere al instante con los pagos QR P2P de MyMonty. Transacciones seguras, rápidas y sin esfuerzo al alcance de tu mano. ¡Pruébalo hoy!"
+							}
 						},
 						{
 							"Title": "Enlace de pago",
@@ -537,18 +565,22 @@
 							"Excerpt": "<span class='block font-AeonikMedium mb-2'>Transacciones rápidas y a tu alcance</span>Solicita o recibe pagos con la función de enlace de pago de MyMonty. Comparte enlaces de pago personalizados para realizar transacciones cómodas en cualquier momento y lugar.",
 							"Description": "<div class='flex flex-col gap-4'><div class='flex gap-2 items-baseline'><h3>Transacciones rápidas y a tu alcance</h3></div><p>Solicita o recibe pagos con la función de enlace de pago de MyMonty. Comparte enlaces de pago personalizados para realizar transacciones cómodas en cualquier momento y lugar.</p></div>",
 							"Icon": "payment-link",
-							"Image": "payment-link"
+							"Image": "payment-link",
+							"Seo": {
+								"Title": "",
+								"Description": "Acepta pagos fácilmente con los Enlaces de Pago de MyMonty. Genera, comparte y cobra al instante, sin configuraciones complicadas. ¡Comienza a recibir pagos ahora!"
+							}
 						}
 					]
 				}
 			],
 			"Seo": {
 				"Title": "Características",
-				"Description": "Lee más sobre las tarjetas virtuales de MyMonty para gestionar tus finanzas sin esfuerzo. Disfruta de nuestras funciones destacadas y marca la diferencia.",
+				"Description": "Explora las principales funciones de MyMonty, desde cuentas digitales hasta pagos instantáneos. Descubre una experiencia bancaria fluida diseñada para ti.",
 				"Og Title": "Características",
-				"Og Description": "Lee más sobre las tarjetas virtuales de MyMonty para gestionar tus finanzas sin esfuerzo. Disfruta de nuestras funciones destacadas y marca la diferencia.",
+				"Og Description": "Explora las principales funciones de MyMonty, desde cuentas digitales hasta pagos instantáneos. Descubre una experiencia bancaria fluida diseñada para ti.",
 				"Twitter Title": "Características",
-				"Twitter Description": "Lee más sobre las tarjetas virtuales de MyMonty para gestionar tus finanzas sin esfuerzo. Disfruta de nuestras funciones destacadas y marca la diferencia."
+				"Twitter Description": "Explora las principales funciones de MyMonty, desde cuentas digitales hasta pagos instantáneos. Descubre una experiencia bancaria fluida diseñada para ti."
 			}
 		},
 		"Frequently Asked Questions": {
@@ -791,11 +823,11 @@
 			},
 			"Seo": {
 				"Title": "Preguntas Frecuentes",
-				"Description": "Descubre todas las preguntas frecuentes sobre MyMonty en diversos temas. Visita nuestro sitio web para obtener más información.",
+				"Description": "¿Tienes preguntas? Encuentra respuestas en nuestras Preguntas Frecuentes. Aprende sobre los servicios, la seguridad y las funciones de MyMonty. ¡Obtén la información que necesitas fácil y rápidamente!",
 				"Og Title": "Preguntas Frecuentes",
-				"Og Description": "Descubre todas las preguntas frecuentes sobre MyMonty en diversos temas. Visita nuestro sitio web para obtener más información.",
+				"Og Description": "¿Tienes preguntas? Encuentra respuestas en nuestras Preguntas Frecuentes. Aprende sobre los servicios, la seguridad y las funciones de MyMonty. ¡Obtén la información que necesitas fácil y rápidamente!",
 				"Twitter Title": "Preguntas Frecuentes",
-				"Twitter Description": "Descubre todas las preguntas frecuentes sobre MyMonty en diversos temas. Visita nuestro sitio web para obtener más información."
+				"Twitter Description": "¿Tienes preguntas? Encuentra respuestas en nuestras Preguntas Frecuentes. Aprende sobre los servicios, la seguridad y las funciones de MyMonty. ¡Obtén la información que necesitas fácil y rápidamente!"
 			}
 		},
 		"Contact Us": {
@@ -815,11 +847,11 @@
 			},
 			"Seo": {
 				"Title": "Contáctanos si tienes preguntas",
-				"Description": "Nuestro equipo está siempre listo para ayudarte o responder a tus consultas.",
+				"Description": "¿Necesitas ayuda? Contacta a MyMonty para consultas, soporte o comentarios. Nuestro equipo está listo para ayudarte con un servicio al cliente rápido y confiable.",
 				"Og Title": "Contáctanos si tienes preguntas",
-				"Og Description": "Nuestro equipo está siempre listo para ayudarte o responder a tus consultas.",
+				"Og Description": "¿Necesitas ayuda? Contacta a MyMonty para consultas, soporte o comentarios. Nuestro equipo está listo para ayudarte con un servicio al cliente rápido y confiable.",
 				"Twitter Title": "Contáctanos si tienes preguntas",
-				"Twitter Description": "Nuestro equipo está siempre listo para ayudarte o responder a tus consultas."
+				"Twitter Description": "¿Necesitas ayuda? Contacta a MyMonty para consultas, soporte o comentarios. Nuestro equipo está listo para ayudarte con un servicio al cliente rápido y confiable."
 			}
 		},
 		"Code Of Conduct": {
@@ -879,12 +911,12 @@
 				]
 			},
 			"Seo": {
-				"Title": "Code Of Conduct",
-				"Description": "",
-				"Og Title": "Code Of Conduct",
-				"Og Description": "",
-				"Twitter Title": "Code Of Conduct",
-				"Twitter Description": ""
+				"Title": "Código de conducta",
+				"Description": "Aprende más sobre el código de conducta en MyMonty y cómo estamos comprometidos con revolucionar el enfoque global del dinero y mejorar la experiencia de todos.",
+				"Og Title": "Código de conducta",
+				"Og Description": "Aprende más sobre el código de conducta en MyMonty y cómo estamos comprometidos con revolucionar el enfoque global del dinero y mejorar la experiencia de todos.",
+				"Twitter Title": "Código de conducta",
+				"Twitter Description": "Aprende más sobre el código de conducta en MyMonty y cómo estamos comprometidos con revolucionar el enfoque global del dinero y mejorar la experiencia de todos."
 			}
 		},
 		"Careers": {
@@ -911,11 +943,11 @@
 			},
 			"Seo": {
 				"Title": "Únete a nuestro equipo de ensueño - ¡Postúlate hoy!",
-				"Description": "Explora las vacantes actuales de MyMonty en LinkedIn y postúlate hoy para tener la oportunidad de unirte a nuestro equipo de ensueño y llevar tu carrera al siguiente nivel.",
+				"Description": "ExpExplora oportunidades de carrera en MyMonty y forma parte del futuro de la banca digital. Únete a un equipo dinámico y haz crecer tu carrera con nosotros. ¡Aplica hoy!",
 				"Og Title": "Únete a nuestro equipo de ensueño - ¡Postúlate hoy!",
-				"Og Description": "Explora las vacantes actuales de MyMonty en LinkedIn y postúlate hoy para tener la oportunidad de unirte a nuestro equipo de ensueño y llevar tu carrera al siguiente nivel.",
+				"Og Description": "ExpExplora oportunidades de carrera en MyMonty y forma parte del futuro de la banca digital. Únete a un equipo dinámico y haz crecer tu carrera con nosotros. ¡Aplica hoy!",
 				"Twitter Title": "Únete a nuestro equipo de ensueño - ¡Postúlate hoy!",
-				"Twitter Description": "Explora las vacantes actuales de MyMonty en LinkedIn y postúlate hoy para tener la oportunidad de unirte a nuestro equipo de ensueño y llevar tu carrera al siguiente nivel."
+				"Twitter Description": "ExpExplora oportunidades de carrera en MyMonty y forma parte del futuro de la banca digital. Únete a un equipo dinámico y haz crecer tu carrera con nosotros. ¡Aplica hoy!"
 			}
 		},
 		"Board Of Directors": {
@@ -962,11 +994,11 @@
 			},
 			"Seo": {
 				"Title": "Conoce a nuestro consejo de administración",
-				"Description": "Conoce a nuestro equipo de liderazgo y al consejo de administración que impulsa a MyMonty hacia la innovación fintech, y descubre las mentes detrás de esta revolución.",
+				"Description": "Conoce al equipo de liderazgo de MyMonty que impulsa la innovación en fintech. Conoce a nuestra junta directiva y su compromiso con la transformación de la banca digital.",
 				"Og Title": "Conoce a nuestro consejo de administración",
-				"Og Description": "Conoce a nuestro equipo de liderazgo y al consejo de administración que impulsa a MyMonty hacia la innovación fintech, y descubre las mentes detrás de esta revolución.",
+				"Og Description": "Conoce al equipo de liderazgo de MyMonty que impulsa la innovación en fintech. Conoce a nuestra junta directiva y su compromiso con la transformación de la banca digital.",
 				"Twitter Title": "Conoce a nuestro consejo de administración",
-				"Twitter Description": "Conoce a nuestro equipo de liderazgo y al consejo de administración que impulsa a MyMonty hacia la innovación fintech, y descubre las mentes detrás de esta revolución."
+				"Twitter Description": "Conoce al equipo de liderazgo de MyMonty que impulsa la innovación en fintech. Conoce a nuestra junta directiva y su compromiso con la transformación de la banca digital."
 			}
 		},
 		"Blogs": {
@@ -978,11 +1010,11 @@
 			},
 			"Seo": {
 				"Title": "Blogs - Últimas actualizaciones y ofertas",
-				"Description": "Explora el blog de MyMonty para conocer las últimas ideas y tendencias en fintech. Mantente informado e inspirado con nuestros artículos de expertos. ¡Lee nuestros blogs ahora!",
+				"Description": "Explora los blogs de MontyPay para conocer las últimas novedades y ofertas. Obtén información experta sobre fintech, banca digital y consejos financieros. ¡Lee más!",
 				"Og Title": "Blogs - Últimas actualizaciones y ofertas",
-				"Og Description": "Explora el blog de MyMonty para conocer las últimas ideas y tendencias en fintech. Mantente informado e inspirado con nuestros artículos de expertos. ¡Lee nuestros blogs ahora!",
+				"Og Description": "Explora los blogs de MontyPay para conocer las últimas novedades y ofertas. Obtén información experta sobre fintech, banca digital y consejos financieros. ¡Lee más!",
 				"Twitter Title": "Blogs - Últimas actualizaciones y ofertas",
-				"Twitter Description": "Explora el blog de MyMonty para conocer las últimas ideas y tendencias en fintech. Mantente informado e inspirado con nuestros artículos de expertos. ¡Lee nuestros blogs ahora!"
+				"Twitter Description": "Explora los blogs de MontyPay para conocer las últimas novedades y ofertas. Obtén información experta sobre fintech, banca digital y consejos financieros. ¡Lee más!"
 			}
 		},
 		"Terms And Conditions": {
@@ -994,11 +1026,11 @@
 			},
 			"Seo": {
 				"Title": "Términos y Condiciones",
-				"Description": "Comprende los términos y condiciones de MyMonty para tener una visión clara de nuestros servicios. Mantente informado sobre tus derechos y obligaciones. ¡Lee aquí!",
+				"Description": "Consulta los Términos y Condiciones de MyMonty para comprender nuestras políticas, servicios y derechos del usuario. Mantente informado y realiza operaciones bancarias con confianza.",
 				"Og Title": "Términos y Condiciones",
-				"Og Description": "Comprende los términos y condiciones de MyMonty para tener una visión clara de nuestros servicios. Mantente informado sobre tus derechos y obligaciones. ¡Lee aquí!",
+				"Og Description": "Consulta los Términos y Condiciones de MyMonty para comprender nuestras políticas, servicios y derechos del usuario. Mantente informado y realiza operaciones bancarias con confianza.",
 				"Twitter Title": "Términos y Condiciones",
-				"Twitter Description": "Comprende los términos y condiciones de MyMonty para tener una visión clara de nuestros servicios. Mantente informado sobre tus derechos y obligaciones. ¡Lee aquí!"
+				"Twitter Description": "Consulta los Términos y Condiciones de MyMonty para comprender nuestras políticas, servicios y derechos del usuario. Mantente informado y realiza operaciones bancarias con confianza."
 			}
 		},
 		"Privacy Policy": {
@@ -1010,11 +1042,11 @@
 			},
 			"Seo": {
 				"Title": "Política de Privacidad y Protección de Datos",
-				"Description": "Revisa la política de privacidad de MyMonty y entiende cómo protegemos tus datos y mantenemos la confidencialidad de tu información personal.",
+				"Description": "Revisa la política de privacidad de MyMonty y comprende cómo protegemos tus datos y mantenemos la confidencialidad de tu información personal.",
 				"Og Title": "Política de Privacidad y Protección de Datos",
-				"Og Description": "Revisa la política de privacidad de MyMonty y entiende cómo protegemos tus datos y mantenemos la confidencialidad de tu información personal.",
+				"Og Description": "Revisa la política de privacidad de MyMonty y comprende cómo protegemos tus datos y mantenemos la confidencialidad de tu información personal.",
 				"Twitter Title": "Política de Privacidad y Protección de Datos",
-				"Twitter Description": "Revisa la política de privacidad de MyMonty y entiende cómo protegemos tus datos y mantenemos la confidencialidad de tu información personal."
+				"Twitter Description": "Revisa la política de privacidad de MyMonty y comprende cómo protegemos tus datos y mantenemos la confidencialidad de tu información personal."
 			}
 		},
 		"Cookie Policy": {
@@ -1026,11 +1058,11 @@
 			},
 			"Seo": {
 				"Title": "Política de Cookies - Tipos y Uso",
-				"Description": "Obtén más información sobre la política de cookies de MyMonty, sus tipos y cómo garantizamos la privacidad de tus datos personales. Mantente informado sobre tu seguridad en línea.",
+				"Description": "Descubre cómo MyMonty utiliza cookies para mejorar tu experiencia. Lee nuestra Política de Cookies para conocer detalles sobre el uso de datos, preferencias y seguridad.",
 				"Og Title": "Política de Cookies - Tipos y Uso",
-				"Og Description": "Obtén más información sobre la política de cookies de MyMonty, sus tipos y cómo garantizamos la privacidad de tus datos personales. Mantente informado sobre tu seguridad en línea.",
+				"Og Description": "Descubre cómo MyMonty utiliza cookies para mejorar tu experiencia. Lee nuestra Política de Cookies para conocer detalles sobre el uso de datos, preferencias y seguridad.",
 				"Twitter Title": "Política de Cookies - Tipos y Uso",
-				"Twitter Description": "Obtén más información sobre la política de cookies de MyMonty, sus tipos y cómo garantizamos la privacidad de tus datos personales. Mantente informado sobre tu seguridad en línea."
+				"Twitter Description": "Descubre cómo MyMonty utiliza cookies para mejorar tu experiencia. Lee nuestra Política de Cookies para conocer detalles sobre el uso de datos, preferencias y seguridad."
 			}
 		},
 		"Paynetics Terms And Conditions": {
@@ -1042,11 +1074,11 @@
 			},
 			"Seo": {
 				"Title": "Términos y condiciones de Paynetics",
-				"Description": "",
+				"Description": "Lee los Términos y Condiciones de Paynetics para conocer detalles importantes sobre políticas, servicios financieros y cumplimiento. Mantente informado antes de realizar transacciones.",
 				"Og Title": "Términos y condiciones de Paynetics",
-				"Og Description": "",
+				"Og Description": "Lee los Términos y Condiciones de Paynetics para conocer detalles importantes sobre políticas, servicios financieros y cumplimiento. Mantente informado antes de realizar transacciones.",
 				"Twitter Title": "Términos y condiciones de Paynetics",
-				"Twitter Description": ""
+				"Twitter Description": "Lee los Términos y Condiciones de Paynetics para conocer detalles importantes sobre políticas, servicios financieros y cumplimiento. Mantente informado antes de realizar transacciones."
 			}
 		},
 		"Paynetics Privacy Policy": {
@@ -1058,11 +1090,11 @@
 			},
 			"Seo": {
 				"Title": "Política de privacidad de Paynetics",
-				"Description": "",
+				"Description": "Conoce cómo MyMonty y Paynetics protegen tus datos financieros. Lee nuestra Política de Privacidad para conocer más sobre seguridad de datos, cumplimiento y transparencia.",
 				"Og Title": "Política de privacidad de Paynetics",
-				"Og Description": "",
+				"Og Description": "Conoce cómo MyMonty y Paynetics protegen tus datos financieros. Lee nuestra Política de Privacidad para conocer más sobre seguridad de datos, cumplimiento y transparencia.",
 				"Twitter Title": "Política de privacidad de Paynetics",
-				"Twitter Description": ""
+				"Twitter Description": "Conoce cómo MyMonty y Paynetics protegen tus datos financieros. Lee nuestra Política de Privacidad para conocer más sobre seguridad de datos, cumplimiento y transparencia."
 			}
 		},
 		"Error": {

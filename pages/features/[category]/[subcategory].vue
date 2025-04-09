@@ -46,13 +46,13 @@
                     currentCategory.value = feature.value ? allFeatures.find(category => category.featuresItems.some(item => item.path === feature.value.path))?.category : null;
 
                     useSeoMeta({
-                        title: feature.value.title,
-                        description: feature.value.excerpt || 'Features',
-                        ogTitle: feature.value.title,
-                        ogDescription: feature.value.excerpt || 'Features',
+                        title: feature.value.seo_title || feature.value.title,
+                        description: feature.value.seo_description,
+                        ogTitle: feature.value.seo_title || feature.value.title,
+                        ogDescription: feature.value.seo_description,
                         ogImage: `/images/${feature.value.image}.webp`,
-                        twitterTitle: feature.value.title,
-                        twitterDescription: feature.value.excerpt || 'Features',
+                        twitterTitle: feature.value.seo_title || feature.value.title,
+                        twitterDescription: feature.value.seo_description,
                         twitterCard: 'summary_large_image',
                     });
                 } 
