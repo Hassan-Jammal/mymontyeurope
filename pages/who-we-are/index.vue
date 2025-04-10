@@ -118,7 +118,7 @@
 </template>
 
 <script setup>
-	const { t } = useLocale(); 
+	const { t, currentLanguage } = useLocale(); 
 
     useSeoMeta({
         title: t('Pages.Who We Are.Seo.Title'),

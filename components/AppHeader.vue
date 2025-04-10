@@ -41,7 +41,7 @@
                 <nav class="hidden lg:block">
                     <!--  44px to match the height of the other 2 dropdown -->
                     <ul class="flex items-center gap-1 text-black h-[44px]">
-                        <li v-for="(item, index) in menuItems" :key="index" class="relative flex justify-center items-center text-black cursor-pointer group h-full hover:bg-[#ECECEE] rounded-full transition-all duration-300 ease-in-out">
+                        <li v-for="(item, index) in menuItems" :key="index" :class="['group relative', { 'pointer-events-none': disableHover }]" class="relative flex justify-center items-center text-black cursor-pointer h-full hover:bg-[#ECECEE] rounded-full transition-all duration-300 ease-in-out">
                             <div class="flex justify-between items-center gap-2">
                                 <!-- Link if clickable -->
                                 <template v-if="item.clickable">
@@ -305,4 +305,15 @@
         window.addEventListener('scroll', handleScroll);
         checkScrollPosition();
     });
+
+    const disableHover = ref(false)
+    const route = useRoute()
+
+    watch(route, () => {
+        disableHover.value = true
+        // Re-enable hover after short delay
+        setTimeout(() => {
+            disableHover.value = false
+        }, 600) // enough to avoid re-hover edge cases
+    })
 </script>

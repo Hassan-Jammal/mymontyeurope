@@ -428,9 +428,9 @@
 		"News": {
 			"Banner": {
 				"Sub Title": "Noticias",
-				"Title": "¿Qué está pasando en MyMonty?",
-				"Description": "¡Descubre las últimas novedades y ofertas en nuestros blogs!",
-				"Image Alt": "¿Qué está pasando en MyMonty?"
+				"Title": "Explora nuestras noticias para conocer las últimas actualizaciones y tendencias.",
+				"Description": "Explora nuestras noticias para conocer las últimas actualizaciones y tendencias.",
+				"Image Alt": "Explora nuestras noticias para conocer las últimas actualizaciones y tendencias."
 			},
 			"Seo": {
 				"Title": "Últimas Noticias y Tendencias",
@@ -1004,9 +1004,9 @@
 		"Blogs": {
 			"Banner": {
 				"Sub Title": "Blogs",
-				"Title": "¿Qué está pasando en MyMonty?",
-				"Description": "¡Descubre las últimas novedades y ofertas en nuestros blogs!",
-				"Image Alt": "¿Qué está pasando en MyMonty?"
+				"Title": "Explora nuestros blogs para conocer las últimas actualizaciones y tendencias.",
+				"Description": "Explora nuestros blogs para conocer las últimas actualizaciones y tendencias.",
+				"Image Alt": "Explora nuestros blogs para conocer las últimas actualizaciones y tendencias."
 			},
 			"Seo": {
 				"Title": "Blogs - Últimas actualizaciones y ofertas",
