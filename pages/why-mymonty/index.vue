@@ -63,7 +63,7 @@
 
     useSeoMeta({
         title: t('Pages.Why MyMonty.Seo.Title'),
-        description: '',
+        description: t('Pages.Why MyMonty.Seo.Description'),
 
         ogTitle: t('Pages.Why MyMonty.Seo.Og Title'),
         ogDescription: t('Pages.Why MyMonty.Seo.Og Description'),
