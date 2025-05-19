@@ -27,7 +27,7 @@ export default defineEventHandler(async (event) => {
             };
         }
 
-        return { ip:ip, country: 'LB', continent_code: 'AS' }; // Default to Lebanon if detection fails
+        return { ip: ip, country: 'LB', continent_code: 'AS' }; // Default to Lebanon if detection fails
     } catch (error) {
         // console.error('Error accessing GeoLite2 database:', error);
         return {country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
