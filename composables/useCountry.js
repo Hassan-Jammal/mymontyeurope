@@ -43,7 +43,7 @@ export const useCountry = () => { // (manualSelection)
             }
 
             // Redirect non-EU users ONLY if the URL is exactly the base URL
-            if (data && data.continent_code !== 'EU' && currentUrl === baseUrl) {
+            if (data && data.continent_code != 'EU' && currentUrl === baseUrl) {
                 window.location.href = 'https://mymonty.com.lb';
                 return;
             }
