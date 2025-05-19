@@ -44,7 +44,7 @@ export const useCountry = () => { // (manualSelection)
                 return;
             }
             
-            if (data && data.country) {
+            if (data && data.country && data.ip) {
                 console.log(data.ip)
                 const detectedCountry = countriesData.find(country => country.iso2 === data.country);
                 
