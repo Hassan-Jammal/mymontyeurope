@@ -24,8 +24,8 @@ export default defineEventHandler(async (event) => {
             return { 
                 ip: ip,
                 country: geoData.country.iso_code,
-                continent_code: geoData.continent.code
-
+                continent_code: geoData.continent.code,
+                flag: 'MAAOUL?'
             };
         }
 
