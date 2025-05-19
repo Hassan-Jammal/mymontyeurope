@@ -22,6 +22,7 @@ export default defineEventHandler(async (event) => {
 
         if (geoData && geoData.country) {
             return { 
+                ip: ip,
                 country: geoData.country.iso_code,
                 continent_code: geoData.continent.code
             };
