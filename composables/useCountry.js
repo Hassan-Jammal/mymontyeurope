@@ -43,9 +43,8 @@ export const useCountry = () => { // (manualSelection)
                 window.location.href = 'https://mymonty.com.lb';
                 return;
             }
-            
-            if (data && data.country && data.ip) {
-                console.log(data.ip)
+            console.log(data)
+            if (data && data.country) {
                 const detectedCountry = countriesData.find(country => country.iso2 === data.country);
                 
                 if (detectedCountry) {
