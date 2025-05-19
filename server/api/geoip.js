@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
     const testIp5 = '178.238.11.6'; // Replace with an IP you want to test (United Kingdom)
     
     const ip = process.env.NODE_ENV === 'development' ? testIp : getRequestHeader(event, 'x-forwarded-for') || event.node.req.connection.remoteAddress || '127.0.0.1';
-console.log(ip)
+
     // const forwarded = getRequestHeader(event, 'x-forwarded-for');
     // const ip = forwarded ? forwarded.split(',')[0].trim() : event.node.req.socket.remoteAddress || '127.0.0.1'; // Fallback to localhost
 
@@ -27,9 +27,9 @@ console.log(ip)
             };
         }
 
-        return { country: 'LB', continent_code: 'AS' }; // Default to Lebanon if detection fails
+        return { ip:ip, country: 'LB', continent_code: 'AS' }; // Default to Lebanon if detection fails
     } catch (error) {
         // console.error('Error accessing GeoLite2 database:', error);
-        return { country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
+        return {country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
     }
 });

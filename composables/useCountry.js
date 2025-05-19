@@ -37,7 +37,7 @@ export const useCountry = () => { // (manualSelection)
 
             const currentUrl = window.location.href;  // Get full URL
 		    const baseUrl = 'https://mymonty.com/';   // Base URL without locale
-
+console.log(data.ip)
             // Redirect non-EU users ONLY if the URL is exactly the base URL
             if (data && data.continent_code !== 'EU' && currentUrl === baseUrl) {
                 window.location.href = 'https://mymonty.com.lb';
