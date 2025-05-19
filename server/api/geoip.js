@@ -8,7 +8,7 @@ export default defineEventHandler(async (event) => {
     const testIp3 = '101.56.0.1'; // Replace with an IP you want to test (Italy)
     const testIp4 = '109.120.192.1'; // Replace with an IP you want to test (Bulgaria)
     const testIp5 = '178.238.11.6'; // Replace with an IP you want to test (United Kingdom)
-    const testIp6 = '185.93.180.131'; // Replace with an IP you want to test (Frankfurt, Germany)
+    const testIp6 = '87.201.187.90'; // Replace with an IP you want to test (Frankfurt, Germany)
 
     // const ip = process.env.NODE_ENV === 'development' ? testIp : getRequestHeader(event, 'x-forwarded-for') || event.node.req.connection.remoteAddress || '127.0.0.1';
     const ip = process.env.NODE_ENV === 'development' ? testIp : getRequestHeader(event, 'x-forwarded-for')?.split(',')[0].trim() || event.node.req.socket.remoteAddress || '127.0.0.1';
@@ -22,7 +22,7 @@ export default defineEventHandler(async (event) => {
 
     try {
         const lookup = await maxmind.open(geoDbPath);
-        const geoData = lookup.get(testIp6);
+        const geoData = lookup.get(ip);
 
         if (geoData && geoData.country) {
             return { 

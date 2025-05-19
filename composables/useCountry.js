@@ -35,7 +35,7 @@ export const useCountry = () => { // (manualSelection)
             const response = await fetch('/api/geoip');
             const data = await response.json();
 
-            const currentUrl = window.location.href;  // Get full URL
+            const currentUrl = window.location.href + '/';  // Get full URL
 		    const baseUrl = 'https://mymonty.com/';   // Base URL without locale
 
             // Redirect non-EU users ONLY if the URL is exactly the base URL
@@ -43,7 +43,9 @@ export const useCountry = () => { // (manualSelection)
                 window.location.href = 'https://mymonty.com.lb';
                 return;
             }
+
             console.log(data)
+
             if (data && data.country) {
                 const detectedCountry = countriesData.find(country => country.iso2 === data.country);
                 
