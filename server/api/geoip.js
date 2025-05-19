@@ -9,29 +9,32 @@ export default defineEventHandler(async (event) => {
     const testIp4 = '109.120.192.1'; // Replace with an IP you want to test (Bulgaria)
     const testIp5 = '178.238.11.6'; // Replace with an IP you want to test (United Kingdom)
     
-    const ip = process.env.NODE_ENV === 'development' ? testIp : getRequestHeader(event, 'x-forwarded-for') || event.node.req.connection.remoteAddress || '127.0.0.1';
-
+    // const ip = process.env.NODE_ENV === 'development' ? testIp : getRequestHeader(event, 'x-forwarded-for') || event.node.req.connection.remoteAddress || '127.0.0.1';
+    const ip = process.env.NODE_ENV === 'development' ? testIp : getRequestHeader(event, 'x-forwarded-for')?.split(',')[0].trim() || event.node.req.socket.remoteAddress || '127.0.0.1';
     // const forwarded = getRequestHeader(event, 'x-forwarded-for');
     // const ip = forwarded ? forwarded.split(',')[0].trim() : event.node.req.socket.remoteAddress || '127.0.0.1'; // Fallback to localhost
+
+    // Clean IPv6 localhost
+    const cleanedIp = ip === '::1' ? '127.0.0.1' : ip;
 
     const geoDbPath = path.resolve('server/geoip/GeoLite2-Country1.mmdb');
 
     try {
         const lookup = await maxmind.open(geoDbPath);
-        const geoData = lookup.get(ip);
+        const geoData = lookup.get(cleanedIp);
 
         if (geoData && geoData.country) {
             return { 
-                ip: ip,
+                ip: cleanedIp,
                 country: geoData.country.iso_code,
                 continent_code: geoData.continent.code,
-                flag: 'MAAOUL?'
+                flag: 'DETECTED'
             };
         }
 
-        return { ip: ip, country: 'LB', continent_code: 'AS', flag: 'NOT DETECTED' }; // Default to Lebanon if detection fails
+        return { ip: cleanedIp, country: 'LB', continent_code: 'AS', flag: 'NOT DETECTED' }; // Default to Lebanon if detection fails
     } catch (error) {
         console.error('Error accessing GeoLite2 database:', error);
-        return { error: error, ip: ip, country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
+        return { error: error, cleanedIp: cleanedIp, country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
     }
 });
