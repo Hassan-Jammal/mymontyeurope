@@ -14,7 +14,7 @@ export default defineEventHandler(async (event) => {
     // const forwarded = getRequestHeader(event, 'x-forwarded-for');
     // const ip = forwarded ? forwarded.split(',')[0].trim() : event.node.req.socket.remoteAddress || '127.0.0.1'; // Fallback to localhost
 
-    const geoDbPath = path.resolve('server/geoip/GeoLite2-Country.mmdb');
+    const geoDbPath = path.resolve('server/geoip/GeoLite2-Country1.mmdb');
 
     try {
         const lookup = await maxmind.open(geoDbPath);
