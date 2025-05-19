@@ -26,15 +26,22 @@ export default defineEventHandler(async (event) => {
 
         if (geoData && geoData.country) {
             return { 
-                ip: cleanedIp,
+                // ip: cleanedIp,
                 country: geoData.country.iso_code,
                 continent_code: geoData.continent.code,
             };
         }
 
-        return { ip: cleanedIp, country: 'LB', continent_code: 'AS'}; // Default to Lebanon if detection fails
+        return { 
+            // ip: cleanedIp, 
+            country: 'LB', 
+            continent_code: 'AS'
+        }; // Default to Lebanon if detection fails
     } catch (error) {
-        console.error('Error accessing GeoLite2 database:', error);
-        return { country: 'LB', continent_code: 'AS' }; // Default to Lebanon in case of error
+        // console.error('Error accessing GeoLite2 database:', error);
+        return { 
+            country: 'LB', 
+            continent_code: 'AS' 
+        }; // Default to Lebanon in case of error
     }
 });
