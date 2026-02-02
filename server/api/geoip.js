@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
     // Clean IPv6 localhost
     const cleanedIp = ip === '::1' ? '127.0.0.1' : ip;
 
-    const geoDbPath = path.resolve('server/geoip/GeoLite2-Country-new.mmdb');
+    const geoDbPath = path.resolve('server/geoip/GeoLite2-Country.mmdb');
 
     try {
         const lookup = await maxmind.open(geoDbPath);
